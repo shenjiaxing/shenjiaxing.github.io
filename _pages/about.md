@@ -54,8 +54,10 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 - *2020*, **Best Paper Award** of _IEEE International Conference on Computer Communications (INFOCOM)_.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2010 - 2014*, B.E., Software Engineering, Jilin University, China 
+- *2014 - 2019*, Ph.D., Computer Science, The Hong Kong Polytechnic University, Hong Kong
+- *2017 - 2018*, visiting Ph.D., Media Lab, Massachusetts Institute of Technology
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
