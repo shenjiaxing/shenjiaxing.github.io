@@ -36,10 +36,10 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 # 📝 Publications 
 
 <div class="bibtex_template">
-    <!-- <span class="year"></span>,  -->
+    <span class="year"></span>, 
     <span class="author"></span>
-    <!-- <span class="title" style="color:red;"></span> -->
-    <span class="journal"></span>
+    <span class="title" style="color:red;"></span>
+    <span class="journal" style="font-style: italic;"></span>
 </div>
 <div id="bibtex_display"></div>
 
