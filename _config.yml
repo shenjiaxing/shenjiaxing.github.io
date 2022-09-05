@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiaxing Shen"
-description              : "Jiaxing Shen's homepage"
+description              : # "Jiaxing Shen's homepage"
 repository               : "shenjiaxing.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiaxing Shen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Lingnan University"
+  location         : "Tuen mun, HK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=amJMlVoAAAAJ"
+  email            : "jiaxingshen@LN.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
