@@ -1,24 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<html>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
-<!-- Or include minified version -->
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
+  <meta charset="UTF-8">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en">
 
-<bibtex src="./pub_journal.bib"></bibtex>
+  <link rel="icon" href="data:;base64,iVBORw0KGgo=">
 
-<textarea id="bibtex_input" style="display:none;">
-@article{book1,
-  author = "Jiannong",
-}
-</textarea>
+  <!-- base can be used to keep asset paths relative to here -->
+  <base href="../../dist/">
+
+  <!-- <script src="latex.js"></script> -->
+  <!-- <script src="node_modules/latex.js/dist/latex.js"></script> -->
+  <script src="https://cdn.jsdelivr.net/npm/latex.js/dist/latex.js"></script>
+
+  <title>LaTeX.js Browser Test</title>
+</head>
+
+<body>
+  <h1>Compiling LaTeX</h1>
 
 
-<head></head>
+  <script>
+    var text = "\textbf{dsa} $\dag$"
 
-<body>hi
+    var generator = new latexjs.HtmlGenerator({ hyphenate: false })
 
-<div id="bibtex_display"></div>
+    generator = latexjs.parse(text, { generator: generator })
 
+    document.head.appendChild(generator.stylesAndScripts("https://cdn.jsdelivr.net/npm/latex.js@0.12.4/dist/"))
+    // document.head.appendChild(generator.stylesAndScripts(""))
+    document.body.appendChild(generator.domFragment())
+  </script>
 </body>
 
 </html>

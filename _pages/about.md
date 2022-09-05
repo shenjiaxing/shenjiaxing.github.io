@@ -39,7 +39,7 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
     <!-- <span class="year"></span>,  -->
     <span class="author"></span>
     <!-- <span class="title" style="color:red;"></span> -->
-    <span class="if BIBTEXTYPEKEY==proceedings">Article</span>
+    <span class="journal"></span>
 </div>
 <div id="bibtex_display"></div>
 
