@@ -1,5 +1,7 @@
 <meta charset="utf-8">
 
+
+
 {% include seo.html %}
 
 <meta name="HandheldFriendly" content="True">
@@ -9,6 +11,23 @@
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
+<!-- Or include minified version -->
+<!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script> -->
+<bibtex src="./pub_journal.bib"></bibtex>
+<bibtex src="./pub_conference.bib"></bibtex>
+
+<textarea id="bibtex_input" style="display:none;">
+</textarea>
+
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="assets/css/main.css">

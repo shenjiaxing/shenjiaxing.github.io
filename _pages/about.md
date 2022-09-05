@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor at the Department of Computing and Decision Sciences, Lingnan University. Previously, I was with the Department of Computing, The Hong Kong Polytechnic University as a Research Assistant Professor from 2020 to 2022. 
+I am an Assistant Professor at The Department of Computing and Decision Sciences, Lingnan University. Previously, I was with the Department of Computing, The Hong Kong Polytechnic University as a Research Assistant Professor from 2020 to 2022. 
 I obtained B.E. in Software Engineering and Ph.D. in Computer Science from Jilin University in 2014 and The Hong Kong Polytechnic University in 2019, respectively. I was also a visiting scholar at Media Lab, Massachusetts Institute of Technology in 2017. 
 
 My central research theme is Human Dynamics which refers to interdisciplinary research studying human behavior and providing actionable insights. 
@@ -30,12 +30,21 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
  -->
 
 # 🔥 News
-- *2022.09*: &nbsp;🎉🎉 I joined Department of Computing and Decision Sciences, Lingnan University as an Assistant Professor. 
+- *2022.09*: &nbsp;🎉🎉 I joined The Department of Computing and Decision Sciences, Lingnan University as an Assistant Professor. 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class="bibtex_template">
+    <!-- <span class="year"></span>,  -->
+    <span class="author"></span>
+    <!-- <span class="title" style="color:red;"></span> -->
+    <span class="if BIBTEXTYPEKEY==proceedings">Article</span>
+</div>
+<div id="bibtex_display"></div>
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -47,27 +56,25 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2013*, **National Scholarship of China**
 - *2016*, **Best Paper Award** of _IEEE International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress_.
 - *2020*, **Best Paper Award** of _IEEE International Conference on Computer Communications (INFOCOM)_.
 
-# 📖 Educations
+# 📖 Education
 - *2010 - 2014*, B.E., Software Engineering, Jilin University, China 
 - *2014 - 2019*, Ph.D., Computer Science, The Hong Kong Polytechnic University, Hong Kong
 - *2017 - 2018*, visiting Ph.D., Media Lab, Massachusetts Institute of Technology
 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
 # 👨‍🏫 Teaching
 - *2020*, COMP1011 Programming Fundamentals (Undergraduate)
 - *2021*, COMP4442 Service and Cloud Computing (Undergraduate)
 
-# 🛎️ Services
+
+# 🛎 Service
 ## Session Chair
 - IEEE MASS 2022
 
@@ -84,3 +91,5 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 - ICDCS 
 - IEEE Percom 
 - MOBIQUITOUS 
+
+
