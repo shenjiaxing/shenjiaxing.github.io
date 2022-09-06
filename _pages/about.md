@@ -36,16 +36,76 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 # 📝 Publications 
 
 <div class="bibtex_template">
-    <span class="year"></span>, 
+    <span class="year"></span>
+    <div class="if url">
+      <a class="bibtexVar" href="+URL+" extra="url">
+        <span class="title"></span>
+      </a>
+    </div>
+    <div class="if !url">
+      <div class="if doi">
+        <a class="bibtexVar" href="http://dx.doi.org/+DOI+" extra="doi">
+          <span class="title"></span>
+        </a>
+      </div>
+      <div class="if !doi">
+        <a>
+          <span class="title"></span>
+        </a>
+      </div>
+    </div> 
     <!-- <span class="if author"> -->
     <span class="author"></span>
-    <span class="title" style="color:blue;"></span>
+    <!-- <span class="title" style="color:blue;"></span> -->
     <span class="journal" style="font-style: italic;"></span>
+    <!-- <span class="if BIBTEXTYPEKEY==ARTICLE">Journal</span>
+    <span class="if BIBTEXTYPEKEY==PROCEEDINGS">Conference</span> -->
+    <br/>
+    <br/>
 </div>
 
-<div id="bibtex_display">
+<!-- <div class="bibtex_structure">
+  <div class="group BIBTEXTYPEKEY" extra="DESC string">
+    <h2 class="title"><span class="bibtextype"></span></h2>
+    <div class="group year" extra="DESC number">
+        <h3 class="title"><span class='year'></span></h3>
+        <div class="templates">
+       </div>
+    </div>
+  </div>
+</div> -->
+
+
+<div class="bibtex_structure">
+  <div class="sections BIBTEXTYPEKEY">
+    <div class="section ARTICLE">
+      <h2>Refereed Journal</h2>
+      <div class="sort year" extra="DESC number">
+        <h3 class="title"><span class='year'></span></h3>
+        <div class="templates"></div>
+      </div>
+    </div>
+    <div class="section PROCEEDINGS">
+      <h2>Conference Papers</h2>
+      <div class="sort year" extra="DESC number">
+        <h3 class="title"><span class='year'></span></h3>
+        <div class="templates"></div>
+      </div>
+    </div>
+    <div class="section misc|phdthesis|mastersthesis|bachelorsthesis|techreport">
+      <h2>Other Publications</h2>
+      <div class="sort year" extra="DESC number">
+        <div class="templates"></div>
+      </div>
+    </div>
+  </div>
 </div>
 
+<!-- <div id="bibtex_display">
+</div>
+ -->
+
+<div id="bibtex_display"></div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
