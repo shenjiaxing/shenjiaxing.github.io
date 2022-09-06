@@ -38,18 +38,18 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 
 <div class="bibtex_template" style="padding-left: 1em;padding-right: 5%; display: flex;">
     <div class="if url">
-      <a class="bibtexVar" href="+URL+" extra="url">
+      <a class="bibtexVar" href="+URL+" extra="url" style="color: #277BC0">
         <span class="title"></span>
       </a>
     </div>
     <div class="if !url">
       <div class="if doi">
-        <a class="bibtexVar" href="http://dx.doi.org/+DOI+" extra="doi">
+        <a class="bibtexVar" href="http://dx.doi.org/+DOI+" extra="doi" style="color: #277BC0">
           <span class="title"></span>
         </a>
       </div>
       <div class="if !doi">
-        <a>
+        <a style="color: #277BC0">
           <span class="title"></span>
         </a>
       </div>
@@ -81,7 +81,7 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
         <div class="templates"></div>
       </div>
     </div>
-    <div class="section misc|phdthesis|mastersthesis|bachelorsthesis|techreport">
+    <div class="section misc|phdthesis|mastersthesis|bachelorsthesis|techreport|chapter">
       <h2>Other Publications</h2>
       <div class="sort year" extra="DESC number">
         <div class="templates"></div>
