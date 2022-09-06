@@ -31,8 +31,8 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
  -->
 
 # 🔥 News
-- *2022.09*: &nbsp; Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you have interests.
-- *2022.09*: &nbsp;🎉🎉 I joined The Department of Computing and Decision Sciences, Lingnan University as an Assistant Professor. 
+- *2022.09*: Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you have interests.
+- *2022.09*: I joined The Department of Computing and Decision Sciences, Lingnan University as an Assistant Professor. 🎉🎉  
 
 
 # Publications 
