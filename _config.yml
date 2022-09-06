@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiaxing SHEN"
-description              : "Department of Computing and Decision Sciences, Lingnan University"
+description              : "<a href='https://cptra.ln.edu.hk/cds.html'>Department of Computing and Decision Sciences</a> <a href='https://www.ln.edu.hk/'>Lingnan University</a>"
 repository               : "shenjiaxing.github.io"
 google_scholar_stats_use_cdn : true
 
