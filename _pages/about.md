@@ -13,12 +13,12 @@ redirect_from:
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<!-- {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
 I am an Assistant Professor at The Department of Computing and Decision Sciences, Lingnan University. Previously, I was with the Department of Computing, The Hong Kong Polytechnic University as a Research Assistant Professor from 2020 to 2022. 
-I obtained B.E. in Software Engineering and Ph.D. in Computer Science from Jilin University in 2014 and The Hong Kong Polytechnic University in 2019, respectively. I was also a visiting scholar at Media Lab, Massachusetts Institute of Technology in 2017. 
+I obtained B.E. in Software Engineering and Ph.D. in Computer Science from Jilin University in 2014 and The Hong Kong Polytechnic University in 2019, respectively. I was also a visiting scholar at <img src=""/> Media Lab, Massachusetts Institute of Technology in 2017. 
 
 My central research theme is Human Dynamics which refers to interdisciplinary research studying human behavior and providing actionable insights. 
 Under the theme, I have several research interests including Context Sensing, IoT Systems, Mobile Computing, and Data Mining. 
@@ -30,7 +30,7 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 <a href='https://scholar.google.com/citations?user=amJMlVoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
 
-# 🔥 News
+# News
 - *2022.09*: Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you have interests.
 - *2022.09*: I joined The Department of Computing and Decision Sciences, Lingnan University as an Assistant Professor. 🎉🎉  
 
@@ -39,18 +39,18 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 
 <div class="bibtex_template" style="padding-left: 1em;padding-right: 5%; display: flex;">
     <div class="if url">
-      <a class="bibtexVar" href="+URL+" extra="url" style="color: #277BC0">
+      <a class="bibtexVar" href="+URL+" extra="url" >
         <span class="title"></span>
       </a>
     </div>
     <div class="if !url">
       <div class="if doi">
-        <a class="bibtexVar" href="http://dx.doi.org/+DOI+" extra="doi" style="color: #277BC0">
+        <a class="bibtexVar" href="http://dx.doi.org/+DOI+" extra="doi" >
           <span class="title"></span>
         </a>
       </div>
       <div class="if !doi">
-        <a style="color: #277BC0">
+        <a >
           <span class="title"></span>
         </a>
       </div>
