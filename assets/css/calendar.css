@@ -1,0 +1,38 @@
+
+.calendarDate {
+    font-size:0.25em;
+    /*change calendarIcon size */
+    display: inline-block;
+    position: relative;
+    width: 7.5em;
+    height: 5em;
+    background-color: #fff;
+    border-radius: 0.7em;
+    -moz-border-radius: 0.7em;
+    box-shadow: 0 1px 0 #bdbdbd, 0 2px 0 #fff, 0 3px 0 #bdbdbd,  0 0 0 1px #bdbdbd;
+    overflow: hidden;
+}
+.calendarDate * {
+    display: block;
+    width: 100%;
+    font-size: 1em;
+    font-weight: bold;
+    font-style: normal;
+    text-align: top;
+
+}
+.calendarDate strong {
+    position: absolute;
+    top: 0;
+    padding: 0.2em 0;
+    background-color: #19aaaa;
+    border-bottom: 1px dashed #ddd;
+    box-shadow: 0 2px 0 #19aaaa;
+}
+
+.calendarDate span {
+    font-size: 2.8em;
+    /* letter-spacing: -0.05em; */
+    font-style: normal;
+
+}
