@@ -37,11 +37,14 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 
 <div class="bibtex_template">
     <span class="year"></span>, 
+    <!-- <span class="if author"> -->
     <span class="author"></span>
-    <span class="title" style="color:red;"></span>
+    <span class="title" style="color:blue;"></span>
     <span class="journal" style="font-style: italic;"></span>
 </div>
-<div id="bibtex_display"></div>
+
+<div id="bibtex_display">
+</div>
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -66,7 +69,7 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 # 📖 Education
 - *2010 - 2014*, B.E., Software Engineering, Jilin University, China 
 - *2014 - 2019*, Ph.D., Computer Science, The Hong Kong Polytechnic University, Hong Kong
-- *2017 - 2018*, visiting Ph.D., Media Lab, Massachusetts Institute of Technology
+- *2017 - 2018*, visiting Ph.D., Media Lab, Massachusetts Institute of Technology, US
 
 
 # 👨‍🏫 Teaching
