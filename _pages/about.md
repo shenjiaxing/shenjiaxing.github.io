@@ -34,23 +34,27 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 # Publications 
 
 <div class="bibtex_template" style="padding-left: 1em;padding-right: 5%; display: flex;">
-    <div class="if url">
-      <a class="bibtexVar" href="+URL+" extra="url" >
-        <span class="title"></span>
-      </a>
+    <div>
+      <div class="if url" style="display: inline-block">
+        <a class="bibtexVar" href="+URL+" extra="url" >
+          <span class="title"></span>
+        </a>
+      </div>
+      <div class="if !url" style="display: inline-block">
+        <div class="if doi">
+          <a class="bibtexVar" href="http://dx.doi.org/+DOI+" extra="doi" >
+            <span class="title"></span>
+          </a>
+        </div>
+        <div class="if !doi">
+          <a href="">
+            <span class="title"></span>
+          </a>
+        </div>
+      </div> 
+      <!-- <span class="if localpdf"><a href="" style="padding-left: 0.5em; "><img src="images/download-pdf.png" style="height:1.6em"/></a></span> -->
+      <span class="if localpdf">[<a class="bibtexVar" href="/pdf/+LOCALPDF+.pdf" extra="localpdf">PDF</a>]</span>
     </div>
-    <div class="if !url">
-      <div class="if doi">
-        <a class="bibtexVar" href="http://dx.doi.org/+DOI+" extra="doi" >
-          <span class="title"></span>
-        </a>
-      </div>
-      <div class="if !doi">
-        <a >
-          <span class="title"></span>
-        </a>
-      </div>
-    </div> 
     <span class="author"></span>.
     <span class="journal" style="font-style: italic;"></span>,
     <span class="year"></span>.
