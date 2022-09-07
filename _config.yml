@@ -9,7 +9,7 @@
 title                    : "Jiaxing SHEN"
 description              : "<a href='https://cptra.ln.edu.hk/cds.html'>Department of Computing and Decision Sciences</a> <a href='https://www.ln.edu.hk/'>Lingnan University</a>"
 repository               : "shenjiaxing.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
