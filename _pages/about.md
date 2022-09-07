@@ -58,10 +58,14 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
     <span class="author"></span>.
     <span class="journal" style="font-style: italic;"></span>,
     <span class="year"></span>.
-    <span class="if ccf==CCF A"><span class="ccfa">CCF-A</span></span>
-    <span class="if ccf==CCF B"><span class="ccfb">CCF-B</span></span>
-    <span class="if jcr==JCR Q1"><span class="jcrq1">JCR-Q1</span></span>
-    <span class="if note==Best Paper Award"><span class="best_paper">Best Paper</span></span>
+    <div style="margin-right:-4%; clear: both; float: right;">
+      <span class="if ccf==CCF A"><span class="ccfa">CCF-A</span></span>
+      <span class="if ccf==CCF B"><span class="ccfb">CCF-B</span></span>
+      <!-- <span class="if ccf==CCF C"><span class="ccfc">CCF-C</span></span> -->
+      <span class="if jcr==JCR Q1"><span class="jcrq1">JCR-Q1</span></span>
+      <!-- <span class="if jcr==JCR Q2"><span class="jcrq2">JCR-Q2</span></span> -->
+      <span class="if note==Best Paper Award"><span class="best_paper">Best Paper</span></span>
+    </div>
     <br/>
     <br/>
 </div>
@@ -126,7 +130,7 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 
 ## Conference Reviewer
 - IJCAI 
-- ICDCS 
+- IEEE ICDCS 
 - IEEE Percom 
-- MOBIQUITOUS 
+- ACM MOBIQUITOUS 
 

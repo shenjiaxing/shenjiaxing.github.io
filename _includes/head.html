@@ -29,22 +29,22 @@
 <style>
   /*colors*/
   :root {
-    --ccfa:#003d5b;
-    --ccfb: #30638e;
-    --jcrq1: #edae49 ;
-    --best: #d1495b;
-    --url: #0077b6;
+    --ccfa:#274c77;
+    --ccfb: #6096ba;
+    --ccfc: #63b0e3;
+    --jcrq1: #c04b10;
+    --jcrq2: #e18437;
+    --best: #e63946;
+    --url: #e07a5f;
   }
 
   /*url*/
   a {
     color: var(--url);
+    
   }
-  a:hover img {
-    border: none !important;
-    display: inline-block;
-  }
- 
+  a:link { text-decoration: none; }
+
   /*em me*/
   [class*="Jiaxing Shen"]{
   font-weight: bold;
@@ -54,9 +54,9 @@
   [class="ccfa"] {
     font-weight: bold;
     color: blue;
-    margin-right: -4%;
+    /*margin-right: -4%;*/
     float:right;
-    display: inline-block;
+    /*display: inline-block;*/
     outline: none;
     font-weight: 600;
     border-radius: 3px;
@@ -70,9 +70,9 @@
   [class="ccfb"] {
     font-weight: bold;
     color: blue;
-    margin-right: -4%;
+    /*margin-right: -4%;*/
     float:right;
-    display: inline-block;
+    /*display: inline-block;*/
     outline: none;
     font-weight: 600;
     border-radius: 3px;
@@ -83,16 +83,31 @@
     line-height: 1.1;
     font-size: 12px;
   }
-  [class="jcrq1"] {
+/*  [class="ccfc"] {
     font-weight: bold;
     color: blue;
-    margin-right: -4%;
     float:right;
-    display: inline-block;
     outline: none;
     font-weight: 600;
     border-radius: 3px;
-    padding: 4px 6px;
+    padding: 4px 8px;
+    border: 0;
+    color: #fff;
+    background: var(--ccfc);
+    line-height: 1.1;
+    font-size: 12px;
+  }*/
+
+  [class="jcrq1"] {
+    font-weight: bold;
+    color: blue;
+    /*margin-right: -4%;*/
+    float:right;
+    /*display: inline-block;*/
+    outline: none;
+    font-weight: 600;
+    border-radius: 3px;
+    padding: 4px 5px;
     border: 0;
     color: #fff;
     background: var(--jcrq1);
@@ -100,16 +115,32 @@
     font-size: 12px;
   }
 
-  [class="best_paper"] {
+/*  [class="jcrq2"] {
     font-weight: bold;
     color: blue;
-    margin-right: 0%;
     float:right;
-    display: inline-block;
     outline: none;
     font-weight: 600;
     border-radius: 3px;
-    padding: 4px 8px;
+    padding: 4px 5px;
+    border: 0;
+    color: #fff;
+    background: var(--jcrq2);
+    line-height: 1.1;
+    font-size: 12px;
+  }*/
+
+  [class="best_paper"] {
+    font-weight: bold;
+    color: blue;
+    /*margin-right: -4%;*/
+    /*clear:right;*/
+    float:right;
+    /*display: inline-block;*/
+    outline: none;
+    font-weight: 600;
+    border-radius: 3px;
+    padding: 4px 6px;
     border: 0;
     color: #fff;
     background: var(--best);
