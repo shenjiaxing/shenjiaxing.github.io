@@ -8,27 +8,74 @@ redirect_from:
   - /about.html
 ---
 
-<!-- {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
- --><!-- {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
 I am an Assistant Professor at The Department of Computing and Decision Sciences, Lingnan University. Previously, I was with the Department of Computing, The Hong Kong Polytechnic University as a Research Assistant Professor from 2020 to 2022. 
 I obtained B.E. in Software Engineering and Ph.D. in Computer Science from <a href="https://global.jlu.edu.cn/">Jilin University</a> in 2014 and <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> in 2019, respectively. I was also a visiting scholar at Media Lab, <a href="https://www.media.mit.edu/">Massachusetts Institute of Technology</a> in 2017.
 
-My central research theme is Human Dynamics which refers to interdisciplinary research studying human behavior and providing actionable insights. 
+My central research theme is [*Human Dynamics*](#data-driven-analytics-of-human-dynamics) which refers to interdisciplinary research studying human behavior and providing actionable insights. 
 Under the theme, I have several research interests including Context Sensing, IoT Systems, Mobile Computing, and Data Mining. 
 I have published over 25 papers in top-tier journals and conferences including TMC, TKDE, TOIS, IoT-J, INFOCOM, WWW, ICDM, and ICDCS. 
 I have also won Best Paper Award twice including one from INFOCOM 2020. 
 
 
 # News
-- *2022.09*: Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you have interests.
-- *2022.09*: I joined The Department of Computing and Decision Sciences, Lingnan University as an Assistant Professor. 🎉🎉  
+- *2022.09:* Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you have interests.
+- *2022.09:* I joined The Department of Computing and Decision Sciences, Lingnan University as an Assistant Professor. 🎉🎉  
+
+
+# Data-Driven Analytics of Human Dynamics
+According to my understanding, there is a pyramid of Human Dynamics research which is shown below.
+It covers my previous research effort as well as future research directions.
+
+
+<div style="width:100%; margin: 0 auto;">
+  <div id="pyramid">
+    <div class="step">
+      <span></span>
+    </div>
+    <div class="step">
+      <span>Economic Level</span>
+    </div>
+    <div class="step">
+      <span>Social Level Human Dynamics</span>
+    </div>
+    <div class="step">
+      <span>Psychological Level Human Dynamics</span>
+    </div>
+    <div class="step">
+      <span>Physical Level Human Dynamics</span>
+    </div>
+    <div class="popupFeedback">
+      <div>
+        <p>Unknown and dark levels to be explored and lighted by you and me...</p>
+      </div>
+    </div>
+    <div class="popupFeedback">
+      <div>
+        <p>Economic level studies high-level human behaviors like decision-making and profound social issues like carbon neutrality.</p>
+      </div>
+    </div>
+    <div class="popupFeedback">
+      <div>
+        <p>Social level refers to interplay between individuals including <a href="#shenbag_c">social tie</a>, social influence, and social recommendation.</p>
+      </div>
+    </div>
+    <div class="popupFeedback">
+      <div>
+        <p>Psychological level refers to mental things like <a href="#wen_automatically_2021">emotion</a>, <a href="#shen_user_2022">personality</a>, and <a href="#yang2020epars">cognition</a>. 
+        This level is usually hard to measure directly and thus rely on measurements from physical level.</p>
+      </div>
+    </div>
+    <div class="popupFeedback">
+      <div>
+        <p>Physical level refers to human dynamics that can be directly observed. This level largely cares about low-level physical status (e.g., <a href="#shen2016feature">individuals' locations</a>), activities (e.g., <a href="#shenbag_c">shopping</a>, eating, and <a href="#wang_push_2020">gestures</a>), properties (e.g., <a href="#shen_gina_2018">gender</a>). 
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 # Publications 
@@ -52,8 +99,7 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
           </a>
         </div>
       </div> 
-      <!-- <span class="if localpdf"><a href="" style="padding-left: 0.5em; "><img src="images/download-pdf.png" style="height:1.6em"/></a></span> -->
-      <span class="if localpdf">[<a class="bibtexVar" href="/pdf/+LOCALPDF+.pdf" extra="localpdf">PDF</a>]</span>
+      <span class="if localpdf">[<a class="bibtexVar" href="/pdf/+LOCALPDF+.pdf" id="+LOCALPDF+" extra="localpdf">PDF</a>]</span>
     </div>
     <span class="author"></span>.
     <span class="journal" style="font-style: italic;"></span>,
@@ -111,6 +157,14 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 - *2017 - 2018*, visiting Ph.D., Media Lab, Massachusetts Institute of Technology, US
 
 
+# Talks
+- *2022.04:* Technique sharing: Singular Value Decomposition (SVD) and Its Applications \[[Slides](talks/SVD tutorial 2022.pdf)\]
+- *2021.12:* Brief sharing: How to write high quality papers \[[Slides](talks/How to write high quality papers.pdf)\]
+- *2020.12:* Data-Driven Analytics of Human Dynamics] \[[Slides](talks/Data-Driven Analytics of Human Dynamics.pdf)\]
+- *2018.12:* ICDM: "GINA: Group Gender Identification Using Privacy-Sensitive Audio Data" \[[Slides](talks/GINA 0705.pdf)\]
+
+
+
 # Teaching
 - *2020*, COMP1011 Programming Fundamentals (Undergraduate)
 - *2021*, COMP4442 Service and Cloud Computing (Undergraduate)
@@ -134,3 +188,4 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 - IEEE Percom 
 - ACM MOBIQUITOUS 
 
+<script src="assets/js/pyramid.js"></script>

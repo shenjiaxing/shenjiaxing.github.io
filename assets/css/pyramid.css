@@ -1,0 +1,103 @@
+#pyramid {
+  transform: scale(0.8);
+  width: 620px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  margin: 0 35% 0 auto;
+  position: relative;
+  vertical-align: middle !important;
+  filter: drop-shadow(30px 10px 4px grey);
+}
+#pyramid div.step {
+  z-index: 1;
+  position: relative;
+  height: 0;
+  border-bottom: solid;
+  border-left: solid transparent;
+  border-right: solid transparent;
+  cursor: pointer;
+  margin: 0 auto;
+}
+#pyramid div.step span {
+  color: white;
+  position: relative;
+  text-align: center;
+  text-decoration: bold;
+}
+#pyramid div.step.step1 {
+  border-bottom-color: #212529;
+}
+#pyramid div.step.step2 {
+  border-bottom-color: #343a40;
+}
+#pyramid div.step.step3 {
+  border-bottom-color: #495057;
+}
+#pyramid div.step.step4 {
+  border-bottom-color: #6c757d;
+}
+#pyramid div.step.step5 {
+  border-bottom-color: #adb5bd;
+}
+#pyramid div.step:hover {
+  border-bottom-color: #000;
+}
+#pyramid div.popupFeedback {
+  box-shadow: 0, 1px, 3px, 0, rgba(0, 0, 0, 0.55);
+  border-radius: 5px;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: none;
+  width: 450px;
+  min-height: 40%;
+  max-height: 80%;
+  z-index: 3;
+  text-align: center;
+  padding: 4px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: #F2F2F2;
+}
+#pyramid div.popupFeedback > div {
+  width: 100%;
+  padding: 12px;
+}
+#pyramid div.popupFeedback p, #pyramid div.popupFeedback h3 {
+  width: 100%;
+  text-align: left;
+}
+#pyramid div.popupFeedback h3 {
+  margin-top: 0;
+  width: 400px;
+}
+#pyramid div.popupFeedback ol, #pyramid div.popupFeedback ul {
+  text-align: left;
+}
+#pyramid div.popupFeedback button {
+  transform: translate(-100%, 0%);
+  position: absolute;
+  top: 0;
+  left: 100%;
+  width: 34px;
+  height: 34px;
+  border-top-right-radius: 1px;
+  color: #fff;
+  font-size: 22px;
+  background: #aeb0b3;
+}
+#pyramid div.popupFeedback.visible {
+  display: block;
+}
+#pyramid div.popupFeedbackShadow {
+  opacity: 0.6;
+  background: #000;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+}
