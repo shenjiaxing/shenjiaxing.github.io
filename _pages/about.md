@@ -26,10 +26,6 @@ I have published over 25 papers in top-tier journals and conferences including T
 I have also won Best Paper Award twice including one from INFOCOM 2020. 
 
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total 
-<a href='https://scholar.google.com/citations?user=amJMlVoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
- -->
-
 # News
 - *2022.09*: Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you have interests.
 - *2022.09*: I joined The Department of Computing and Decision Sciences, Lingnan University as an Assistant Professor. 🎉🎉  
