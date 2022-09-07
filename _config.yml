@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            :  "https://orcid.org/0000-0002-0833-0288" 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -105,7 +105,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -153,7 +152,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
