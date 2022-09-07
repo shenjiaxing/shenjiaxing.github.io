@@ -91,7 +91,7 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
   </div>
 </div>
 
-<div id="bibtex_display" style="padding-left: 1em;" ></div>
+<div id="bibtex_display" style="" ></div>
 
 <p style="color: grey; text-align: right;">*:corresponding author(s) or first author(s)</p>
 
@@ -129,5 +129,4 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 - ICDCS 
 - IEEE Percom 
 - MOBIQUITOUS 
-
 
