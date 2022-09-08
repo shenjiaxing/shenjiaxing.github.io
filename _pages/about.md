@@ -26,8 +26,8 @@ I have also won Best Paper Award twice including one from INFOCOM 2020.
 
 
 # Data-Driven Analytics of Human Dynamics
-According to my understanding, there is a pyramid of Human Dynamics research which is shown below.
-It covers my previous research effort as well as future research directions.
+Below shows a pyramid of Human Dynamics research.
+It covers my previous research effort and my future research directions.
 
 
 <div style="width:100%; margin: 0 auto;">
@@ -49,17 +49,17 @@ It covers my previous research effort as well as future research directions.
     </div>
     <div class="popupFeedback">
       <div>
-        <p>Unknown and dark levels to be explored and lighted by you and me...</p>
+        <p>Unknown and dark levels to be explored and lighted by researchers like you and me...</p>
       </div>
     </div>
     <div class="popupFeedback">
       <div>
-        <p>Economic level studies high-level human behaviors like decision-making and profound social issues like carbon neutrality.</p>
+        <p>Economic level studies high-level human behaviors (e.g., decision-making, human bias) and profound social issues in significant sections like health, education, safety.</p>
       </div>
     </div>
     <div class="popupFeedback">
       <div>
-        <p>Social level refers to interplay between individuals including <a href="#shenbag_c">social tie</a>, social influence, and social recommendation.</p>
+        <p>Social level refers to interplay between individuals including <a href="#shenbag_c">social tie</a>, social influence, and social recommendation. Although social level is also difficult to capture and quantify, it is still feasible by combining physical and psychological cues.</p>
       </div>
     </div>
     <div class="popupFeedback">
