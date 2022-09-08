@@ -98,28 +98,30 @@
         }
       }
 
-      step.on("click", clickStep);
-
-      feedback.each(function () {
-        $(this).append("<button>&times;</button>");
-        $(this)
-          .find("div")
-          .prepend(
-            "<h3>" +
-              step.eq($(this).index() - settings.stepLength).text() +
-              "</h3>"
-          );
-      });
-
-      closeButton = feedback.find("button");
-      closeButton.on("click", closeFeedback);
     };
 
     init();
+
+    step.on("click", clickStep);
+
+    feedback.each(function () {
+      $(this).append("<button>&times;</button>");
+      $(this)
+        .find("div")
+        .prepend(
+          "<h3>" +
+            step.eq($(this).index() - settings.stepLength).text() +
+            "</h3>"
+        );
+    });
+
+    closeButton = feedback.find("button");
+    closeButton.on("click", closeFeedback);
     
     window.addEventListener('resize', init);
+
   };
 })(jQuery);
 
 $("#pyramid").pyramid();
-
+// window.addEventListener('resize', $("#pyramid").pyramid);
