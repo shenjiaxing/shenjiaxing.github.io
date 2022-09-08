@@ -1,6 +1,6 @@
 #pyramid {
   /*transform: scale(0.8);*/
-  width: 100%;
+  width: 80%;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -17,7 +17,9 @@
   border-left: solid transparent;
   border-right: solid transparent;
   cursor: pointer;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
+  text-align: center;
+  length: 20%;
 }
 #pyramid div.step span {
   color: white;
