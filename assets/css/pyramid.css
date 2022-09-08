@@ -11,8 +11,8 @@
   /*font-family: Baskerville, Helvetica, Verdana ;*/
   font-style: bold;
   font-size: 13px;
-  text-decoration: underline ;
-  text-decoration-color: white;
+  /*text-decoration: underline ;
+  text-decoration-color: white;*/
 }
 #pyramid div.step {
   z-index: 1;

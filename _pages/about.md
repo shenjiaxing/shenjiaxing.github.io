@@ -189,3 +189,6 @@ It covers my previous research effort and my future research directions.
 - ACM MOBIQUITOUS 
 
 <script src="assets/js/pyramid.js"></script>
+<span style="display: none;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Lm2ocHX5LbyL6rdlFbrvkxSqjyv6SHWZChWgQZ7spQQ"></script>
+</span>
