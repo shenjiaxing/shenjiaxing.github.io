@@ -166,6 +166,7 @@ It covers my previous research effort and my future research directions.
 
 # Teaching
 - *2021*, COMP4442 Service and Cloud Computing (Undergraduate)
+- *2021*, COMP4911 Capstone Project (Undergraduate)
 - *2020*, COMP1011 Programming Fundamentals (Undergraduate)
 
 
