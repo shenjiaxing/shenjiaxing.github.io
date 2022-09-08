@@ -116,6 +116,8 @@
     };
 
     init();
+    
+    window.addEventListener('resize', init);
   };
 })(jQuery);
 
