@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 <span class='anchor' id='about-me'></span>
 
 I am an Assistant Professor at The Department of Computing and Decision Sciences, Lingnan University. Previously, I was with the Department of Computing, The Hong Kong Polytechnic University as a Research Assistant Professor from 2020 to 2022. 
