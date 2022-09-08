@@ -147,14 +147,14 @@ It covers my previous research effort as well as future research directions.
 
 
 # Honors and Awards
-- *2013*, **National Scholarship of China**
-- *2016*, **Best Paper Award** of _IEEE International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress_.
 - *2020*, **Best Paper Award** of _IEEE International Conference on Computer Communications (INFOCOM)_.
+- *2016*, **Best Paper Award** of _IEEE International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress_.
+- *2013*, **National Scholarship of China**
 
 # Education
-- *2010 - 2014*, B.E., Software Engineering, Jilin University, China 
-- *2014 - 2019*, Ph.D., Computer Science, The Hong Kong Polytechnic University, Hong Kong
 - *2017 - 2018*, visiting Ph.D., Media Lab, Massachusetts Institute of Technology, US
+- *2014 - 2019*, Ph.D., Computer Science, The Hong Kong Polytechnic University, Hong Kong
+- *2010 - 2014*, B.E., Software Engineering, Jilin University, China 
 
 
 # Talks
@@ -166,8 +166,9 @@ It covers my previous research effort as well as future research directions.
 
 
 # Teaching
-- *2020*, COMP1011 Programming Fundamentals (Undergraduate)
 - *2021*, COMP4442 Service and Cloud Computing (Undergraduate)
+- *2020*, COMP1011 Programming Fundamentals (Undergraduate)
+
 
 
 # Service
