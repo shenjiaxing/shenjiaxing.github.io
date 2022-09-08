@@ -48,8 +48,7 @@
 
       var pywidth = document.getElementById('pyramid').offsetWidth;
       marginLeftGap = Math.max(pywidth-widthValue,0)
-      console.log(marginLeftGap )
-
+      // console.log(marginLeftGap )
 
       if (settings.upsideDown) {
         for (h = settings.stepLength - 1; h >= 0; h--) {

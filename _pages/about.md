@@ -36,7 +36,7 @@ It covers my previous research effort as well as future research directions.
       <span></span>
     </div>
     <div class="step">
-      <span>Economic Level</span>
+      <span>Economic Level Human Dynamics</span>
     </div>
     <div class="step">
       <span>Social Level Human Dynamics</span>
