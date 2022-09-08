@@ -43,8 +43,8 @@
       step = activity.find(".step");
       feedback = activity.find(".popupFeedback");
 
-      var widthValue = 600, //divisible by 3, 4, 5 and 6
-        heightValue = 460;
+      var widthValue = 300, //divisible by 3, 4, 5 and 6
+        heightValue = 230;
 
       if (settings.upsideDown) {
         for (h = settings.stepLength - 1; h >= 0; h--) {
