@@ -14,10 +14,10 @@ redirect_from:
 I am an Assistant Professor at The Department of Computing and Decision Sciences, Lingnan University. Previously, I was with the Department of Computing, The Hong Kong Polytechnic University as a Research Assistant Professor from 2020 to 2022. 
 I obtained B.E. in Software Engineering and Ph.D. in Computer Science from <a href="https://global.jlu.edu.cn/">Jilin University</a> in 2014 and <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> in 2019, respectively. I was also a visiting scholar at Media Lab, <a href="https://www.media.mit.edu/">Massachusetts Institute of Technology</a> in 2017.
 
-My central research theme is [*Human Dynamics*](#data-driven-analytics-of-human-dynamics) which refers to interdisciplinary research studying human behavior and providing actionable insights. 
+My central research theme is [Human Dynamics](#data-driven-analytics-of-human-dynamics) which refers to interdisciplinary research studying human behavior and providing actionable insights. 
 Under the theme, I have several research interests including Context Sensing, IoT Systems, Mobile Computing, and Data Mining. 
 I have published over 25 papers in top-tier journals and conferences including TMC, TKDE, TOIS, IoT-J, INFOCOM, WWW, ICDM, and ICDCS. 
-I have also won Best Paper Award twice including one from INFOCOM 2020. 
+I have also won the award of <span class="best_paper_inline">Best Paper</span> twice including one from <a href="#wang_push_2020" class="inpageurl">INFOCOM 2020</a>. 
 
 
 # News
