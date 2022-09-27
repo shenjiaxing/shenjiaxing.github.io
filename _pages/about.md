@@ -163,14 +163,12 @@ It covers both my previous research effort and future directions.
 - *2018.12:* ICDM: "GINA: Group Gender Identification Using Privacy-Sensitive Audio Data" \[[Slides](talks/GINA 0705.pdf)\]
 
 
-
 # Teaching
 - *2022*, BUS1102 [Statistics for Business](teaching/2022-2023/BUS1102/BUS1102/pdf) (Undergraduate)
 - *2022*, CDS4004 [Web Technologies and Social Networks](teaching/2022-2023/CDS4004/CDS4004.pdf) (Undergraduate)
 - *2021*, COMP4442 Service and Cloud Computing (Undergraduate)
 - *2021*, COMP4911 Capstone Project (Undergraduate)
 - *2020*, COMP1011 Programming Fundamentals (Undergraduate)
-
 
 
 # Service
