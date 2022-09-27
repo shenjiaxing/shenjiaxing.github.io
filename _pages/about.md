@@ -165,6 +165,8 @@ It covers both my previous research effort and future directions.
 
 
 # Teaching
+- *2022*, BUS1102 Statistics for Business (Undergraduate)
+- *2022*, CDS4004 Web Technologies and Social Networks (Undergraduate)
 - *2021*, COMP4442 Service and Cloud Computing (Undergraduate)
 - *2021*, COMP4911 Capstone Project (Undergraduate)
 - *2020*, COMP1011 Programming Fundamentals (Undergraduate)
