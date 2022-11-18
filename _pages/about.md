@@ -21,6 +21,7 @@ I have also won <span class="best_paper_inline">Best Paper</span> twice includin
 
 # News
 <!-- - *2022.10:* [Admission of MPhil and PhD in 2023-24 academic year](https://www.ln.edu.hk/rpg/admission/application-for-admission) -->
+- *2022.11:* Our work HearFire has been accepted by Ubicomp2023 (ACM IMWUT).
 - *2022.09:* Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you are interested.
 - *2022.09:* I joined The Department of Computing and Decision Sciences, Lingnan University as an Assistant Professor. 🎉🎉  
 
