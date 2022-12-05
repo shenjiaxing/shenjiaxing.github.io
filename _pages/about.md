@@ -184,6 +184,7 @@ It covers both my previous research effort and future directions.
 - ACM Transactions on Intelligent Systems and Technology
 - ACM Transactions on Cyber-Physical Systems
 - IEEE Transactions on Big Data
+- IEEE Internet of Things Journal
 
 ## Conference Reviewer
 - IJCAI 
