@@ -147,6 +147,10 @@ It covers both my previous research effort and future directions.
 
 <p style="color: grey; text-align: right;">*:corresponding author(s) or first author(s)</p>
 
+# Projects
+- *2023.1 - 2024.12* Preserving Implicative Privacy via Context-Aware Generative Approaches in Mobile Crowdsensing, PI
+- *2019.3 - 2022.9* Multi-Stage Learning for Complex Systems, PI
+
 
 # Selected Honors and Awards
 - *2020*, **Best Paper Award** of _IEEE International Conference on Computer Communications (INFOCOM)_.
