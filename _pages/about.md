@@ -149,7 +149,7 @@ It covers both my previous research effort and future directions.
 
 # Projects
 - *2023.01 - 2024.12* Preserving Implicative Privacy via Context-Aware Generative Approaches in Mobile Crowdsensing, HKD 50,000, PI.
-- *2019.03 - 2022.09* Multi-Stage Learning for Complex Systems, HKD 550,000, PI.
+- *2019.03 - 2022.09* Multi-Stage Learning: An Effective Learning Paradigm for Multistage Systems, HKD 550,000, PI.
 
 
 # Selected Honors and Awards
