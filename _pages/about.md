@@ -15,8 +15,8 @@ I obtained B.E. in Software Engineering and Ph.D. in Computer Science from <a hr
 
 The theme of my research is [**Human Dynamics**](#data-driven-analytics-of-human-dynamics) which refers to interdisciplinary research studying human behavior and providing actionable insights. 
 Under the theme, I have several research interests including **Context Sensing**, **IoT Systems**, **Mobile Computing**, and **Data Mining**. 
-I have published over 25 papers in top-tier journals and conferences like TMC, TKDE, TOIS, IMWUT, IoT-J, INFOCOM, WWW, ICDM, and ICDCS (including 8 <span class="ccfa_inline">CCF-A</span>, 4 <span class="ccfb_inline">CCF-B</span>, and 12 <span class="jcrq1_inline">JCR-Q1</span>). 
-I have also won <span class="best_paper_inline">Best Paper</span> twice including one from <a href="#wang_push_2020" class="inpageurl">INFOCOM 2020</a>. 
+I have published over 25 papers in top-tier journals and conferences such as TMC, TKDE, TOIS, IMWUT, INFOCOM, WWW, ICDM, and ICDCS (including 8 <span class="ccfa_inline">CCF-A</span>, 4 <span class="ccfb_inline">CCF-B</span>, and 12 <span class="jcrq1_inline">JCR-Q1</span>). 
+I have also won <span class="best_paper_inline">Best Paper</span> awards twice including one from <a href="#wang_push_2020" class="inpageurl">INFOCOM 2020</a>. 
 
 
 # News
@@ -30,7 +30,6 @@ I have also won <span class="best_paper_inline">Best Paper</span> twice includin
 # Data-Driven Analytics of Human Dynamics
 Below shows a pyramid of Human Dynamics research.
 It covers both my previous research effort and future directions.
-
 
 <div style="width:100%; margin: 0 auto;">
   <div id="pyramid">
