@@ -10,12 +10,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor at The Department of Computing and Decision Sciences, Lingnan University. Previously, I was with the Department of Computing, The Hong Kong Polytechnic University as a Research Assistant Professor from 2020 to 2022. 
-I obtained B.E. in Software Engineering and Ph.D. in Computer Science from <a href="https://global.jlu.edu.cn/">Jilin University</a> in 2014 and <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a> in 2019, respectively. I was also a visiting scholar at Media Lab, <a href="https://www.media.mit.edu/">Massachusetts Institute of Technology</a> in 2017.
 
-The theme of my research is [**Human Dynamics**](#data-driven-analytics-of-human-dynamics) which refers to interdisciplinary research studying human behavior and providing actionable insights. 
-Under the theme, I have several research interests including **Context Sensing**, **IoT Systems**, **Mobile Computing**, and **Data Mining**. 
-I have published over 25 papers in top-tier journals and conferences such as TMC, TKDE, TOIS, IMWUT, INFOCOM, WWW, ICDM, and ICDCS (including 8 <span class="ccfa_inline">CCF-A</span>, 4 <span class="ccfb_inline">CCF-B</span>, and 12 <span class="jcrq1_inline">JCR-Q1</span>). 
+I am an Assistant Professor with the Department of Computing and Decision Sciences at Lingnan University. Previously, I was with the Department of Computing at the Hong Kong Polytechnic University as a Research Assistant Professor from 2020 to 2022. 
+I obtained the B.E. degree in Software Engineering from <a href="https://global.jlu.edu.cn/">Jilin University</a> in 2014, and the Ph.D. degree in Computing from <a href="https://www.polyu.edu.hk/">the Hong Kong Polytechnic University</a> in 2019. 
+In 2017, I was a visiting scholar with the Media Lab at <a href="https://www.media.mit.edu/">Massachusetts Institute of Technology</a>.
+
+The theme of my research is [**Human Dynamics**](#data-driven-analytics-of-human-dynamics) which aims to understand human behavior and provide actionable insights via cross-disciplinary approaches.
+Under the theme, my research interests include **Context Sensing**, **IoT Systems**, **Mobile Computing**, and **Data Mining**. 
+I have published over 25 papers in top-tier journals and conferences such as TMC, TKDE, TOIS, IMWUT, INFOCOM, and WWW (including 8 <span class="ccfa_inline">CCF-A</span>, 4 <span class="ccfb_inline">CCF-B</span>, and 12 <span class="jcrq1_inline">JCR-Q1</span>). 
 I have also won <span class="best_paper_inline">Best Paper</span> awards twice including one from <a href="#wang_push_2020" class="inpageurl">INFOCOM 2020</a>. 
 
 
