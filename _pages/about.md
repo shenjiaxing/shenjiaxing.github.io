@@ -24,7 +24,6 @@ I have also won <span class="best_paper_inline">Best Paper</span> awards twice i
 # News
 - *2023.03:* Recruiting Postdoctoral Fellows with a background in mobile computing and data mining. 
 - *2023.03:* Recruiting self-motivated research students who are interested in doing MPhil and Ph.D. Feel free to drop me an email if you are interested in Human Dynamics research.
-
 <!-- - *2022.12:* Recruiting 1-2 Research Assistant(s) with background in spatiotemporal data mining and mobile crowdsensing.  -->
 - *2022.11:* Our work HearFire has been accepted by Ubicomp2023 (ACM IMWUT).
 <!-- - *2022.09:* Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you are interested. -->
