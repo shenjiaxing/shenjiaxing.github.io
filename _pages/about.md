@@ -17,7 +17,7 @@ In 2017, I was a visiting scholar with the Media Lab at <a href="https://www.med
 
 The theme of my research is [**Human Dynamics**](#data-driven-analytics-of-human-dynamics) which aims to understand human behavior and provide actionable insights via cross-disciplinary approaches.
 Under the theme, my research interests include **Context Sensing**, **IoT Systems**, **Mobile Computing**, and **Data Mining**. 
-I have published over 25 papers in top-tier journals and conferences such as IEEE TMC, IEEE TKDE, ACM TOIS, ACM IMWUT, IEEE INFOCOM, and WWW (including 8 <span class="ccfa_inline">CCF-A</span>, 4 <span class="ccfb_inline">CCF-B</span>, and 12 <span class="jcrq1_inline">JCR-Q1</span>). 
+I have published over 25 papers in top-tier journals and conferences such as IEEE TMC, IEEE TKDE, ACM TOIS, ACM IMWUT, IEEE INFOCOM, and WWW (including <span id='num_ccfa' onload='countPapers()'>8</span> <span class="ccfa_inline">CCF-A</span>, <span id='num_ccfb'>4</span> <span class="ccfb_inline">CCF-B</span>, and <span id='num_jcr1'>12</span> <span class="jcrq1_inline">JCR-Q1</span>). 
 I have also won <span class="best_paper_inline">Best Paper</span> awards twice including one from <a href="#wang_push_2020" class="inpageurl">INFOCOM 2020</a>. 
 
 
@@ -53,7 +53,7 @@ It covers both my previous research effort and future directions.
     </div>
     <div class="popupFeedback">
       <div>
-        <p>Unknown and dark levels to be explored and lighted by you and me...</p>
+        <p>Unknown and dark levels to be explored and lighted by us...</p>
       </div>
     </div>
     <div class="popupFeedback">
@@ -150,7 +150,7 @@ It covers both my previous research effort and future directions.
 <p style="color: grey; text-align: right;">*:corresponding author(s) or first author(s)</p>
 
 # Projects
-- *2023.04 - 2026.03* Balancing User Privacy and Data Utility in Mobile Crowdsensing, PI.
+<!-- - *2023.04 - 2026.03* Balancing User Privacy and Data Utility in Mobile Crowdsensing, PI. -->
 - *2023.01 - 2024.12* Preserving Implicative Privacy via Context-Aware Generative Approaches in Mobile Crowdsensing, PI.
 - *2019.03 - 2022.09* Multi-Stage Learning: An Effective Learning Paradigm for Multistage Systems, PI.
 

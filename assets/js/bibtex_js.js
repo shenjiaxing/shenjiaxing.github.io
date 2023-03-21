@@ -291,6 +291,7 @@ function BibtexParser() {
 
 function BibtexDisplay() {
 
+
     this.invert = function(obj) {
         var new_obj = {};
         for (var prop in obj) {
@@ -954,8 +955,21 @@ function bibtex_js_draw() {
         // Remove elements from html that are not needed to display
         $(".bibtex_structure").remove();
         loadExtras();
+        // added by Shen
+        countPapers();
     });
+
 }
+
+// added Shen
+// count paper numbers
+function countPapers() {
+    
+    $('#num_ccfa').text(document.querySelectorAll('.ccfa').length -1);
+    $('#num_ccfb').text(document.querySelectorAll('.ccfb').length -1);
+    $('#num_jcr1').text(document.querySelectorAll('.jcrq1').length -1);
+}
+
 
 /** 
 BibTex Searcher is used with input form
@@ -1104,6 +1118,7 @@ function BibTeXSearcher() {
             this.unhideAll();
         }
     }
+
 }
 
 function createWebPage(defaultTemplate) {
@@ -1115,6 +1130,7 @@ function createWebPage(defaultTemplate) {
         }
         bibtex_js_draw();
     });
+
 }
 
 function loadExtras() {
