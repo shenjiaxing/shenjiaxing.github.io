@@ -11,8 +11,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an Assistant Professor with the Department of Computing and Decision Sciences at <a href="https://www.ln.edu.hk/">Lingnan University</a>. Previously, I was with the Department of Computing at the Hong Kong Polytechnic University as a Research Assistant Professor from 2020 to 2022. 
-I obtained the B.E. degree in Software Engineering from <a href="https://global.jlu.edu.cn/">Jilin University</a> in 2014, and the Ph.D. degree in Computing from <a href="https://www.polyu.edu.hk/">the Hong Kong Polytechnic University</a> in 2019. 
+I am an Assistant Professor with the Department of Computing and Decision Sciences at <a href="https://www.ln.edu.hk/">Lingnan University</a>. Previously, I was with the Department of Computing at <a href="https://www.polyu.edu.hk/">the Hong Kong Polytechnic University</a> as a Research Assistant Professor from 2020 to 2022. 
+I obtained the B.E. degree in Software Engineering from <a href="https://global.jlu.edu.cn/">Jilin University</a> in 2014, and the Ph.D. degree in Computing from the Hong Kong Polytechnic University in 2019. 
 In 2017, I was a visiting scholar with the Media Lab at <a href="https://www.media.mit.edu/">Massachusetts Institute of Technology</a>.
 
 The theme of my research is [**Human Dynamics**](#data-driven-analytics-of-human-dynamics) which aims to understand human behavior and provide actionable insights via cross-disciplinary approaches.
