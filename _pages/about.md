@@ -147,7 +147,7 @@ It covers both my previous research effort and future directions.
 
 <div id="bibtex_display" style="" ></div>
 
-<p style="color: grey; text-align: right;">*:corresponding author(s) or first author(s)</p>
+<p style="color: grey; text-align: right;">*:corresponding author(s) or co-first authors</p>
 
 # Projects
 <!-- - *2023.04 - 2026.03* Balancing User Privacy and Data Utility in Mobile Crowdsensing, PI. -->
