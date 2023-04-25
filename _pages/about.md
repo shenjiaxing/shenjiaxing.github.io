@@ -22,6 +22,7 @@ I have also won two <span class="best_paper_inline">Best Paper</span> awards inc
  
 
 # News
+- *2023.04:* Our work entitled "Effective Fault Scenario Identification for Communication Networks via Knowledge-Enhanced Graph Neural Networks" has been accepted by IEEE Transaction on Mobile Computing (IEEE TMC).
 - *2023.03:* Recruiting Postdoctoral Fellows in mobile computing or data mining. 
 - *2023.03:* Recruiting self-motivated research students who are interested in doing MPhil and Ph.D. Feel free to drop me an email if you are interested in Human Dynamics research.
 <!-- - *2022.12:* Recruiting 1-2 Research Assistant(s) with background in spatiotemporal data mining and mobile crowdsensing.  -->
