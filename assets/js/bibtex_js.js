@@ -968,7 +968,7 @@ function countPapers() {
     $('#num_ccfa').text(document.querySelectorAll('.ccfa').length -1);
     $('#num_ccfb').text(document.querySelectorAll('.ccfb').length -1);
     $('#num_jcr1').text(document.querySelectorAll('.jcrq1').length -1);
-    $('#num_total').text(document.querySelectorAll('.author').length );
+    $('#num_total').text(10*Math.floor(document.querySelectorAll('.author').length/10));
     
 }
 
