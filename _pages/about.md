@@ -187,7 +187,7 @@ It covers both my previous research effort and future directions.
 
 
 # Service
-## Session Chair
+## TPC
 - IEEE MASS 2022
 
 ## Journal Reviewer
