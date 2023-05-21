@@ -19,7 +19,6 @@ The theme of my research is [**Human Dynamics**](#data-driven-analytics-of-human
 Under the theme, my research interests include **Context Sensing**, **IoT Systems**, **Mobile Computing**, and **Data Mining**. 
 I have published over <span id='num_total'>NA</span> papers including top-tier journals and conferences such as IEEE TMC, IEEE TKDE, ACM TOIS, ACM IMWUT, IEEE INFOCOM, and WWW (including <span id='num_ccfa' onload='countPapers()'>NA</span> <span class="ccfa_inline">CCF-A</span> and <span id='num_ccfb'>NA</span> <span class="ccfb_inline">CCF-B</span>).
 <!-- and <span id='num_jcr1'>NA</span> <span class="jcrq1_inline">JCR-Q1</span>) -->
-
 I have also won two <span class="best_paper_inline">Best Paper</span> awards including one from <a href="#wang_push_2020" class="inpageurl">IEEE INFOCOM 2020</a>. 
  
 
