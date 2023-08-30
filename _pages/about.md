@@ -178,6 +178,7 @@ It covers both my previous research effort and future directions.
 
 
 # Teaching
+- *2023*, BUS1102 <a href="https://www.dropbox.com/sh/xdvyd5t917jbakj/AADK7vXOPIGmatjoKL6lrLeVa?dl=0">Statistics for Business</a> (Undergraduate)
 - *2022*, CDS529 [Project for Artificial Intelligence and Business Analytics](teaching/2022-2023/CDS529.pdf) (Postgraduate)
 - *2022*, CDS4004 [Web Technologies and Social Networks](teaching/2022-2023/CDS4004/CDS4004.pdf) (Undergraduate)
 - *2022*, BUS1102 [Statistics for Business](teaching/2022-2023/BUS1102/BUS1102.pdf) (Undergraduate)
