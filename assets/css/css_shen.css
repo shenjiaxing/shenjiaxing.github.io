@@ -10,7 +10,9 @@
     --url: #e07a5f;
     --urlin: #ffb703;
   }
-
+  .noHover{
+    pointer-events: none;
+  }
   /*url*/
   a {
     color: var(--url);
