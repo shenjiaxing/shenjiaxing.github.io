@@ -29,7 +29,7 @@ I have also won two <span class="best_paper_inline">Best Paper</span> awards inc
 - *2023.09*: Our work entitled "Human-Intent-Driven Cellular Configuration Generation Using Program Synthesis" has been accepted by IEEE Journal on Selected Areas in Communications (JSAC). 
 - *2023.06:* Our work entitled "RemoteGesture: Room-scale Acoustic Gesture Recognition for Multiple Users" has been accepted by IEEE International Conference on Sensing, Communication, and Networking (SECON).
 - *2023.05:* Our work entitled "Density Estimation-based Method to Determine Sample Size for Random Sample Partition of Big Data" has been accepted by Frontiers of Computer Science.
-- *2023.04:* Our work entitled "Effective Fault Scenario Identification for Communication Networks via Knowledge-Enhanced Graph Neural Networks" has been accepted by IEEE Transaction on Mobile Computing (IEEE TMC).
+- *2023.04:* Our work entitled "Effective Fault Scenario Identification for Communication Networks via Knowledge-Enhanced Graph Neural Networks" has been accepted by IEEE Transaction on Mobile Computing (TMC).
 <!-- - *2022.12:* Recruiting 1-2 Research Assistant(s) with background in spatiotemporal data mining and mobile crowdsensing.  -->
 <!-- - *2022.11:* Our work HearFire has been accepted by Ubicomp2023 (ACM IMWUT). -->
 <!-- - *2022.09:* Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you are interested. -->
