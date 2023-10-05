@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Bio"
-    url: "/#about-me"
+  #- title: "Bio"
+  #  url: "/#about-me"
 
   - title: "News"
     url: "/#news"
@@ -14,7 +14,6 @@ main:
 
   - title: "Projects"
     url: "/#projects"
-
 
   - title: "Awards"
     url: "/#selected-honors-and-awards"
