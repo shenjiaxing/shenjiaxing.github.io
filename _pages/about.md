@@ -158,7 +158,7 @@ It covers both my previous research effort and future directions.
 # Projects
 <!-- - *2023.04 - 2026.03* Balancing User Privacy and Data Utility in Mobile Crowdsensing, PI. -->
 <!-- - *2023.04 - 2026.03* Balancing User Privacy and Data Utility in Mobile Crowdsensing, PI. -->
-- *2303.05 - 2025.04* Knowledge Graph-based Recommendation Framework for Manual Network Configuration
+- *2023.05 - 2025.04* Knowledge Graph-based Recommendation Framework for Manual Network Configuration
 - *2023.01 - 2024.12* Preserving Implicative Privacy via Context-Aware Generative Approaches in Mobile Crowdsensing, PI.
 - *2019.03 - 2022.09* Multi-Stage Learning: An Effective Learning Paradigm for Multistage Systems, PI.
 
