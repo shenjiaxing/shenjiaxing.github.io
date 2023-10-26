@@ -176,7 +176,7 @@ It covers both my previous research effort and future directions.
 
 # Talks
 - *2022.04:* Technique sharing: Singular Value Decomposition (SVD) and Its Applications \[[Slides](talks/SVD tutorial 2022.pdf)\]
-- *2021.12:* Brief sharing: How to write high quality papers \[[Slides](talks/How to write high quality papers.pdf)\]
+<!-- - *2021.12:* Brief sharing: How to write high quality papers \[[Slides](talks/How to write high quality papers.pdf)\] -->
 - *2020.12:* Data-Driven Analytics of Human Dynamics] \[[Slides](talks/Data-Driven Analytics of Human Dynamics.pdf)\]
 - *2018.12:* ICDM: "GINA: Group Gender Identification Using Privacy-Sensitive Audio Data" \[[Slides](talks/GINA 0705.pdf)\]
 
