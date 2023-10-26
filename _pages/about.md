@@ -22,7 +22,7 @@ I have also won two <span class="best_paper_inline">Best Paper</span> awards inc
  
 # News
 - 📌 Recruiting Postdoctoral Fellows in mobile computing or data mining. 
-- 📌 Recruiting self-motivated research students who are interested in doing MPhil and Ph.D. 
+- 📌 Recruiting self-motivated research students who are interested in doing MPhil and [Ph.D.](https://cerg1.ugc.edu.hk/hkpfs/index.html)
 
 
 - *2023.10*: Our work entitled "Resisting TUL Attack: Balancing Data Privacy and Utility on Trajectory via Collaborative Adversarial Learning" has been accepted by GeoInformatica.
