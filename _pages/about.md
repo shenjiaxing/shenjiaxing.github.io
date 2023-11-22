@@ -25,6 +25,7 @@ I have also won two <span class="best_paper_inline">Best Paper</span> awards inc
 - 📌 Recruiting self-motivated research students who are interested in doing MPhil and [Ph.D.](https://cerg1.ugc.edu.hk/hkpfs/index.html)
 
 
+- *2023.10*: Our works entitled "NetCR: Knowledge Graph based Recommendation Framework for Manual Network Configuration" and "ConfigReco: Network Configuration Recommendation with Graph Neural Networks" have been accepted by IEEE Internet of Things Journal and IEEE Network Magazine, respectively.
 - *2023.10*: Our work entitled "Resisting TUL Attack: Balancing Data Privacy and Utility on Trajectory via Collaborative Adversarial Learning" has been accepted by GeoInformatica.
 - *2023.09*: Our work entitled "Human-Intent-Driven Cellular Configuration Generation Using Program Synthesis" has been accepted by IEEE Journal on Selected Areas in Communications (JSAC). 
 - *2023.06:* Our work entitled "RemoteGesture: Room-scale Acoustic Gesture Recognition for Multiple Users" has been accepted by IEEE International Conference on Sensing, Communication, and Networking (SECON).
