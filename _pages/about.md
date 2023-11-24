@@ -199,6 +199,10 @@ It covers both my previous research effort and future directions.
 ## Technical Program Committee
 - IEEE MASS 2022
 
+## Session Chair
+- IEEE ICDM 2023
+- IEEE MASS 2022
+
 ## Journal Reviewer
 - IEEE Transactions on Mobile Computing
 - ACM Computing Surveys
