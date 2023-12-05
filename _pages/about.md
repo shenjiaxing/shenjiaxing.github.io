@@ -24,6 +24,8 @@ I have also won two <span class="best_paper_inline">Best Paper</span> awards inc
 - 📌 Recruiting Postdoctoral Fellows in mobile computing or data mining. 
 - 📌 Recruiting self-motivated research students who are interested in doing MPhil and [Ph.D.](https://cerg1.ugc.edu.hk/hkpfs/index.html)
 
+- *2023.12*: Our work entitled "Distributed Semi-Supervised Learning with Consensus Consistency on Edge Devices" has been accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS).
+- *2023.12*: Our work entitled "Effective Network-Wide Traffic Measurement: A Lightweight Distributed Sketch Deployment" has been accepted by IEEE Conference on Computer Communications (INFOCOM).
 
 - *2023.11*: Our works entitled "NetCR: Knowledge Graph based Recommendation Framework for Manual Network Configuration" and "ConfigReco: Network Configuration Recommendation with Graph Neural Networks" have been accepted by IEEE Internet of Things Journal and IEEE Network Magazine, respectively.
 - *2023.10*: Our work entitled "Resisting TUL Attack: Balancing Data Privacy and Utility on Trajectory via Collaborative Adversarial Learning" has been accepted by GeoInformatica.
