@@ -14,7 +14,8 @@ I am an Assistant Professor with the Department of Computing and Decision Scienc
 I obtained the B.E. degree in Software Engineering from <a href="https://global.jlu.edu.cn/">Jilin University</a> in 2014, and the Ph.D. degree in Computing from the Hong Kong Polytechnic University in 2019. 
 In 2017, I was a visiting scholar with the Media Lab at <a href="https://www.media.mit.edu/">Massachusetts Institute of Technology</a>.
 
-The theme of my research is [**Human Dynamics**](#data-driven-analytics-of-human-dynamics) which aims to understand human behavior and provide actionable insights via cross-disciplinary approaches.
+The theme of my research is [**AI-empowered Human Dynamics**](#data-driven-analytics-of-human-dynamics) which aims to understand human behavior and provide actionable insights by integrating cross-disciplinary knowledge and AI techniques.
+<!-- The theme of my research is [**Human Dynamics**](#data-driven-analytics-of-human-dynamics) which aims to understand human behavior and provide actionable insights via cross-disciplinary approaches. -->
 Under the theme, my research interests include **Context Sensing**, **IoT Systems**, **Mobile Computing**, and **Data Mining**. 
 I have published over <span id='num_total'>NA</span> papers including top-tier journals and conferences such as IEEE TMC, IEEE TKDE, IEEE TPDS, ACM TOIS, ACM IMWUT, IEEE INFOCOM, and WWW (including <span id='num_ccfa' onload='countPapers()'>NA</span> <span class="ccfa_inline">CCF-A</span> and <span id='num_ccfb'>NA</span> <span class="ccfb_inline">CCF-B</span>).
 <!-- and <span id='num_jcr1'>NA</span> <span class="jcrq1_inline">JCR-Q1</span>) -->
