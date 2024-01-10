@@ -96,7 +96,7 @@
     min-width: 75px;
     //border-radius: 50%;
     //box-shadow: 10px 10px 5px #ccc;
-    filter: drop-shadow(0 0 0.2rem grey);
+    filter: drop-shadow(0 0 0.1rem #F0E68C);
     @include breakpoint($large) {
       padding: 5px;
       //border: 1px solid $border-color;
