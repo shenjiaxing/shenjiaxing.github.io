@@ -186,12 +186,7 @@ It covers both my previous research effort and future directions.
 
 
 # Teaching
-- *2024*, CLD9099b Generative AI <a  href="https://www.dropbox.com/scl/fo/cpdq87j61kcqp05yrpfkc/h?rlkey=pskxtqvfpf1nk4tahzzucejm9&dl=0" hover><img alt="File:Dropbox Icon.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/43px-Dropbox_Icon.svg.png?20151210150256" decoding="async" width="18" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/65px-Dropbox_Icon.svg.png?20151210150256 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/86px-Dropbox_Icon.svg.png?20151210150256 2x" data-file-width="43" data-file-height="40"></a> (Undergraduate)
-
 - *2023*, BUS1102 [Statistics for Business](teaching/2022-2023/BUS1102/BUS1102.pdf) <a  href="https://www.dropbox.com/sh/xdvyd5t917jbakj/AADK7vXOPIGmatjoKL6lrLeVa?dl=0" hover><img alt="File:Dropbox Icon.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/43px-Dropbox_Icon.svg.png?20151210150256" decoding="async" width="18" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/65px-Dropbox_Icon.svg.png?20151210150256 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/86px-Dropbox_Icon.svg.png?20151210150256 2x" data-file-width="43" data-file-height="40"></a> (Undergraduate)
-
-
-
 - *2022*, CDS529 [Project for Artificial Intelligence and Business Analytics](teaching/2022-2023/CDS529.pdf) (Postgraduate)
 - *2022*, CDS4004 [Web Technologies and Social Networks](teaching/2022-2023/CDS4004/CDS4004.pdf) (Undergraduate)
 - *2022*, BUS1102 [Statistics for Business](teaching/2022-2023/BUS1102/BUS1102.pdf) (Undergraduate)
