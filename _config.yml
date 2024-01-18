@@ -23,7 +23,8 @@ baidu_site_verification  :  "code-erBY35sVwM"
 author:
   name             : "Jiaxing SHEN"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor" 
+  adm              : "Programme Director of MSc of Data Science" 
   location         : "Hong Kong"
   employer         : 
   pubmed           : 

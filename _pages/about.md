@@ -24,7 +24,7 @@ I am honored to have received two <span class="best_paper_inline">Best Paper</sp
 - 📌 Recruiting Postdoctoral Fellows in mobile computing or data mining. 
 - 📌 Recruiting self-motivated research students who are interested in doing MPhil and [Ph.D.](https://cerg1.ugc.edu.hk/hkpfs/index.html)
 
-- *2023.12*: Our work entitled "Distributed Semi-Supervised Learning with Consensus Consistency on Edge Devices" has been accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS).
+<!-- - *2023.12*: Our work entitled "Distributed Semi-Supervised Learning with Consensus Consistency on Edge Devices" has been accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS).
 - *2023.12*: Our work entitled "Effective Network-Wide Traffic Measurement: A Lightweight Distributed Sketch Deployment" has been accepted by IEEE Conference on Computer Communications (INFOCOM).
 
 - *2023.11*: Our works entitled "NetCR: Knowledge Graph based Recommendation Framework for Manual Network Configuration" and "ConfigReco: Network Configuration Recommendation with Graph Neural Networks" have been accepted by IEEE Internet of Things Journal and IEEE Network Magazine, respectively.
@@ -32,7 +32,7 @@ I am honored to have received two <span class="best_paper_inline">Best Paper</sp
 - *2023.09*: Our work entitled "Human-Intent-Driven Cellular Configuration Generation Using Program Synthesis" has been accepted by IEEE Journal on Selected Areas in Communications (JSAC). 
 - *2023.06:* Our work entitled "RemoteGesture: Room-scale Acoustic Gesture Recognition for Multiple Users" has been accepted by IEEE International Conference on Sensing, Communication, and Networking (SECON).
 - *2023.05:* Our work entitled "Density Estimation-based Method to Determine Sample Size for Random Sample Partition of Big Data" has been accepted by Frontiers of Computer Science.
-- *2023.04:* Our work entitled "Effective Fault Scenario Identification for Communication Networks via Knowledge-Enhanced Graph Neural Networks" has been accepted by IEEE Transaction on Mobile Computing (TMC).
+- *2023.04:* Our work entitled "Effective Fault Scenario Identification for Communication Networks via Knowledge-Enhanced Graph Neural Networks" has been accepted by IEEE Transaction on Mobile Computing (TMC). -->
 <!-- - *2022.12:* Recruiting 1-2 Research Assistant(s) with background in spatiotemporal data mining and mobile crowdsensing.  -->
 <!-- - *2022.11:* Our work HearFire has been accepted by Ubicomp2023 (ACM IMWUT). -->
 <!-- - *2022.09:* Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you are interested. -->
@@ -186,12 +186,13 @@ It covers both my previous research effort and future directions.
 
 
 # Teaching
-- *2022*, CDS529 [Project for Artificial Intelligence and Business Analytics](teaching/2022-2023/CDS529.pdf) (Postgraduate)
-- *2022*, CDS4004 [Web Technologies and Social Networks](teaching/2022-2023/CDS4004/CDS4004.pdf) (Undergraduate)
-- *2022*, *2023*, BUS1102 [Statistics for Business](teaching/2022-2023/BUS1102/BUS1102.pdf) (Undergraduate)
-- *2021*, COMP4442 Service and Cloud Computing (Undergraduate)
-- *2021*, COMP4911 Capstone Project (Undergraduate)
-- *2020*, COMP1011 Programming Fundamentals (Undergraduate)
+- CLD9099B [Generative Artificial Intelligence](teaching/2022-2023/CLD9099B.pdf) (Undergraduate) [*2023*]
+- CDS529 [Project for Artificial Intelligence and Business Analytics](teaching/2022-2023/CDS529.pdf) (Postgraduate) [*2022*, *2023*]
+- CDS4004 [Web Technologies and Social Networks](teaching/2022-2023/CDS4004/CDS4004.pdf) (Undergraduate) [*2022*]
+- BUS1102 [Statistics for Business](teaching/2022-2023/BUS1102/BUS1102.pdf) (Undergraduate) [*2022*, *2023*]
+- COMP4442 Service and Cloud Computing (Undergraduate) [*2021*]
+- COMP4911 Capstone Project (Undergraduate) [*2021*]
+- COMP1011 Programming Fundamentals (Undergraduate) [*2020*]
 
 
 # Service
