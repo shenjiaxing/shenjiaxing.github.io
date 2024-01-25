@@ -25,6 +25,9 @@ I am honored to have received two <span class="best_paper_inline">Best Paper</sp
 - 📌 Recruiting Postdoctoral Fellows in mobile computing or data mining. 
 - 📌 Recruiting self-motivated research students who are interested in doing MPhil and [Ph.D.](https://cerg1.ugc.edu.hk/hkpfs/index.html)
 
+
+- *2024.01*: Our work entitled "Privacy-preserving human activity sensing: a survey" has been accepted by High-Confidence Computing.
+
 <!-- - *2023.12*: Our work entitled "Distributed Semi-Supervised Learning with Consensus Consistency on Edge Devices" has been accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS).
 - *2023.12*: Our work entitled "Effective Network-Wide Traffic Measurement: A Lightweight Distributed Sketch Deployment" has been accepted by IEEE Conference on Computer Communications (INFOCOM).
 
