@@ -24,6 +24,7 @@ I am honored to have received two <span class="best_paper_inline">Best Paper</sp
 # News
 - 📌 Recruiting Postdoctoral Fellows in mobile computing or data mining. 
 - 📌 Recruiting self-motivated research students who are interested in doing MPhil and [Ph.D.](https://cerg1.ugc.edu.hk/hkpfs/index.html)
+- 📌 The International Conference on Behavioural and Social Computing (BESC) is call for paper now. [URL](http://besc-conf.org/2024/)
 
 
 - *2024.01*: Our work entitled "Privacy-preserving human activity sensing: a survey" has been accepted by High-Confidence Computing.
