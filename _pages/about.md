@@ -45,7 +45,7 @@ I am honored to have received two <span class="best_paper_inline">Best Paper</sp
 
 
 <!-- # Data-Driven Analytics of Human Dynamics -->
-# AI-empowered Human Dynamics
+# AIoT-empowered Human Dynamics
 Below shows a pyramid of Human Dynamics research.
 It covers both my previous research effort and future directions.
 
