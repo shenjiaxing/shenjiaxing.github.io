@@ -10,14 +10,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor with the Department of Computing and Decision Sciences at <a href="https://www.ln.edu.hk/">Lingnan University</a>. Previously, I was with the Department of Computing at <a href="https://www.polyu.edu.hk/">the Hong Kong Polytechnic University</a> as a Research Assistant Professor from 2020 to 2022. 
-I obtained the B.E. degree in Software Engineering from <a href="https://global.jlu.edu.cn/">Jilin University</a> in 2014, and the Ph.D. degree in Computing from the Hong Kong Polytechnic University in 2019. 
-In 2017, I was a visiting scholar with the Media Lab at <a href="https://www.media.mit.edu/">Massachusetts Institute of Technology</a>.
+I am an Assistant Professor with the Department of Computing and Decision Sciences at [Lingnan University](https://www.ln.edu.hk/). 
+I also serve as Programme Coordinator of [MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science).
+Previously, I was with the Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) as a Research Assistant Professor from 2020 to 2022. 
+I obtained the B.E. degree in Software Engineering from [Jilin University](https://global.jlu.edu.cn/) in 2014, and the Ph.D. degree in Computing from The Hong Kong Polytechnic University in 2019. 
+In 2017, I was a visiting scholar with the Media Lab at [Massachusetts Institute of Technology](https://www.media.mit.edu/).
 
-The theme of my research is [**AIoT-empowered Human Dynamics**](#aiot-empowered-human-dynamics) which aims to understand human behavior and provide actionable insights by integrating cross-disciplinary knowledge, AI techniques and IoT.
+The theme of my research is **AIoT-empowered Human Dynamics** which aims to understand human behavior and provide actionable insights by integrating cross-disciplinary knowledge, AI techniques and IoT.
 Under the theme, my research interests include **Context Sensing**, **IoT**, **Mobile Computing**, and **Data Mining**. 
 I have published over <span id='num_total'>NA</span> papers including top-tier journals and conferences such as IEEE TMC, IEEE TKDE, IEEE TPDS, ACM TOIS, ACM IMWUT, IEEE INFOCOM, and WWW.
-I am honored to have received two <span class="best_paper_inline">Best Paper</span> awards, one of which was presented at <a href="#wang_push_2020" class="inpageurl">IEEE INFOCOM 2020</a>.
+I am honored to have received two best paper awards, one of which was presented at <a href="#wang_push_2020" class="inpageurl">IEEE INFOCOM 2020</a>.
 
 <!-- I am currently working on the following  -->
  
@@ -46,11 +48,11 @@ I am honored to have received two <span class="best_paper_inline">Best Paper</sp
 
 
 <!-- # Data-Driven Analytics of Human Dynamics -->
-# AIoT-empowered Human Dynamics
+<!-- # AIoT-empowered Human Dynamics
 Below shows a pyramid of Human Dynamics research.
 It covers both my previous research effort and future directions.
-
-<div style="width:100%; margin: 0 auto;">
+ -->
+<!-- <div style="width:100%; margin: 0 auto;">
   <div id="pyramid">
     <div class="step">
       <span></span>
@@ -69,7 +71,7 @@ It covers both my previous research effort and future directions.
     </div>
     <div class="popupFeedback">
       <div>
-        <p>Unknown and dark levels to be explored and lighted by us...</p>
+        <p>Undefined and dark levels to be explored and lighted by us...</p>
       </div>
     </div>
     <div class="popupFeedback">
@@ -95,7 +97,7 @@ It covers both my previous research effort and future directions.
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 
 # Publications 
@@ -178,10 +180,10 @@ It covers both my previous research effort and future directions.
 - *2016*, **Best Paper Award** of _IEEE International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress_.
 - *2013*, **National Scholarship of China**
 
-# Education
+<!-- # Education
 - *2017 - 2018*, visiting Ph.D., Media Lab, Massachusetts Institute of Technology, US
 - *2014 - 2019*, Ph.D., Computer Science, The Hong Kong Polytechnic University, Hong Kong
-- *2010 - 2014*, B.E., Software Engineering, Jilin University, China 
+- *2010 - 2014*, B.E., Software Engineering, Jilin University, China  -->
 
 
 # Talks
