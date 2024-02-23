@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Research"
-    url: "/#aiot-empowered-human-dynamics"
+  # - title: "Research"
+  #   url: "/#aiot-empowered-human-dynamics"
 
   - title: "Publications"
     url: "/#publications"
@@ -18,8 +18,8 @@ main:
   - title: "Awards"
     url: "/#selected-honors-and-awards"
 
-  - title: "Education"
-    url: "/#education"
+  # - title: "Education"
+  #   url: "/#education"
 
   - title: "Talks"
     url: "/#talks"
