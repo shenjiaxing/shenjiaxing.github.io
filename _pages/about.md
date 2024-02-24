@@ -9,12 +9,15 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
+I am an Assistant Professor and Programme Coordinator of [MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science) with the Department of Computing and Decision Sciences at Lingnan University. 
+Previously, I was with the Department of Computing at The Hong Kong Polytechnic University as a Research Assistant Professor from 2020 to 2022. 
+I obtained the B.E. degree in Software Engineering from Jilin University in 2014, and the Ph.D. degree in Computing from The Hong Kong Polytechnic University in 2019. 
+In 2017, I was a visiting scholar with the Media Lab at Massachusetts Institute of Technology.
 
-I am an Assistant Professor with the Department of Computing and Decision Sciences at [Lingnan University](https://www.ln.edu.hk/). 
-I also serve as Programme Coordinator of [MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science).
+<!-- I am an Assistant Professor and Programme Coordinator of [MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science) with the Department of Computing and Decision Sciences at [Lingnan University](https://www.ln.edu.hk/). 
 Previously, I was with the Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) as a Research Assistant Professor from 2020 to 2022. 
 I obtained the B.E. degree in Software Engineering from [Jilin University](https://global.jlu.edu.cn/) in 2014, and the Ph.D. degree in Computing from The Hong Kong Polytechnic University in 2019. 
-In 2017, I was a visiting scholar with the Media Lab at [Massachusetts Institute of Technology](https://www.media.mit.edu/).
+In 2017, I was a visiting scholar with the Media Lab at [Massachusetts Institute of Technology](https://www.media.mit.edu/). -->
 
 The theme of my research is **AIoT-empowered Human Dynamics** which aims to understand human behavior and provide actionable insights by integrating cross-disciplinary knowledge, AI techniques and IoT.
 Under the theme, my research interests include **Context Sensing**, **IoT**, **Mobile Computing**, and **Data Mining**. 
