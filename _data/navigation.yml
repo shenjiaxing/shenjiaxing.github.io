@@ -15,14 +15,14 @@ main:
   - title: "Projects"
     url: "/#projects"
 
-  - title: "Awards"
-    url: "/#selected-honors-and-awards"
+  # - title: "Awards"
+  #   url: "/#selected-honors-and-awards"
 
   # - title: "Education"
   #   url: "/#education"
 
-  - title: "Talks"
-    url: "/#talks"
+  # - title: "Talks"
+  #   url: "/#talks"
 
   - title: "Teaching"
     url: "/#teaching"

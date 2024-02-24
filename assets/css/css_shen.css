@@ -16,7 +16,6 @@
   /*url*/
   a {
     color: var(--url);
-    
   }
   a:link { text-decoration: none; }
 
