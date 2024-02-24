@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I am an Assistant Professor and Programme Coordinator of [MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science) with the Department of Computing and Decision Sciences at Lingnan University. 
+<!-- I am an Assistant Professor and Programme Coordinator of [MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science) with the Department of Computing and Decision Sciences at Lingnan University. 
 Previously, I was with the Department of Computing at The Hong Kong Polytechnic University as a Research Assistant Professor from 2020 to 2022. 
 I obtained the B.E. degree in Software Engineering from Jilin University in 2014, and the Ph.D. degree in Computing from The Hong Kong Polytechnic University in 2019. 
 In 2017, I was a visiting scholar with the Media Lab at Massachusetts Institute of Technology.
+ -->
 
-
-I currently hold the position of Assistant Professor and Programme Coordinator for [MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science)  at Department of Computing and Decision Sciences, Lingnan University. Prior to this, I served as a Research Assistant Professor in the Department of Computing at The Hong Kong Polytechnic University from 2020 to 2022. My academic journey began with a B.E. degree in Software Engineering from Jilin University, which I earned in 2014, followed by a Ph.D. in Computing from The Hong Kong Polytechnic University, obtained in 2019. Additionally, I had the opportunity to enrich my research experience as a visiting scholar at the Media Lab at the Massachusetts Institute of Technology in 2017.
+I am currently Assistant Professor and Programme Coordinator ([MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science))  at Lingnan University. 
+<!-- Prior to this, I served as a Research Assistant Professor in the Department of Computing at The Hong Kong Polytechnic University from 2020 to 2022.  -->
+I hold a B.E. degree from Jilin University (2014) and a Ph.D. degree from The Hong Kong Polytechnic University (2019), with additional research experience gained during a visiting scholarship at MIT's Media Lab in 2017.
 
 <!-- I am an Assistant Professor and Programme Coordinator of [MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science) with the Department of Computing and Decision Sciences at [Lingnan University](https://www.ln.edu.hk/). 
 Previously, I was with the Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) as a Research Assistant Professor from 2020 to 2022. 
@@ -27,12 +29,10 @@ Under the theme, my research interests include **Context Sensing**, **IoT**, **M
 I have published over <span id='num_total'>NA</span> papers including top-tier journals and conferences such as IEEE TMC, IEEE TKDE, IEEE TPDS, ACM TOIS, ACM IMWUT, IEEE INFOCOM, and WWW.
 I am honored to have received two best paper awards, one of which was presented at <a href="#wang_push_2020" class="inpageurl">IEEE INFOCOM 2020</a>. -->
 
-My research centers on **AIoT-empowered Human Dynamics**, a field that strives to decode human behavior and deliver practical insights by weaving together cross-disciplinary knowledge with artificial intelligence (AI) and the Internet of Things (IoT). Within this domain, my scholarly interests span **Context Sensing**, **IoT applications**, **Mobile Computing**, and **Sesnor Data Mining**.
+My research centers on **AIoT-empowered Human Dynamics**, a field that strives to decode human behavior and deliver practical insights by weaving together cross-disciplinary knowledge with AI and IoT. Within this domain, my research interests span **Context Sensing**, **IoT applications**, and **Sesnor Data Mining**.
 
-Throughout my career, I have contributed over <span id='num_total'>NA</span> publications to esteemed journals and conference proceedings, including the IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Parallel and Distributed Systems (TPDS), ACM Transactions on Information Systems (TOIS), and ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), as well as prestigious conferences such as IEEE INFOCOM and the World Wide Web Conference (WWW).
-
-My work has been recognized with two best paper awards, testament to the impact and innovation of my research. Notably, one such award was bestowed at <a href="#wang_push_2020" class="inpageurl">IEEE INFOCOM 2020</a>., a leading conference in networking and communications.
-
+I have contributed over <span id='num_total'>NA</span> publications to esteemed journals including IEEE TMC, IEEE TKDE, IEEE TPDS, ACM TOIS, and ACM IMWUT, as well as prestigious conferences such as IEEE INFOCOM, IEEE ICDM, and WWW.
+I am honored to have received two best paper awards, one of which was presented at <a href="#wang_push_2020" class="inpageurl">IEEE INFOCOM 2020</a>, a leading conference in networking and communications.
 
 <!-- I am currently working on the following  -->
  
