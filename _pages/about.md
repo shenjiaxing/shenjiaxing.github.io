@@ -41,7 +41,8 @@ I am honored to have received two best paper awards, one of which was presented 
 - 📌 Recruiting self-motivated research students who are interested in doing MPhil and [Ph.D.](https://cerg1.ugc.edu.hk/hkpfs/index.html)
 - 📌 The International Conference on Behavioural and Social Computing ([BESC](http://besc-conf.org/2024/)) is calling for paper now. 
 
-- *2024.03*: Our work entitled "Personality-affected Emotion Generation in Dialog Systems" has been accepted by ACM Transactions on Information Systems  (TOIS).
+- *2024.03*: Our work entitled "ViDSOD-100: A New Dataset and A Baseline Model for RGB-D Video Salient Object Detection" has been accepted by International Journal of Computer Vision (IJCV).
+- *2024.03*: Our work entitled "Personality-affected Emotion Generation in Dialog Systems" has been accepted by ACM Transactions on Information Systems (TOIS).
 - *2024.02*: Our work entitled "Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process" has been accepted by International Conference on Computational Linguistics (COLING).
 - *2024.01*: Our work entitled "Privacy-preserving human activity sensing: a survey" has been accepted by High-Confidence Computing.
 
