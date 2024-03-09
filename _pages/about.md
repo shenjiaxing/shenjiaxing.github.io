@@ -44,7 +44,7 @@ I am honored to have received two best paper awards, one of which was presented 
 - *2024.03*: Our work entitled "ViDSOD-100: A New Dataset and A Baseline Model for RGB-D Video Salient Object Detection" has been accepted by International Journal of Computer Vision (IJCV).
 - *2024.03*: Our work entitled "Personality-affected Emotion Generation in Dialog Systems" has been accepted by ACM Transactions on Information Systems (TOIS).
 - *2024.02*: Our work entitled "Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process" has been accepted by International Conference on Computational Linguistics (COLING).
-- *2024.01*: Our work entitled "Privacy-preserving human activity sensing: a survey" has been accepted by High-Confidence Computing.
+- *2024.01*: Our work entitled "Privacy-preserving Human Activity Sensing: A Survey" has been accepted by High-Confidence Computing.
 
 <!-- - *2023.12*: Our work entitled "Distributed Semi-Supervised Learning with Consensus Consistency on Edge Devices" has been accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS).
 - *2023.12*: Our work entitled "Effective Network-Wide Traffic Measurement: A Lightweight Distributed Sketch Deployment" has been accepted by IEEE Conference on Computer Communications (INFOCOM).
