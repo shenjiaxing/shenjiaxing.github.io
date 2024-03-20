@@ -218,6 +218,9 @@ It covers both my previous research effort and future directions.
 
 
 # Service
+## Organizing Committee
+- BESC 2024
+
 ## Technical Program Committee
 - IEEE MASS 2022
 
