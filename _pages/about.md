@@ -31,7 +31,7 @@ I am honored to have received two best paper awards, one of which was presented 
 
 My research centers on **AIoT-empowered Human Dynamics**, a field that strives to decode human behavior and deliver practical insights by weaving together cross-disciplinary knowledge with AI and IoT. Within this domain, my research interests span **Context Sensing**, **IoT applications**, and **Sensor Data Mining**.
 
-I have contributed over <span id='num_total'>NA</span> publications to esteemed journals including IEEE TMC, IEEE TKDE, IEEE TPDS, ACM TOIS, and ACM IMWUT, as well as prestigious conferences such as IEEE INFOCOM, IEEE ICDM, and WWW.
+I have contributed over <span id='num_total'>NA</span> publications to esteemed journals including ACM TOIS, ACM IMWUT, IEEE TMC, IEEE TKDE, and IEEE TPDS as well as prestigious conferences such as WWW, IEEE INFOCOM, and IEEE ICDM.
 I am honored to have received two best paper awards, one of which was presented at <a href="#wang_push_2020" class="inpageurl">IEEE INFOCOM 2020</a>, a leading conference in networking and communications.
 
 <!-- I am currently working on the following  -->
