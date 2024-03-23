@@ -15,7 +15,7 @@ I obtained the B.E. degree in Software Engineering from Jilin University in 2014
 In 2017, I was a visiting scholar with the Media Lab at Massachusetts Institute of Technology.
  -->
 
-I am currently working as Assistant Professor and Programme Coordinator ([MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science)) at Lingnan University. 
+I am currently Assistant Professor and Programme Coordinator ([MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science)) at Lingnan University. 
 <!-- Prior to this, I served as a Research Assistant Professor in the Department of Computing at The Hong Kong Polytechnic University from 2020 to 2022.  -->
 I hold a B.E. degree from Jilin University (2014) and a Ph.D. degree from The Hong Kong Polytechnic University (2019), with additional research experience gained during a visiting scholarship at MIT's Media Lab in 2017.
 
