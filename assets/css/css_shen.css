@@ -7,7 +7,7 @@
     --jcrq1: #c04b10;
     --jcrq2: #e18437;
     --best: #001219;
-    --url: #B67352;
+    --url: #1679AB;
     --urlin: #ffb703;
   }
   .noHover{
@@ -20,8 +20,11 @@
   a:link { text-decoration: none; }
 
   h2 {
-    color: #50514f;
+/*    color: #50514f;*/
     text-indent: 0.5em;
+  }
+  h3 {
+    text-indent: 1em; 
   }
   /*em me*/
   [class*="Jiaxing Shen"]{
