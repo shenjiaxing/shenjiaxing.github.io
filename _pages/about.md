@@ -18,7 +18,6 @@ My research centers on **AIoT-empowered Human Dynamics**, a field that strives t
 I have contributed over <span id='num_total'>NA</span> publications to esteemed journals including ACM TOIS, ACM IMWUT, IEEE TMC, IEEE TKDE, and IEEE TPDS as well as prestigious conferences such as WWW, IEEE INFOCOM, and IEEE ICDM.
 I am honored to have received two best paper awards, one of which was presented at <a href="#wang_push_2020" class="inpageurl">IEEE INFOCOM 2020</a>, a leading conference in networking and communications.
 
- 
 # News
 <!-- - 📌 **Recruiting Postdoctoral Fellows in mobile computing or data mining.**  -->
 📌 **Recruiting self-motivated research students who are interested in doing MPhil and [Ph.D.](https://cerg1.ugc.edu.hk/hkpfs/index.html)**
