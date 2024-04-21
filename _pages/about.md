@@ -175,7 +175,8 @@ I am honored to have received two best paper awards, one of which was presented 
 - IEEE Percom 
 - ACM MOBIQUITOUS 
 
-<script src="assets/js/pyramid.js"></script>
+<!-- <script src="assets/js/pyramid.js"></script> -->
+
 <span style="display: none;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Lm2ocHX5LbyL6rdlFbrvkxSqjyv6SHWZChWgQZ7spQQ"></script>
 </span>

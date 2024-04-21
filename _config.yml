@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "SHEN Jiaxing"
-description              : " "
+description              : "MIEEE, MACM, MCCF"
 repository               : "shenjiaxing.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   employer         : "images/employer.jpg"
   # bio              : "Assistant Professor" 
-  location         : "SEK212/6"
+  location         : "SEK212/6, LU"
   # pubmed -> phone
   pubmed           : "2616 8377"
   googlescholar    : "https://scholar.google.com/citations?user=amJMlVoAAAAJ"
