@@ -19,7 +19,7 @@ I am honored to have received two best paper awards, one of which was presented 
 
 # News
 <!-- - 📌 **Recruiting Postdoctoral Fellows in mobile computing or data mining.**  -->
-📌 **Recruiting self-motivated research postgraduate students including MPhil and Ph.D. due by 1 Dec 2024**
+📌 **Recruiting self-motivated research postgraduate students including MPhil and Ph.D. due by 1 Dec 2024**.
 
 📌 **The International Conference on Behavioural and Social Computing ([BESC](http://besc-conf.org/2024/)) is calling for paper now.**
 
