@@ -14,6 +14,7 @@
   z-index: 20;
 
   &__inner-wrap {
+
     @include container;
     @include clearfix;
     padding: .5em;
@@ -33,8 +34,8 @@
   }
 }
 
-.masthead__menu {
 
+.masthead__menu {
   ul {
     margin: 0;
     padding: 0;
@@ -60,5 +61,7 @@
     font-weight: 700;
   }
 }
+
+
 
 

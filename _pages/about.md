@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
-
+<!-- <span class='anchor' id='about-me'></span> -->
 I am Assistant Professor at Lingnan University. 
 I hold a B.E. degree from Jilin University (2014) and a Ph.D. degree from The Hong Kong Polytechnic University (2019), with additional research experience gained during a visiting scholarship at MIT's Media Lab in 2017.
 
@@ -44,9 +43,7 @@ I am honored to have received two best paper awards, one of which was presented 
 <!-- - *2022.09:* I joined The Department of Computing and Decision Sciences, Lingnan University as an Assistant Professor. 🎉🎉   -->
 
 
-
 # Publications 
-
 <div class="bibtex_template" style="padding-left: 1em;padding-right: 5%; display: flex;">
     <div>
       <div class="if url" style="display: inline-block">

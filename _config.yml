@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiaxing SHEN"
-description              : "<a href='https://cptra.ln.edu.hk/cds.html'>Department of Computing and Decision Sciences</a> <a href='https://www.ln.edu.hk/'>Lingnan University</a>"
+title                    : "SHEN Jiaxing"
+description              : " "
 repository               : "shenjiaxing.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,16 +21,17 @@ baidu_site_verification  :  "code-erBY35sVwM"
 
 # Site Author
 author:
-  name             : "Jiaxing SHEN"
+  name             : "SHEN Jiaxing"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Assistant Professor" 
-  location         : "Hong Kong"
-  employer         : "images/android-chrome-512x512.png"
-  pubmed           : 
+  employer         : "images/employer.jpg"
+  # bio              : "Assistant Professor" 
+  location         : "SEK212/6"
+  # pubmed -> phone
+  pubmed           : "2616 8377"
   googlescholar    : "https://scholar.google.com/citations?user=amJMlVoAAAAJ"
   email            : "jiaxingshen@LN.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  # uri              : "SEK212/6"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            :  "https://orcid.org/0000-0002-0833-0288" 
+  orcid            : "https://orcid.org/0000-0002-0833-0288" 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -57,7 +58,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 
 # Reading Files

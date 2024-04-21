@@ -1,5 +1,17 @@
   /*main css modified by me*/
   /*colors*/
+
+  .page__inner-wrap{
+    text-align: justify;
+  }
+
+  .masthead__inner-wrap {
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    align-items: center;*/
+/*    width: 40%;*/
+  }
+
   :root {
     --ccfa:#274c77;
     --ccfb: #6096ba;
