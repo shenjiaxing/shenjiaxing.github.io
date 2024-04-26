@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- <span class='anchor' id='about-me'></span> -->
 I am Assistant Professor at Lingnan University. 
-I hold a B.E. degree from Jilin University (2014) and a Ph.D. degree from The Hong Kong Polytechnic University (2019), with additional research experience gained during a visiting scholarship at MIT's Media Lab in 2017.
+I hold a B.E. degree from Jilin University (2014) and a Ph.D. degree from The Hong Kong Polytechnic University (2019), with additional research experience gained during a visiting scholarship at MIT Media Lab in 2017.
 
 My research centers on AIoT-empowered Human Dynamics, a field that strives to decode human behavior and deliver practical insights by weaving together cross-disciplinary knowledge with AI and IoT. Within this domain, my research interests span Context-aware Computing, Mobile Computing, and Data Mining.
 
