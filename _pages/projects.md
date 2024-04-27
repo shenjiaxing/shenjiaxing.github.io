@@ -32,6 +32,6 @@ author_profile: true
 - *2018.12:* ICDM: "GINA: Group Gender Identification Using Privacy-Sensitive Audio Data" \[[Slides](talks/GINA 0705.pdf)\]
 
 
-<span style="display: none;">
+<!-- <span style="display: none;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Lm2ocHX5LbyL6rdlFbrvkxSqjyv6SHWZChWgQZ7spQQ"></script>
-</span>
+</span> -->
