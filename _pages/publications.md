@@ -1,11 +1,8 @@
 ---
-permalink: /research
-title: "Research"
+permalink: /publications
+title: "Publications"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 # Publications 
@@ -29,18 +26,18 @@ redirect_from:
         </div>
       </div> 
       <span class="if localpdf">[<a class="bibtexVar" href="/pdf/+LOCALPDF+.pdf" id="+LOCALPDF+" extra="localpdf">PDF</a>]</span>
+      <!-- <div style="margin-right:0%; clear: both; float: right;"> -->
+        <span class="if ccf==CCF A"><span class="ccfa">CCF-A</span></span>
+        <span class="if ccf==CCF B"><span class="ccfb">CCF-B</span></span>
+        <!-- <span class="if ccf==CCF C"><span class="ccfc">CCF-C</span></span> -->
+        <span class="if jcr==JCR Q1"><span class="jcrq1">JCR-Q1</span></span>
+        <!-- <span class="if jcr==JCR Q2"><span class="jcrq2">JCR-Q2</span></span> -->
+        <span class="if note==Best Paper Award"><span class="best_paper">Best Paper🎉</span></span>
+      <!-- </div> -->
     </div>
     <span class="author"></span>.
     <span class="journal" style="font-style: italic;"></span>,
     <span class="year"></span>.
-    <div style="margin-right:-4%; clear: both; float: right;">
-      <span class="if ccf==CCF A"><span class="ccfa">CCF-A</span></span>
-      <span class="if ccf==CCF B"><span class="ccfb">CCF-B</span></span>
-      <!-- <span class="if ccf==CCF C"><span class="ccfc">CCF-C</span></span> -->
-      <span class="if jcr==JCR Q1"><span class="jcrq1">JCR-Q1</span></span>
-      <!-- <span class="if jcr==JCR Q2"><span class="jcrq2">JCR-Q2</span></span> -->
-      <span class="if note==Best Paper Award"><span class="best_paper">Best Paper</span></span>
-    </div>
     <br/>
     <br/>
 </div>
@@ -74,9 +71,6 @@ redirect_from:
 
 <p style="color: grey; text-align: right;">*:corresponding author(s) or co-first authors</p>
 
-# Projects
-<!-- - *2023.04 - 2026.03* Balancing User Privacy and Data Utility in Mobile Crowdsensing, PI. -->
-<!-- - *2023.04 - 2026.03* Balancing User Privacy and Data Utility in Mobile Crowdsensing, PI. -->
-- *2023.05 - 2025.04* Knowledge Graph-based Recommendation Framework for Manual Network Configuration, PI.
-- *2023.01 - 2024.12* Preserving Implicative Privacy via Context-Aware Generative Approaches in Mobile Crowdsensing, PI.
-- *2019.03 - 2022.09* Multi-Stage Learning: An Effective Learning Paradigm for Multistage Systems, PI.
+<span style="display: none;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Lm2ocHX5LbyL6rdlFbrvkxSqjyv6SHWZChWgQZ7spQQ"></script>
+</span>

@@ -11,7 +11,7 @@
     --ccfc: #63b0e3;
     --jcrq1: #c04b10;
     --jcrq2: #e18437;
-    --best: #001219;
+    --best: #627254;
     --url: #1679AB;
     --urlin: #ffb703;
   }
@@ -41,11 +41,11 @@
     font-weight: bold;
     color: blue;
     /*margin-right: -4%;*/
-    float:right;
+/*    float:right;*/
     /*display: inline-block;*/
     outline: none;
     font-weight: 600;
-    border-radius: 3px;
+    border-radius: 5px;
     padding: 3.5px 8px;
     border: 0;
     color: #fff;
@@ -57,11 +57,11 @@
     font-weight: bold;
     color: blue;
     /*margin-right: -4%;*/
-    float:right;
+/*    float:right;*/
     /*display: inline-block;*/
     outline: none;
     font-weight: 600;
-    border-radius: 3px;
+    border-radius: 5px;
     padding: 3.5px 8px;
     border: 0;
     color: #fff;
@@ -88,11 +88,11 @@
     font-weight: bold;
     color: blue;
     /*margin-right: -4%;*/
-    float:right;
+/*    float:right;*/
     /*display: inline-block;*/
     outline: none;
     font-weight: 600;
-    border-radius: 3px;
+    border-radius: 5px;
     padding: 3.5px 5px;
     border: 0;
     color: #fff;
@@ -121,7 +121,7 @@
     color: blue;
     /*margin-right: -4%;*/
     /*clear:right;*/
-    float:right;
+/*    float:right;*/
     /*display: inline-block;*/
     outline: none;
     font-weight: 600;
