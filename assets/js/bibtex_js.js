@@ -983,7 +983,6 @@ function bibtex_js_draw() {
 }
 
 
-
 /** 
 BibTex Searcher is used with input form
 */

@@ -8,7 +8,6 @@ author_profile: true
 # Service
 
 ## Internal
-
 - Programme Coordinator of [MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science)
 - Common Core Course Coordinator of Generative Artifical Intelligence
 
@@ -26,6 +25,7 @@ author_profile: true
 
 ### Journal Reviewer
 - IEEE Transactions on Mobile Computing
+- IEEE Transactions on Knowledge and Data Engineering
 - ACM Computing Surveys
 - INFORMS Journal on Computing
 - ACM Transactions on Intelligent Systems and Technology
