@@ -3,7 +3,6 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-
 ---
 
 <!-- <span class='anchor' id='about-me'></span> -->
@@ -41,9 +40,3 @@ Application deadline: December 1, 2024**.
 <!-- - *2022.09:* Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you are interested. -->
 - *2022.09:* I joined The Department of Computing and Decision Sciences, Lingnan University as an Assistant Professor. 🎉🎉  
 
-
-<!-- <script src="assets/js/pyramid.js"></script> -->
-
-<span style="display: none;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Lm2ocHX5LbyL6rdlFbrvkxSqjyv6SHWZChWgQZ7spQQ"></script>
-</span>

@@ -1,5 +1,54 @@
-<script src="assets/js/main.min.js"></script>
+<bibtex src="./pub_journal.bib"></bibtex>
+<bibtex src="./pub_conference.bib"></bibtex>
+<bibtex src="./pub_other.bib"></bibtex>
 
+<script src="assets/js/main.min.js"></script>
+<script type="text/javascript" src="assets/js/bibtex_js.js"></script>
+
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+	  var changeContentLinks = document.querySelectorAll('.change-content');
+	  var pageInnerWrap = document.querySelector('.page-content');
+
+	  changeContentLinks.forEach(function(link) {
+	    link.addEventListener('click', function(event) {
+	      event.preventDefault(); // Prevent the default link behavior
+
+	      var contentUrl = link.getAttribute('href');
+
+	      // Fetch the content from the URL
+	      fetch(contentUrl)
+	        .then(function(response) {
+	          return response.text();
+	        })
+	        .then(function(content) {
+	          // Create a new div to hold the fetched content
+	          var newContentDiv = document.createElement('span');
+	          newContentDiv.innerHTML = content;
+
+	          // Replace only the .page__inner-wrap content
+	          var newPageInnerWrap = newContentDiv.querySelector('.page-content');
+	          if (newPageInnerWrap) {
+	            pageInnerWrap.innerHTML = newPageInnerWrap.innerHTML;
+
+	            // defaultTemplate = newPageInnerWrap.querySelector('.bibtex_template')
+	            // console.log(defaultTemplate)
+	            // createWebPage(defaultTemplate);
+	            bibtex_js_draw();
+
+	          } else {
+	            console.error('Error: .page__inner-wrap not found in fetched content.');
+	          }
+	        })
+	        .catch(function(error) {
+	          console.error('Error fetching content:', error);
+	        });
+	    });
+	  });
+	});
+
+
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

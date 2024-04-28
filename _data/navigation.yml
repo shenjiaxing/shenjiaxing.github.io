@@ -28,7 +28,7 @@ main:
     url: "/teaching.html"
 
   - title: "Service"
-    url: "./service.html"
+    url: "/service.html"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"

@@ -1,18 +1,21 @@
 ---
 permalink: /service
-title: ""
+title: "Service"
 excerpt: ""
 author_profile: true
 ---
 
 # Service
+
 ## Internal
-* Programme Coordinator of [MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science)
-* Common Core Course Coordinator of Generative Artifical Intelligence
+
+- Programme Coordinator of [MSc in Data Science](https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/Master-of-Science-in-Data-Science)
+- Common Core Course Coordinator of Generative Artifical Intelligence
 
 ## External 
+
 ### Organizing Committee
-* BESC 2024
+- BESC 2024
 
 ### Technical Program Committee
 - IEEE MASS 2022
@@ -36,8 +39,3 @@ author_profile: true
 - IEEE Percom 
 - ACM MOBIQUITOUS 
 
-<!-- <script src="assets/js/pyramid.js"></script> -->
-
-<!-- <span style="display: none;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Lm2ocHX5LbyL6rdlFbrvkxSqjyv6SHWZChWgQZ7spQQ"></script>
-</span> -->

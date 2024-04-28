@@ -26,6 +26,7 @@
 function BibtexParser() {
     this.pos = 0;
     this.input = "";
+    this.numPaper = 0;
 
     this.entries = {};
     this.strings = {
@@ -251,6 +252,7 @@ function BibtexParser() {
 
     this.entry = function(directive) {
         this.entry_body(directive);
+        this.numPaper++;
     }
 
     this.bibtex = function() {
@@ -290,7 +292,6 @@ function BibtexParser() {
 }
 
 function BibtexDisplay() {
-
 
     this.invert = function(obj) {
         var new_obj = {};
@@ -904,6 +905,7 @@ function BibtexDisplay() {
 }
 
 function bibtex_js_draw() {
+
     $(".bibtex_template").hide();
     //Gets the BibTex files and adds them together
     var bibstring = "";
@@ -921,6 +923,8 @@ function bibtex_js_draw() {
             .fail((request, status, error) => console.error(error))
         requests.push(request);
     });
+    // console.log('requests.length '+requests.length);
+
     // Add default author format if it doesn't exist
     var authorFormat = $(".bibtex_template").find("span:not(a).author");
     if (authorFormat.length && !authorFormat.find("span:not(a)").length) {
@@ -941,6 +945,7 @@ function bibtex_js_draw() {
                 var callback = new Function('bibtex_display', bibtex_display.attr("callback"));
                 callback(bibtex_display[0]);
             }
+            
         } else if ($(".bibtex_display").length) {
             // Loop through all bibtex_displays on the page
             $(".bibtex_display").each(function(index) {
@@ -956,21 +961,27 @@ function bibtex_js_draw() {
         $(".bibtex_structure").remove();
         loadExtras();
         // added by Shen
-        countPapers();
+        // countPapers();
     });
 
+    // added Shen
+    // count paper numbers
+    $.when.apply($, requests).then(function() {
+        var b = new BibtexParser();
+        b.setInput(bibstring);
+        try {
+            b.bibtex();
+        } catch (e) {
+            b.errorThrown(e);
+            console.error(e);
+        }
+        var entries = b.getEntries();
+        // console.log(b.numPaper)
+        // num_papers = b.numPaper
+        $('#num_total').text(10*Math.floor(b.numPaper/10));
+    });
 }
 
-// added Shen
-// count paper numbers
-function countPapers() {
-    
-    $('#num_ccfa').text(document.querySelectorAll('.ccfa').length -1);
-    $('#num_ccfb').text(document.querySelectorAll('.ccfb').length -1);
-    $('#num_jcr1').text(document.querySelectorAll('.jcrq1').length -1);
-    $('#num_total').text(10*Math.floor(document.querySelectorAll('.author').length/10));
-    
-}
 
 
 /** 
@@ -1127,9 +1138,10 @@ function createWebPage(defaultTemplate) {
     // draw bibtex when loaded
     $(document).ready(function() {
         // check for template, add default
-        if ($(".bibtex_template").length == 0) {
-            $("body").append(defaultTemplate);
-        }
+        // if ($(".bibtex_template").length == 0) {
+        //     console.log('C '+ $(".bibtex_template"))
+        //     $("body").append(defaultTemplate);
+        // }
         bibtex_js_draw();
     });
 
@@ -1286,6 +1298,7 @@ var defaultTemplate = "<div class=\"bibtex_template\">" +
     "<a class=\"url\" style=\"color:black; font-size:10px\">(view online)</a>\n" +
     "</span>\n</div>\n<div style=\"margin-left: 10px; margin-bottom:5px;\">\n" +
     "<span class=\"title\"></span>\n</div></div>";
+
 
 // check whether or not jquery is present
 if (!window.jQuery || !window.moment) {
