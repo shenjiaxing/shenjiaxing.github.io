@@ -75,7 +75,7 @@
   flex-direction: column;
   flex-wrap: nowrap;
   justify-content: space-between;
-  width: 3.5em; 
+  width: 3.1em; 
   height: 3em; 
 }
 .inline-flex.date-as-calendar .weekday,
