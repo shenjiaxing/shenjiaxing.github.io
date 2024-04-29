@@ -15,6 +15,12 @@ main:
   - title: "Projects"
     url: "/projects.html"
 
+  - title: "Teaching"
+    url: "/teaching.html"
+
+  - title: "Service"
+    url: "/service.html"
+
   # - title: "Awards"
   #   url: "/#selected-honors-and-awards"
 
@@ -23,13 +29,6 @@ main:
 
   # - title: "Talks"
   #   url: "/#talks"
-
-  - title: "Teaching"
-    url: "/teaching.html"
-
-  - title: "Service"
-    url: "/service.html"
-
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
