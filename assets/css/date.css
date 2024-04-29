@@ -31,7 +31,7 @@
   text-align: center;
   line-height: 1.4;
 }
-.date-as-calendar .year {
+.date-as-calendar .year2 {
   font-family: sans-serif;  
 /*   font-family: "Oswald", sans-serif; */
   text-transform: uppercase;
@@ -41,14 +41,14 @@
 /*   blue */
   background : linear-gradient(to bottom right, #3C5B6F 0%, #153448 100%);
 /*  cyan  */
-  background : linear-gradient(to bottom right, #3C5B6F 0%, #153448 100%);
+/*  background : linear-gradient(to bottom right, #3C5B6F 0%, #153448 100%);*/
 /*   light cyan */
 /*   background : linear-gradient(to bottom right, #77B0AA 0%, #003C43 100%); */
   color: white;
   font-weight: bold;
 }
 
-.date-as-calendar .year2 {
+.date-as-calendar .year {
   font-family: sans-serif;  
 /*   font-family: "Oswald", sans-serif; */
   text-transform: uppercase;
@@ -79,7 +79,8 @@
 .inline-flex.date-as-calendar .weekday,
 .inline-flex.date-as-calendar .day,
 .inline-flex.date-as-calendar .month,
-.inline-flex.date-as-calendar .year {
+.inline-flex.date-as-calendar .year,
+.inline-flex.date-as-calendar .year2,{
   display: block;
   flex: 1 1 auto;
 }
@@ -92,7 +93,8 @@
   order: 3;
   font-size: 1em;
 }
-.inline-flex.date-as-calendar .year {
+.inline-flex.date-as-calendar .year,
+.inline-flex.date-as-calendar .year2 {
   order: 1;
   font-size: 1.1em;
 }

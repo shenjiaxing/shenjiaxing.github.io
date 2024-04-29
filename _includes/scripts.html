@@ -110,12 +110,12 @@
 	      var monthAbbr2 = monthNames[monthIndex2];
 
 	      var dateRibbon1 = $('<time>').addClass('date-as-calendar inline-flex size0_75x')
-	        .append($('<div>').addClass('day').text(day1))
+	        .append($('<span>').addClass('day').text(day1))
 	        .append($('<span>').addClass('month').text(monthAbbr1))
 	        .append($('<span>').addClass('year').text(year1));
 
 	      var dateRibbon2 = $('<time>').addClass('date-as-calendar inline-flex size0_75x')
-	        .append($('<div>').addClass('day').text(day2))
+	        .append($('<span>').addClass('day').text(day2))
 	        .append($('<span>').addClass('month').text(monthAbbr2))
 	        .append($('<span>').addClass('year2').text(year2));
 
@@ -124,7 +124,7 @@
 
 	      var container = $('<div>').addClass('container')
 	        .append(dateRibbon1)
-	        .append('<div> - </div>')
+	        .append("<div style='width: 10px; text-align: center;'> - </div>")
 	        .append(dateRibbon2)
 	        .append(contentDiv);
 
