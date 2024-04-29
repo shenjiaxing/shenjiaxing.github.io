@@ -8,24 +8,16 @@ author_profile: true
 
 
 # Projects
-- *2023.04* - *2026.03* Balancing User Privacy and Data Utility in Mobile Crowdsensing, PI.
-- *2023.05* - *2025.04* Knowledge Graph-based Recommendation Framework for Manual Network Configuration, PI.
-- *2023.01* - *2024.12* Preserving Implicative Privacy via Context-Aware Generative Approaches in Mobile Crowdsensing, PI.
-- *2019.03* - *2022.09* Multi-Stage Learning: An Effective Learning Paradigm for Multistage Systems, PI.
+- *2023.04.01* - *2026.03.31* Balancing User Privacy and Data Utility in Mobile Crowdsensing, PI.
+- *2023.05.01* - *2025.04.30* Knowledge Graph-based Recommendation Framework for Manual Network Configuration, PI.
+- *2023.01.01* - *2024.12.31* Preserving Implicative Privacy via Context-Aware Generative Approaches in Mobile Crowdsensing, PI.
+- *2019.03.01* - *2022.09.30* Multi-Stage Learning: An Effective Learning Paradigm for Multistage Systems, PI.
+{: class="date-ul tbc2"}
 
-
-# Selected Honors and Awards
-- *2020*, **Best Paper Award** of IEEE International Conference on Computer Communications (INFOCOM).
-- *2016*, **Best Paper Award** of IEEE International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress.
-- *2013*, **National Scholarship of China**
-
-<!-- # Education
-- *2017 - 2018*, visiting Ph.D., Media Lab, Massachusetts Institute of Technology, US
-- *2014 - 2019*, Ph.D., Computer Science, The Hong Kong Polytechnic University, Hong Kong
-- *2010 - 2014*, B.E., Software Engineering, Jilin University, China  -->
 
 
 # Talks
-- *2022.04*: Technique sharing: Singular Value Decomposition (SVD) and Its Applications \[[Slides](talks/SVD tutorial 2022.pdf)\]
-- *2020.12*: Data-Driven Analytics of Human Dynamics \[[Slides](talks/Data-Driven Analytics of Human Dynamics.pdf)\]
-- *2018.12*: ICDM: "GINA: Group Gender Identification Using Privacy-Sensitive Audio Data" \[[Slides](talks/GINA 0705.pdf)\]
+- *2022.04.25* Technique sharing: Singular Value Decomposition (SVD) and Its Applications \[[Slides](talks/SVD tutorial 2022.pdf)\]
+- *2020.12.12* Data-Driven Analytics of Human Dynamics \[[Slides](talks/Data-Driven Analytics of Human Dynamics.pdf)\]
+- *2018.12.10* ICDM: "GINA: Group Gender Identification Using Privacy-Sensitive Audio Data" \[[Slides](talks/GINA 0705.pdf)\]
+{: class="date-ul tbc"}

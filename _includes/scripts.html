@@ -38,6 +38,9 @@
 	            // createWebPage(defaultTemplate);
 	            bibtex_js_draw();
 
+				reload_time();
+				reload_time2();
+
 	          } else {
 	            console.error('Error: .page__inner-wrap not found in fetched content.');
 	          }
@@ -51,6 +54,88 @@
 	  });
 	});
 
+	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    // var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+	function reload_time(){
+		 $('.date-ul.tbc li').each(function() {
+		    var dateText = $(this).find('em').text();
+		    var parts = dateText.split('.');
+		    var year = parts[0];
+		    var month = parts[1];
+		    var day = parts[2];
+
+		    
+		    var monthIndex = parseInt(month) - 1;
+		    var monthAbbr = monthNames[monthIndex];
+
+		    var dateRibbon = $('<div>').addClass('date-container')
+		    	.append($('<div>').addClass('dt-day').text(day))
+		      .append($('<span>').addClass('dt-month').text(monthAbbr))
+		      .append($('<span>').addClass('dt-year').text(year));
+
+		    var contentText = $(this).html().replace(dateText, '').trim();
+		    var contentDiv = $('<div>').addClass('content-div').html(contentText);
+
+		    var container = $('<div>').addClass('container')
+		      .append(dateRibbon)
+		      .append(contentDiv);
+
+		    $(this).html(container);
+		});
+	}
+
+	function reload_time2() {
+	  $('.date-ul.tbc2 li').each(function() {
+	    var emElements = $(this).find('em');
+
+	    if (emElements.length === 2) {
+	      var dateText1 = emElements.first().text();
+	      var dateText2 = emElements.last().text();
+
+	      var parts1 = dateText1.split('.');
+	      var year1 = parts1[0];
+	      var month1 = parts1[1];
+	      var day1 = parts1.length === 3 ? parts1[2] : '';
+
+	      var parts2 = dateText2.split('.');
+	      var year2 = parts2[0];
+	      var month2 = parts2[1];
+	      var day2 = parts2.length === 3 ? parts2[2] : '';
+
+	      var monthIndex1 = parseInt(month1) - 1;
+	      var monthAbbr1 = monthNames[monthIndex1];
+
+	      var monthIndex2 = parseInt(month2) - 1;
+	      var monthAbbr2 = monthNames[monthIndex2];
+
+	      var dateRibbon1 = $('<div>').addClass('date-container')
+	        .append($('<div>').addClass('dt-day').text(day1))
+	        .append($('<span>').addClass('dt-month').text(monthAbbr1))
+	        .append($('<span>').addClass('dt-year').text(year1));
+
+	      var dateRibbon2 = $('<div>').addClass('date-container')
+	        .append($('<div>').addClass('dt-day').text(day2))
+	        .append($('<span>').addClass('dt-month').text(monthAbbr2))
+	        .append($('<span>').addClass('dt-year').text(year2));
+
+	      var contentText = $(this).html().replace(emElements.first().prop('outerHTML'), '').replace(emElements.last().prop('outerHTML'), '').replace('-', '').trim();
+	      var contentDiv = $('<div>').addClass('content-div').html(contentText);
+
+	      var container = $('<div>').addClass('container')
+	        .append(dateRibbon1)
+	        .append(dateRibbon2)
+	        .append(contentDiv);
+
+	      $(this).html(container);
+	    } else {
+	      // Unsupported number of em elements, skip this li
+	      return;
+	    }
+	  });
+	}
+	reload_time();
+	reload_time2();
 
 	// $(document).ready(function() {
 	//   $('.news-area li').each(function() {
@@ -68,35 +153,7 @@
 	//   });
 	// });
 
-	$(document).ready(function() {
-	  $('.news-area li').each(function() {
-	    var dateText = $(this).find('em').text();
-	    var parts = dateText.split('.');
-	    var year = parts[0];
-	    var month = parts[1];
-	    var day = parts[2];
-
-	    var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-	    var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-
-	    var monthIndex = parseInt(month) - 1;
-	    var monthAbbr = monthNames[monthIndex];
-
-	    var dateRibbon = $('<div>').addClass('date-container')
-	    	.append($('<div>').addClass('dt-day').text(day))
-	      .append($('<span>').addClass('dt-month').text(monthAbbr))
-	      .append($('<span>').addClass('dt-year').text(year));
-
-	    var contentText = $(this).text().replace(dateText, '').trim();
-	    var contentDiv = $('<div>').addClass('content-div').text(contentText);
-
-	    var container = $('<div>').addClass('container')
-	      .append(dateRibbon)
-	      .append(contentDiv);
-
-	    $(this).html(container);
-	  });
-	});
+	
 	// $(document).ready(function() {
 	//   $('em').each(function() {
 	//     var dateString = $(this).text();
