@@ -69,10 +69,10 @@
 		    var monthIndex = parseInt(month) - 1;
 		    var monthAbbr = monthNames[monthIndex];
 
-		    var dateRibbon = $('<div>').addClass('date-container')
-		    	.append($('<div>').addClass('dt-day').text(day))
-		      .append($('<span>').addClass('dt-month').text(monthAbbr))
-		      .append($('<span>').addClass('dt-year').text(year));
+		    var dateRibbon = $('<time>').addClass('date-as-calendar inline-flex size0_75x')
+		    	.append($('<div>').addClass('day').text(day))
+		      .append($('<span>').addClass('month').text(monthAbbr))
+		      .append($('<span>').addClass('year').text(year));
 
 		    var contentText = $(this).html().replace(dateText, '').trim();
 		    var contentDiv = $('<div>').addClass('content-div').html(contentText);
@@ -109,21 +109,22 @@
 	      var monthIndex2 = parseInt(month2) - 1;
 	      var monthAbbr2 = monthNames[monthIndex2];
 
-	      var dateRibbon1 = $('<div>').addClass('date-container')
-	        .append($('<div>').addClass('dt-day').text(day1))
-	        .append($('<span>').addClass('dt-month').text(monthAbbr1))
-	        .append($('<span>').addClass('dt-year').text(year1));
+	      var dateRibbon1 = $('<time>').addClass('date-as-calendar inline-flex size0_75x')
+	        .append($('<div>').addClass('day').text(day1))
+	        .append($('<span>').addClass('month').text(monthAbbr1))
+	        .append($('<span>').addClass('year').text(year1));
 
-	      var dateRibbon2 = $('<div>').addClass('date-container')
-	        .append($('<div>').addClass('dt-day').text(day2))
-	        .append($('<span>').addClass('dt-month').text(monthAbbr2))
-	        .append($('<span>').addClass('dt-year').text(year2));
+	      var dateRibbon2 = $('<time>').addClass('date-as-calendar inline-flex size0_75x')
+	        .append($('<div>').addClass('day').text(day2))
+	        .append($('<span>').addClass('month').text(monthAbbr2))
+	        .append($('<span>').addClass('year2').text(year2));
 
 	      var contentText = $(this).html().replace(emElements.first().prop('outerHTML'), '').replace(emElements.last().prop('outerHTML'), '').replace('-', '').trim();
 	      var contentDiv = $('<div>').addClass('content-div').html(contentText);
 
 	      var container = $('<div>').addClass('container')
 	        .append(dateRibbon1)
+	        .append('<div> - </div>')
 	        .append(dateRibbon2)
 	        .append(contentDiv);
 
