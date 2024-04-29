@@ -6,6 +6,8 @@
 <script type="text/javascript" src="assets/js/bibtex_js.js"></script>
 
 <script>
+	// change a href to ajax
+	// shen
 	document.addEventListener('DOMContentLoaded', function() {
 	  var changeContentLinks = document.querySelectorAll('.change-content');
 	  var pageInnerWrap = document.querySelector('.page-content');
@@ -43,9 +45,81 @@
 	        .catch(function(error) {
 	          console.error('Error fetching content:', error);
 	        });
+
+
 	    });
 	  });
 	});
+
+
+	// $(document).ready(function() {
+	//   $('.news-area li').each(function() {
+	//     var dateText = $(this).find('em').text();
+	//     var contentText = $(this).text().replace(dateText, '').trim();
+
+	//     var dateDiv = $('<div>').addClass('date-div').text(dateText);
+	//     var contentDiv = $('<div>').addClass('content-div').text(contentText);
+
+	//     var container = $('<div>').addClass('container')
+	//       .append(dateDiv)
+	//       .append(contentDiv);
+
+	//     $(this).html(container);
+	//   });
+	// });
+
+	$(document).ready(function() {
+	  $('.news-area li').each(function() {
+	    var dateText = $(this).find('em').text();
+	    var parts = dateText.split('.');
+	    var year = parts[0];
+	    var month = parts[1];
+	    var day = parts[2];
+
+	    var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+	    var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+	    var monthIndex = parseInt(month) - 1;
+	    var monthAbbr = monthNames[monthIndex];
+
+	    var dateRibbon = $('<div>').addClass('date-container')
+	    	.append($('<div>').addClass('dt-day').text(day))
+	      .append($('<span>').addClass('dt-month').text(monthAbbr))
+	      .append($('<span>').addClass('dt-year').text(year));
+
+	    var contentText = $(this).text().replace(dateText, '').trim();
+	    var contentDiv = $('<div>').addClass('content-div').text(contentText);
+
+	    var container = $('<div>').addClass('container')
+	      .append(dateRibbon)
+	      .append(contentDiv);
+
+	    $(this).html(container);
+	  });
+	});
+	// $(document).ready(function() {
+	//   $('em').each(function() {
+	//     var dateString = $(this).text();
+	//     var parts = dateString.split('.');
+	//     var year = parts[0];
+	//     var month = parts[1];
+
+	//     var monthNames = [
+	//       'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+	//       'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
+	//     ];
+
+	//     var monthIndex = parseInt(month) - 1;
+	//     var monthAbbr = monthNames[monthIndex];
+
+	//     var html = '<span class="date-container"><span class="date-as-calendar position-pixels">' +
+	//                '  <span class="month">' + monthAbbr + '</span>' +
+	//                '  <span class="year">' + year + '</span>' +
+	//                '</span></span>';
+	//     $(this).replaceWith(html);
+	//   });
+	// });
+
 
 
 
