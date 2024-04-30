@@ -47,7 +47,7 @@
 /*   light cyan */
 /*   background : linear-gradient(to bottom right, #77B0AA 0%, #003C43 100%); */
   color: white;
-  font-weight: bold;
+/*  font-weight: bold;*/
 }
 
 .date-as-calendar .year {
@@ -64,7 +64,7 @@
 /*   light cyan */
    background : linear-gradient(to bottom right, #77B0AA 0%, #003C43 100%); 
   color: white;
-  font-weight: bold;
+/*  font-weight: bold;*/
 }
 
 
@@ -88,8 +88,8 @@
 }
 .inline-flex.date-as-calendar .month {
   order: 2;
-  font-size: 0.9em;
-  padding: 0.15em 0;
+  font-size: 1.2em;
+/*  padding-bottom: 1.1em;*/
 }
 .inline-flex.date-as-calendar .day {
   order: 3;
@@ -105,6 +105,9 @@
 /* Multiple sizes. */
 .date-as-calendar.size0_5x {
   font-size: 8px;
+}
+.date-as-calendar.size0_6x {
+  font-size: 10.5px;
 }
 .date-as-calendar.size0_75x {
   font-size: 12px;
