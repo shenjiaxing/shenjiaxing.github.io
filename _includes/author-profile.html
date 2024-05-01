@@ -23,13 +23,13 @@
         <!-- <li><div style="white-space: normal; margin-bottom: 1em; width: 90%; margin-left: auto;margin-right: auto"><img src="{{ site.description }}" alt="{{ site.description }}"></div></li> -->
       {% endif %}
       {% if author.location %}
-        <li><i class="fas fa-fw fa-location-arrow" aria-hidden="true"></i> {{ author.location }}</li>
+        <li><i class="fas fa-fw fa-location-arrow" aria-hidden="true" style="margin-right: 0.5rem;"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.uri %}
         <li><span><i class="fas fa-fw fa-building" aria-hidden="true"></i> {{ author.uri }}</span></li>
       {% endif %}
       {% if author.pubmed %}
-        <li><i class="fas fa-phone" aria-hidden="true"></i> {{ author.pubmed }}</li>
+        <li><i class="fas fa-phone" aria-hidden="true" style="margin-right: 0.5rem;"></i>{{ author.pubmed }}</li>
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true" style="margin-right: 0.5rem;"></i>Email</a></li>
