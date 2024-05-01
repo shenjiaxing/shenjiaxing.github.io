@@ -7,14 +7,13 @@ author_profile: true
 
 
 # News
-- 📌 **Seeking motivated PhD candidates for 2025/26 cohort.
+- 📌 **Seeking motivated PhD candidates for 2025/26 intake.
 Application deadline: December 1, 2024**.
 - 📌 **The International Conference on Behavioural and Social Computing (<a href="http://besc-conf.org/2024/">BESC</a>) is calling for paper now.**
 {: class="date-ul"}
 
 
 - *2024.4.29* 🏆 Our team has won Merit Award in Teaching Excellence Awards Scheme of Lingnan University 2023/24.
-<!-- - 📌 **Recruiting Postdoctoral Fellows in mobile computing or data mining.**  -->
 - *2024.04.01* Our work entitled "Advancing Sketch-based Network Measurement: A General, Fine-Grained, Bit-Adaptive Sliding Window Framework" has been accepted by IEEE/ACM International Symposium on Quality of Service (IWQoS). 
 - *2024.03.23* Our work entitled "ViDSOD-100: A New Dataset and A Baseline Model for RGB-D Video Salient Object Detection" has been accepted by International Journal of Computer Vision (IJCV).
 - *2024.03.03* Our work entitled "Personality-affected Emotion Generation in Dialog Systems" has been accepted by ACM Transactions on Information Systems (TOIS).
