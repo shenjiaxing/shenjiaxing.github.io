@@ -125,7 +125,7 @@
     color: #fff;
     font-family: sans-serif;  
     background : linear-gradient(to bottom right, var(--ccfb) 0%, var(--ccfa) 100%);
-    box-shadow: 2px 2px 2px -2px black;
+    box-shadow: 1px 1px 1px -1px black;
 /*    background: ;*/
     line-height: 1.1;
 
@@ -145,7 +145,7 @@
     color: #fff;
 /*    background: var(--ccfb);*/
     background : linear-gradient(to bottom right, var(--ccfc) 0%, var(--ccfa) 100%);
-    box-shadow: 2px 2px 2px -2px black;
+    box-shadow: 1px 1px 1px -1px black;
     line-height: 1.1;
     font-size: 12px;
   }
@@ -178,7 +178,7 @@
     color: #fff;
     font-family: sans-serif;  
     background : linear-gradient(to bottom right, var(--jcrq2) 0%, var(--jcrq1) 100%);
-    box-shadow: 2px 2px 2px -2px black;
+    box-shadow: 1px 1px 1px -1px black;
 /*    background: var(--jcrq1);*/
     line-height: 1.1 em;
     font-size: 12px;
@@ -214,7 +214,7 @@
     color: #fff;
 /*    background: var(--best);*/
     background : linear-gradient(to bottom right, var(--best0) 0%, var(--best) 100%);
-    box-shadow: 2px 2px 2px -2px black;
+    box-shadow: 1px 1px 1px -1px black;
     line-height: 1.1;
     font-size: 12px;
   }
