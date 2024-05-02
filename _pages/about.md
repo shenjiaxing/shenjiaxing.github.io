@@ -16,13 +16,12 @@ I am honored to have received two best paper awards, one of which was presented 
 
 
 # Education and Working Experience
-- *2022.9* - *Now* Assistant Professor, Lingnan University
-- *2020.2* - *2022.8* Research Assistant Professor, The Hong Kong Polytechnic University
-- *2017.9* - *2018.9* visiting Ph.D., Media Lab, Massachusetts Institute of Technology, Boston US
-- *2014.9* - *2019.7* Ph.D., Computer Science, The Hong Kong Polytechnic University, Hong Kong SAR China
+- *2022.9* - *Now* Assistant Professor, Lingnan University, Hong Kong China
+- *2020.2* - *2022.8* Research Assistant Professor, The Hong Kong Polytechnic University, Hong Kong China
+- *2017.9* - *2018.9* Visiting Ph.D., Media Lab, Massachusetts Institute of Technology, Boston US
+- *2014.9* - *2019.7* Ph.D., Computer Science, The Hong Kong Polytechnic University, Hong Kong China
 - *2010.09* - *2014.06* B.E., Software Engineering, Jilin University, Chang Chun China 
 {: class="date-ul tbc2"}
-
 
 
 # Selected Honors and Awards

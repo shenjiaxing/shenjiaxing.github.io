@@ -66,8 +66,12 @@
 		    var day = parts[2];
 
 		    
-		    var monthIndex = parseInt(month) - 1;
-		    var monthAbbr = monthNames[monthIndex];
+		    if (isNaN(parseInt(month))) {
+			  monthAbbr = month;
+			} else {
+			  monthIndex = parseInt(month) - 1;
+			  monthAbbr = monthNames[monthIndex];
+			}
 
 		    var dateRibbon = $('<time>').addClass('date-as-calendar inline-flex size0_6x')
 		    	.append($('<div>').addClass('day').text(day))
@@ -103,11 +107,25 @@
 	      var month2 = parts2[1];
 	      var day2 = parts2.length === 3 ? parts2[2] : '';
 
-	      var monthIndex1 = parseInt(month1) - 1;
-	      var monthAbbr1 = monthNames[monthIndex1];
+	      
+			if (isNaN(parseInt(month1))) {
+			  monthAbbr1 = month1;
+			} else {
+			  monthIndex1 = parseInt(month1) - 1;
+			  monthAbbr1 = monthNames[monthIndex1];
+			}
 
-	      var monthIndex2 = parseInt(month2) - 1;
-	      var monthAbbr2 = monthNames[monthIndex2];
+			if (isNaN(parseInt(month2))) {
+			  monthAbbr2 = month2;
+			} else {
+			  monthIndex2 = parseInt(month2) - 1;
+			  monthAbbr2 = monthNames[monthIndex2];
+			}
+	      // var monthIndex1 = parseInt(month1) - 1;
+	      // var monthAbbr1 = monthNames[monthIndex1];
+
+	      // var monthIndex2 = parseInt(month2) - 1;
+	      // var monthAbbr2 = monthNames[monthIndex2];
 
 	      var dateRibbon1 = $('<time>').addClass('date-as-calendar inline-flex size0_6x')
 	        .append($('<span>').addClass('day').text(day1))
