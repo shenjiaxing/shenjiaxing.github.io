@@ -15,9 +15,13 @@ I have contributed over <span id='num_total'>NA</span> publications to esteemed 
 I am honored to have received two best paper awards, one of which was presented at IEEE INFOCOM 2020, a leading conference in networking and communications.
 
 
-# Education and Working Experience
+# Working Experience
 - *2022.9* - *Now* Assistant Professor, Lingnan University, Hong Kong China
 - *2020.2* - *2022.8* Research Assistant Professor, The Hong Kong Polytechnic University, Hong Kong China
+{: class="date-ul tbc2"}
+
+
+# Education 
 - *2017.9* - *2018.9* Visiting PhD, Media Lab, Massachusetts Institute of Technology, Boston US
 - *2014.9* - *2019.7* PhD, Computer Science, The Hong Kong Polytechnic University, Hong Kong China
 - *2010.09* - *2014.06* BE, Software Engineering, Jilin University, Chang Chun China 
