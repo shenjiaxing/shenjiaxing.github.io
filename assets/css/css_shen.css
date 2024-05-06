@@ -129,6 +129,7 @@
 /*    background: ;*/
     line-height: 1.1;
     font-size: 12px;
+    white-space: nowrap; 
   }
   [class="ccfb"] {
     font-weight: bold;
@@ -141,6 +142,7 @@
     border-radius: 5px;
     padding: 3.5px 4px;
     border: 0;
+    white-space: nowrap; 
     color: #fff;
 /*    background: var(--ccfb);*/
     background : linear-gradient(to bottom right, var(--ccfc) 0%, var(--ccfa) 100%);
@@ -174,6 +176,7 @@
     border-radius: 5px;
     padding: 3.5px 4px;
     border: 0;
+    white-space: nowrap; 
     color: #fff;
     font-family: sans-serif;  
     background : linear-gradient(to bottom right, var(--jcrq2) 0%, var(--jcrq1) 100%);
@@ -210,6 +213,7 @@
     border-radius: 5px;
     padding: 3.5px 4px;
     border: 0;
+    white-space: nowrap; 
     color: #fff;
 /*    background: var(--best);*/
     background : linear-gradient(to bottom right, var(--best0) 0%, var(--best) 100%);
