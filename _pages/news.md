@@ -31,6 +31,10 @@ Application deadline: December 1, 2024**.
 - *2023.06.01* Our work entitled "RemoteGesture: Room-scale Acoustic Gesture Recognition for Multiple Users" has been accepted by IEEE International Conference on Sensing, Communication, and Networking (SECON).
 - *2023.05.04* Our work entitled "Density Estimation-based Method to Determine Sample Size for Random Sample Partition of Big Data" has been accepted by Frontiers of Computer Science.
 - *2023.04.28* Our work entitled "Effective Fault Scenario Identification for Communication Networks via Knowledge-Enhanced Graph Neural Networks" has been accepted by IEEE Transaction on Mobile Computing (TMC).
+{: class="date-ul tbc"}
+
+
+# 2022
 - *2022.12.12* Recruiting 1-2 Research Assistant(s) with background in spatiotemporal data mining and mobile crowdsensing. 
 - *2022.11.11* Our work HearFire has been accepted by Ubicomp2023 (ACM IMWUT).
 <!-- *2022.09:* Recruiting Ph.D. students with high research potential under [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html). Feel free to drop me an email if you are interested. --> 
