@@ -12,13 +12,17 @@ Application deadline: December 1, 2024**.
 - 📌 **The International Conference on Behavioural and Social Computing (<a href="http://besc-conf.org/2024/">BESC</a>) is calling for paper now.**
 {: class="date-ul"}
 
-
+## 2024
 - *2024.4.29* 🏆 Our team has won Merit Award in Teaching Excellence Awards Scheme of Lingnan University 2023/24.
 - *2024.04.01* Our work entitled "Advancing Sketch-based Network Measurement: A General, Fine-Grained, Bit-Adaptive Sliding Window Framework" has been accepted by IEEE/ACM International Symposium on Quality of Service (IWQoS). 
 - *2024.03.23* Our work entitled "ViDSOD-100: A New Dataset and A Baseline Model for RGB-D Video Salient Object Detection" has been accepted by International Journal of Computer Vision (IJCV).
 - *2024.03.03* Our work entitled "Personality-affected Emotion Generation in Dialog Systems" has been accepted by ACM Transactions on Information Systems (TOIS).
 - *2024.02.10* Our work entitled "Prompting Explicit and Implicit Knowledge for Multi-hop Question Answering Based on Human Reading Process" has been accepted by International Conference on Computational Linguistics (COLING).
 - *2024.01.11* Our work entitled "Privacy-preserving Human Activity Sensing: A Survey" has been accepted by High-Confidence Computing.
+{: class="date-ul tbc"}
+
+
+## 2023
 - *2023.12.23* Our work entitled "Distributed Semi-Supervised Learning with Consensus Consistency on Edge Devices" has been accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS).
 - *2023.12.02* Our work entitled "Effective Network-Wide Traffic Measurement: A Lightweight Distributed Sketch Deployment" has been accepted by IEEE Conference on Computer Communications (INFOCOM).
 - *2023.11.23* Our works entitled "NetCR: Knowledge Graph based Recommendation Framework for Manual Network Configuration" and "ConfigReco: Network Configuration Recommendation with Graph Neural Networks" have been accepted by IEEE Internet of Things Journal and IEEE Network Magazine, respectively.
