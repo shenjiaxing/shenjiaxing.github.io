@@ -18,7 +18,7 @@ author_profile: true
  -->
 
 ## Editorship
-- Guest editor, Mathematics. SI: [Big Data Analytics for Social Good](https://www.mdpi.com/journal/mathematics/special_issues/D1EO3BX64M)
+- Guest editor, Mathematics. Specia Issue on [Big Data Analytics for Social Good](https://www.mdpi.com/journal/mathematics/special_issues/D1EO3BX64M)
 
 ## Organizing Committee
 - BESC 2024
