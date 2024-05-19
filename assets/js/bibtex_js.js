@@ -964,6 +964,9 @@ function bibtex_js_draw() {
         // countPapers();
     });
 
+    // add ol
+    
+
     // added Shen
     // count paper numbers
     $.when.apply($, requests).then(function() {
