@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <!-- <span class='anchor' id='about-me'></span> -->
-I am an Assistant Professor with School of Data Science, Lingnan University. 
+I am an Assistant Professor with School of Data Science, Lingnan University.
 I hold a B.E. degree from Jilin University (2014) and a Ph.D. degree from The Hong Kong Polytechnic University (2019), with additional research experience gained during a visiting scholarship at MIT Media Lab in 2017.
 
 My research centers on AIoT-empowered Human Dynamics, a field that strives to decode human behavior and deliver practical insights by weaving together cross-disciplinary knowledge with AI and IoT. Within this domain, my research interests include Context-aware Computing, Mobile Computing, Data Mining, and Generative AI.
