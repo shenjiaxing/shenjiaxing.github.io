@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-- 📌 **Seeking motivated PhD candidates for 2025/26 intake.
+- 📌 **Seeking self-motivated PhD candidates for 2025/26 intake.
 Application deadline: December 1, 2024**.
 - 📌 **The International Conference on Behavioural and Social Computing (<a href="http://besc-conf.org/2024/">BESC</a>) is calling for paper now.**
 {: class="date-ul"}
