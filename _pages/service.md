@@ -35,6 +35,7 @@ author_profile: true
 - ACM Transactions on Intelligent Systems and Technology
 - ACM Transactions on Cyber-Physical Systems
 - ACM Computing Surveys
+- ACM Transactions on Architecture and Code Optimization
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Big Data
