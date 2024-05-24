@@ -13,6 +13,7 @@ Application deadline: December 1, 2024**.
 {: class="date-ul"}
 
 # 2024
+- *2024.05* Our work entitled "Multi-modal Transform-based Fusion Model for New Product Sales Forecasting" has been accepted by Engineering Applications of Artificial Intelligence. 
 - *2024.4.29* 🏆 Our team has won Merit Award in Teaching Excellence Awards Scheme of Lingnan University 2023/24.
 - *2024.04.01* Our work entitled "Advancing Sketch-based Network Measurement: A General, Fine-Grained, Bit-Adaptive Sliding Window Framework" has been accepted by IEEE/ACM International Symposium on Quality of Service (IWQoS). 
 - *2024.03.23* Our work entitled "ViDSOD-100: A New Dataset and A Baseline Model for RGB-D Video Salient Object Detection" has been accepted by International Journal of Computer Vision (IJCV).
