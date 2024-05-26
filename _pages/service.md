@@ -32,14 +32,14 @@ author_profile: true
 - IEEE MASS 2022
 
 ## Journal Reviewer
-- ACM Transactions on Intelligent Systems and Technology
-- ACM Transactions on Cyber-Physical Systems
-- ACM Computing Surveys
-- ACM Transactions on Architecture and Code Optimization
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Big Data
 - IEEE Internet of Things Journal
+- ACM Transactions on Intelligent Systems and Technology
+- ACM Transactions on Cyber-Physical Systems
+- ACM Computing Surveys
+- ACM Transactions on Architecture and Code Optimization
 - INFORMS Journal on Computing
 
 
