@@ -13,6 +13,7 @@ Application deadline: 1 December, 2024**.
 {: class="date-ul"}
 
 # 2024
+- *2024.05* Our work entitled "Learning Motion-guided Multi-scale Memory Features for Video Shadow Detection" has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2024.05* Our work entitled "Multi-modal Transform-based Fusion Model for New Product Sales Forecasting" has been accepted by Engineering Applications of Artificial Intelligence. 
 - *2024.4.29* 🏆 Our team has won Merit Award in Teaching Excellence Awards Scheme of Lingnan University 2023/24.
 - *2024.04.01* Our work entitled "Advancing Sketch-based Network Measurement: A General, Fine-Grained, Bit-Adaptive Sliding Window Framework" has been accepted by IEEE/ACM International Symposium on Quality of Service (IWQoS). 
