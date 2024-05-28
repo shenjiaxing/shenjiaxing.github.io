@@ -9,7 +9,8 @@ author_profile: true
 
 - 📌 **Seeking self-motivated PhD candidates for 2025/26 intake.
 Application deadline: 1 December, 2024**.
-- 📌 **The International Conference on Behavioural and Social Computing (<a href="http://besc-conf.org/2024/">BESC</a>) is calling for paper now.**
+- 📌 **<em>Mathematics</em> <span class="jcrq1">JCR-Q1</span> special issue on <a href="https://www.mdpi.com/journal/mathematics/special_issues/D1EO3BX64M">Big Data Analytics for Social Good</a> is calling for paper now.** 
+<!-- - 📌 **The International Conference on Behavioural and Social Computing (<a href="http://besc-conf.org/2024/">BESC</a>) is calling for paper now.** -->
 {: class="date-ul"}
 
 # 2024
