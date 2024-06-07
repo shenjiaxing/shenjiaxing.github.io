@@ -18,6 +18,8 @@ author_profile: true
 
 
 # Talks
+
+- *2023.10* Birds of a Feather Purchase Together: Accurate Social Network Inference using Transaction Data \[[Slides](talks/Birds of a Feather Purchase Together- Accurate Social Network Inference using Transaction Data.pdf)\]
 - *2022.04.25* Technique sharing: Singular Value Decomposition (SVD) and Its Applications \[[Slides](talks/SVD tutorial 2022.pdf)\]
 - *2020.12.12* Data-Driven Analytics of Human Dynamics \[[Slides](talks/Data-Driven Analytics of Human Dynamics.pdf)\]
 - *2018.12.10* ICDM: "GINA: Group Gender Identification Using Privacy-Sensitive Audio Data" \[[Slides](talks/GINA 0705.pdf)\]
