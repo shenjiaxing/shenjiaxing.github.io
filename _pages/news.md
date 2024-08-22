@@ -7,13 +7,14 @@ author_profile: true
 
 
 
-- 📌 **Seeking self-motivated PhD candidates for 2025/26 intake.
+- 📌 **Seeking self-motivated PhD candidates for 2025/26 intake (two vacancies).
 Application deadline: 1 December, 2024**.
 - 📌 **<em>Mathematics</em> <span class="jcrq1">JCR-Q1</span> special issue on <a href="https://www.mdpi.com/journal/mathematics/special_issues/D1EO3BX64M">Big Data Analytics for Social Good</a> is calling for paper now.** 
 <!-- - 📌 **The International Conference on Behavioural and Social Computing (<a href="http://besc-conf.org/2024/">BESC</a>) is calling for paper now.** -->
 {: class="date-ul"}
 
 # 2024
+- *2024.07* Two papers accepted by IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2024.
 - *2024.05* Our work entitled "Learning Motion-guided Multi-scale Memory Features for Video Shadow Detection" has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2024.05* Our work entitled "Multi-modal Transform-based Fusion Model for New Product Sales Forecasting" has been accepted by Engineering Applications of Artificial Intelligence. 
 - *2024.4.29* 🏆 Our team has won Merit Award in Teaching Excellence Awards Scheme of Lingnan University 2023/24.
