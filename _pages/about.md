@@ -18,9 +18,12 @@ I am honored to have received two best paper awards, one of which was presented 
 
 
 **<span class="realistic-marker-highlight">Two PhD Positions Available (2025/26 Intake)</span>**
-We are seeking highly motivated PhD candidates in the 2025/26 academic year. Both positions offer a comprehensive scholarship package. Interested applicants are encouraged to email their CV and a brief statement of research interests. All applications will be carefully evaluated, and responses will be provided to each candidate.
 - LLM-Empowered Affective Computing
 - Spatiotemporal Data Mining with Mobile Crowdsensing
+
+Both positions offer a comprehensive scholarship package. 
+Candidates are expected to 1) hold at least a Bachelor degree in Computer Science, Data Science, or a related field from a recognized institution, 2) work independently and collaboratively in a research team.
+Interested applicants are encouraged to email their CV and a brief statement of research interests. All applications will be carefully evaluated, and responses will be provided to each candidate.
 
 
 # Working Experience
