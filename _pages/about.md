@@ -15,7 +15,11 @@ My research centers on AIoT-empowered Human Dynamics, a field that strives to de
 I have contributed over <span id='num_total'>NA</span> publications to esteemed journals including ACM TOIS, ACM IMWUT, IEEE TMC, IEEE TKDE, IEEE TPDS, and JSAC as well as prestigious conferences such as WWW, IEEE INFOCOM, and IEEE ICDM.
 I am honored to have received two best paper awards, one of which was presented at IEEE INFOCOM 2020, a leading conference in networking and communications.
 
-📌 **Seeking self-motivated PhD candidates for 2025/26 intake. Two vacancies: LLM-empowered affective computing; spatiotemporal data mining with mobile crowdsensing.**
+
+📌 **PhD Positions Available: 2025/26 Intake**
+We are seeking highly motivated PhD candidates for two fully-funded positions starting in the 2025/26 academic year:
+- LLM-Empowered Affective Computing
+- Spatiotemporal Data Mining with Mobile Crowdsensing
 {: class="date-ul"}
 
 # Working Experience
