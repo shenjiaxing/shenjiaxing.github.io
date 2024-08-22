@@ -15,7 +15,8 @@ My research centers on AIoT-empowered Human Dynamics, a field that strives to de
 I have contributed over <span id='num_total'>NA</span> publications to esteemed journals including ACM TOIS, ACM IMWUT, IEEE TMC, IEEE TKDE, IEEE TPDS, and JSAC as well as prestigious conferences such as WWW, IEEE INFOCOM, and IEEE ICDM.
 I am honored to have received two best paper awards, one of which was presented at IEEE INFOCOM 2020, a leading conference in networking and communications.
 
-- 📌 **Seeking self-motivated PhD candidates for 2025/26 intake. Two vacancies: affective computing x large language model; spatiotemporal data mining + mobile crowdsensing.**.
+📌 **Seeking self-motivated PhD candidates for 2025/26 intake. Two vacancies: LLM-empowered affective computing; spatiotemporal data mining with mobile crowdsensing.**
+{: class="date-ul"}
 
 # Working Experience
 - *2022.9* - *Now* Assistant Professor, Lingnan University, Hong Kong, China
