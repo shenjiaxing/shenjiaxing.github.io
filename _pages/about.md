@@ -16,11 +16,12 @@ I have contributed over <span id='num_total'>NA</span> publications to esteemed 
 I am honored to have received two best paper awards, one of which was presented at IEEE INFOCOM 2020, a leading conference in networking and communications.
 
 
-📌 **PhD Positions Available: 2025/26 Intake**
-We are seeking highly motivated PhD candidates for two fully-funded positions starting in the 2025/26 academic year:
+
+**<span class="realistic-marker-highlight">PhD Positions Available (2025/26 Intake)</span>**
+We are seeking highly motivated PhD candidates in the 2025/26 academic year. Both positions offer a comprehensive scholarship package. Interested applicants are encouraged to email their CV and a brief statement of research interests. All applications will be carefully evaluated, and responses will be provided to each candidate.
 - LLM-Empowered Affective Computing
 - Spatiotemporal Data Mining with Mobile Crowdsensing
-{: class="date-ul"}
+
 
 # Working Experience
 - *2022.9* - *Now* Assistant Professor, Lingnan University, Hong Kong, China
