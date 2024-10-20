@@ -21,6 +21,11 @@ I am honored to have received two best paper awards, one of which was presented 
 - LLM-Empowered Affective Computing
 - Spatiotemporal Data Mining with Mobile Crowdsensing
 
+**<span class="realistic-marker-highlight">Hong Kong PhD Fellowship Scheme (HKPFS)</span>**
+- A monthly stipend of HK$28,100
+- Due by 1 December 2024
+
+
 Both positions offer a comprehensive scholarship package. 
 Candidates are expected to 1) hold at least a Bachelor degree in Computer Science, Data Science, or a related field from a recognized institution, 2) work independently and collaboratively in a research team.
 Interested applicants are encouraged to email their CV and a brief statement of research interests. All applications will be carefully evaluated, and responses will be provided to each candidate.
