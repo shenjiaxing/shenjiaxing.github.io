@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Internal Service
-- *2024.1* - *now* Programme Director of [Master of Science in Data Science](https://www.ln.edu.hk/cds/mscds/)
+- *2024.1* - *now* Programme Coordinator of [Master of Science in Data Science](https://www.ln.edu.hk/cds/mscds/)
 - *2024.1* - *now* Common Core Course Coordinator of Generative Artifical Intelligence
 {: class="date-ul tbc2"}
 
