@@ -14,6 +14,7 @@ Application deadline: 1 December, 2024**.
 {: class="date-ul"}
 
 # 2024
+- *2024.12* One paper accepted by IEEE Transactions on Computers.
 - *2024.11* One paper accepted by IEEE Transactions on Neural Networks and Learning Systems.
 - *2024.10* One paper accepted by IEEE Transactions on Computers.
 - *2024.09* One paper accepted by IEEE Open Journal of the Communications Society.
