@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 I am currently an Assistant Professor with [Division of Artificial Intelligence](https://www.ln.edu.hk/sds/dai), School of Data Science, Lingnan University. 
-I hold a B.E. degree in Software Engineering from Jilin University and a Ph.D. degree in Computer Science from The Hong Kong Polytechnic University (supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/)).
-I was a visiting scholar at MIT Media Lab (hosted by [Prof. Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/)).
+I hold a B.E. degree in Software Engineering from Jilin University and a Ph.D. degree in Computer Science from The Hong Kong Polytechnic University.
+ <!-- (supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/)). -->
+I was a visiting scholar at MIT Media Lab.
+ <!-- (hosted by [Prof. Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/)). -->
 <!-- I hold a B.E. degree from Jilin University (2014) and a Ph.D. degree from The Hong Kong Polytechnic University (2019), with additional research experience gained during a visiting scholarship at MIT Media Lab in 2017. -->
 
 My research centers on AIoT-empowered Human Dynamics, a field that strives to decode human behavior and deliver practical insights by weaving together cross-disciplinary knowledge with AI and IoT. Within this domain, my research interests include Human-centric Computing, Context-aware Computing, Mobile Computing, Data Mining, and Generative AI.
@@ -15,19 +17,12 @@ My research centers on AIoT-empowered Human Dynamics, a field that strives to de
 I have contributed over <span id='num_total'>NA</span> publications to esteemed journals including ACM TOIS, ACM IMWUT, IEEE TMC, IEEE TKDE, IEEE TPDS, and JSAC as well as prestigious conferences such as WWW, IEEE INFOCOM, and IEEE ICDM.
 I am honored to have received two best paper awards, one of which was presented at IEEE INFOCOM 2020, a leading conference in networking and communications.
 
+**<span class="realistic-marker-highlight">One PhD Position Available (2025/26 Intake)</span>**
+- Personalised LLM
+- Due by 10 Jan 2025
 
-**<span class="realistic-marker-highlight">Two PhD Positions Available (2025/26 Intake)</span>**
-- LLM-Empowered Affective Computing
-- Spatiotemporal Data Mining with Mobile Crowdsensing
-
-**<span class="realistic-marker-highlight">Hong Kong PhD Fellowship Scheme (HKPFS)</span>**
-- A monthly stipend of HK$28,100
-- Due by 1 December 2024
-
-
-Both positions offer a comprehensive scholarship package. 
 Candidates are expected to 1) hold at least a Bachelor degree in Computer Science, Data Science, or a related field from a recognized institution, 2) work independently and collaboratively in a research team.
-Interested applicants are encouraged to email their CV and a brief statement of research interests. All applications will be carefully evaluated, and responses will be provided to each candidate.
+Interested applicants are encouraged to email their CV and a brief statement of research interests. 
 
 
 # Working Experience
