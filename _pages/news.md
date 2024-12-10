@@ -13,6 +13,7 @@ Application deadline: 10 January, 2025**.
 {: class="date-ul"}
 
 # 2024
+- *2024.12* One paper accepted by AAAI 2025.
 - *2024.12* One paper accepted by IEEE Transactions on Computers.
 - *2024.11* One paper accepted by IEEE Transactions on Neural Networks and Learning Systems.
 - *2024.10* One paper accepted by IEEE Transactions on Computers.
