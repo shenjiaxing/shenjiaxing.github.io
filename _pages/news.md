@@ -17,7 +17,7 @@ Application deadline: 10 January, 2025**.
 - *2024.12* One paper accepted by IEEE Transactions on Computers.
 - *2024.11* One paper accepted by IEEE Transactions on Neural Networks and Learning Systems.
 - *2024.10* One paper accepted by IEEE Transactions on Computers.
-- *2024.09* One paper accepted by IEEE Open Journal of the Communications Society.
+<!-- - *2024.09* One paper accepted by IEEE Open Journal of the Communications Society. -->
 - *2024.07* Two papers accepted by IEEE International Conference on Parallel and Distributed Systems (ICPADS) 2024.
 - *2024.05* Our work entitled "Learning Motion-guided Multi-scale Memory Features for Video Shadow Detection" has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 - *2024.05* Our work entitled "Multi-modal Transform-based Fusion Model for New Product Sales Forecasting" has been accepted by Engineering Applications of Artificial Intelligence. 
