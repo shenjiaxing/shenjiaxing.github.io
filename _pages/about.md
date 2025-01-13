@@ -19,7 +19,6 @@ I am honored to have received two best paper awards, one of which was presented 
 
 **<span class="realistic-marker-highlight">One PhD Position Available (2025/26 Intake)</span>**
 - Personalised LLM
-- Due by 10 Jan 2025
 
 Candidates are expected to 1) hold at least a Bachelor degree in Computer Science, Data Science, or a related field from a recognized institution, 2) work independently and collaboratively in a research team.
 Interested applicants are encouraged to email their CV and a brief statement of research interests. 
