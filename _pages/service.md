@@ -18,7 +18,7 @@ author_profile: true
  -->
 
 ## Editorship
-- Guest editor, Mathematics, special issue on [Big Data Analytics for Social Good](https://www.mdpi.com/journal/mathematics/special_issues/D1EO3BX64M) (due date: 30 April 2025)
+<!-- - Guest editor, Mathematics, special issue on [Big Data Analytics for Social Good](https://www.mdpi.com/journal/mathematics/special_issues/D1EO3BX64M) (due date: 30 April 2025) -->
 
 
 ## Organizing Committee
