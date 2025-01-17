@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 I am currently an Assistant Professor with [Division of Artificial Intelligence](https://www.ln.edu.hk/sds/dai), School of Data Science, Lingnan University. 
-I hold a B.E. degree in Software Engineering from Jilin University and a Ph.D. degree in Computer Science from The Hong Kong Polytechnic University.
+I hold a BE degree in Software Engineering from Jilin University and a PhD degree in Computer Science from The Hong Kong Polytechnic University.
  <!-- (supervised by [Prof. Jiannong Cao](https://www4.comp.polyu.edu.hk/~csjcao/)). -->
 I was a visiting scholar at MIT Media Lab.
  <!-- (hosted by [Prof. Alex 'Sandy' Pentland](https://www.media.mit.edu/people/sandy/overview/)). -->
@@ -32,9 +32,9 @@ Interested applicants are encouraged to email their CV and a brief statement of 
 
 
 # Education 
-- *2017.9* - *2018.9* Visiting Ph.D., Media Lab, Massachusetts Institute of Technology, Boston, US
-- *2014.9* - *2019.7* Ph.D., Computer Science, The Hong Kong Polytechnic University, Hong Kong, China
-- *2010.09* - *2014.06* B.E., Software Engineering, Jilin University, Changchun, China 
+- *2017.9* - *2018.9* Visiting PhD, Media Lab, Massachusetts Institute of Technology, Boston, US
+- *2014.9* - *2019.7* PhD, Computer Science, The Hong Kong Polytechnic University, Hong Kong, China
+- *2010.09* - *2014.06* BE, Software Engineering, Jilin University, Changchun, China 
 {: class="date-ul tbc2"}
 
 
