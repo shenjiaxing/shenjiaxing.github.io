@@ -35,6 +35,8 @@ author_profile: true
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Big Data
+- IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Automation Science and Engineering
 - IEEE Internet of Things Journal
 - ACM Transactions on Intelligent Systems and Technology
 - ACM Transactions on Cyber-Physical Systems
