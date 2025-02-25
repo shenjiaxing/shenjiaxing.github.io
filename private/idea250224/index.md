@@ -1,33 +1,51 @@
+Here's the revised proposal incorporating your feedback, with references renumbered and properly cited:
 
-# Personalized Tour Guide Applications in Theme Parks: Optimizing Visitor Experience Through Dynamic Multi-Factor Integration  
+# Adaptive Tour Guide Agent for Theme Parks: Intelligent Itinerary Management Through Multi-Scale Mobility Forecasting  
 
-The modern theme park experience faces a critical challenge: balancing visitor satisfaction with operational efficiency. While parks like Ocean Park offer diverse attractions, visitors often struggle to navigate crowded spaces, leading to suboptimal experiences characterized by long wait times, inefficient routing, and mismatched preferences. This research explores the development of an intelligent tour guide application that dynamically ranks attractions through the integration of personal interests, real-time queue data, and spatial navigation – a system poised to redefine theme park engagement through advanced computational methods.  
+## Core Research Problem: Dynamic Itinerary Planning Under Uncertainty  
+The critical challenge lies in creating an **autonomous decision-making agent** that continuously optimizes visitor experiences through:  
+1. **Multi-Timescale Forecasting**  
+   - Long-term (daily): Seasonal patterns and ticket sales  
+   - Mid-term (hourly): Weather impacts and group arrivals via public transit APIs  
+   - Short-term (15-30min): Attraction wait time projections  
+   - Real-time: Pedestrian flow tracking through WiFi/CCTV analytics  
 
+2. **Context-Aware Replanning**  
+   Balancing four dynamic factors:  
+   1. Visitor preferences (adaptive interest profiles)  
+   2. Mobility constraints (pathway congestion)  
+   3. Operational status (ride availability)  
+   4. External influences (public transit schedules)  
 
-## Core Research Challenge: Multi-Objective Optimization  
-The primary technical hurdle involves real-time balancing of three competing factors[3][6][8]:  
-1. **Visitor Preferences**: Individual interests (thrill-seeking vs family-friendly) and accessibility requirements  
-2. **Operational Dynamics**: Queue times, ride maintenance schedules, and crowd flow patterns  
-3. **Spatial Constraints**: Physical distances between attractions and pathway congestion  
+## Technical Innovation: Hierarchical Prediction-Planning Architecture  
 
-Existing systems like TourVista ([1]) demonstrate basic personalization capabilities but lack integration with live operational data. Research reveals current preference learning algorithms struggle with ranking accuracy ([2]), while theme park crowd models ([3][6]) show predictive capabilities without personalization layers.
+### 1. Multi-Source Mobility Forecasting Engine  
+| Time Horizon | Data Sources | Prediction Model | Use Case |  
+|-------------|--------------|------------------|----------|  
+| 6-24hr | Park admission records, weather APIs | GNN with Graph Attention | Daily staffing/resource allocation |  
+| 1-4hr | Public transit APIs, hotel checkouts | Transformer Temporal Fusion | Anticipating visitor influx peaks |  
+| 15-60min | IoT sensors, queue cameras | LSTM-Conv Hybrid | Wait time projections |  
+| 0-15min | WiFi/CV-based tracking | Kalman Filter Ensemble | Real-time congestion avoidance |  
 
+### 2. Agent Decision-Making Framework  
+**Planning Core**: Monte Carlo Tree Search (MCTS) algorithm enhanced with:  
+- **Reward Function**: Combines preference satisfaction, experience quality (wait/ride ratio), and movement efficiency  
+- **Dynamic Replanning**: Triggered by:  
+  - Wait time deviations >15% from forecasts  
+  - Pathway congestion exceeding capacity thresholds  
+  - User behavior changes (dwell time anomalies)  
 
-<!-- ## AI-Enhanced Solutions  
-### 1. Hybrid Recommendation Engine  
-- **Preference Modeling**: Combine matrix factorization techniques ([5]) with temporal convolutional networks to process both historical preferences and real-time behavior signals (e.g., dwell times at attractions)  
-- **Queue Prediction**: Implement digital twin simulations ([7]) using Oracle's tour framework concepts ([4]) for dynamic capacity management  
-- **Route Optimization**: Apply graph neural networks to spatial-temporal visitor flow data from visual analytics systems ([7])
+**Generative AI Integration**:  
+- LLM-based explanation system ("Changed recommendation because Fantasyland crowds increased 40% in last 20min")  
+- AR visualization of alternative routes using HERE Technologies' mobility data  
 
-### 2. Generative AI Integration  
-- **Adaptive Itineraries**: Use LLMs to generate natural language explanations for recommended routes ("Next visit Space Mountain: 12min walk, 25min wait vs 35min wait if visited later")  
-- **AR Navigation**: Develop real-time overlay systems showing optimal paths and wait time updates  
-- **Accessibility Features**: Automatically generate audio descriptions and language translations for international visitors  
+## Implementation Roadmap  
 
-## Implementation Considerations  
-| Component | Technical Approach | Research Basis |  
-|-----------|--------------------|----------------|  
-| Preference Engine | Federated learning with differential privacy |[5][8] |  
-| Crowd Simulation | Agent-based modeling with Markov predictions |[3][6] |  
-| Data Infrastructure | Oracle Tour Framework-style state management ([4]) |  
- -->
+### Phase 1: Agent Development  
+1. **Data Fusion Layer**: Integrate park operations (Oracle OPERA), mobility (HERE API), and visitor data  
+2. **Simulation Environment**: Unity-based digital twin calibrated with Ocean Park's 2023 visitation patterns  
+
+### Phase 2: Field Testing  
+- A/B test against existing systems (TourVista)  
+- Key metrics: Plan adherence rate, replanning frequency, preference-deviance score  
+
