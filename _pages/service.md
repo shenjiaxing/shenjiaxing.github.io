@@ -44,6 +44,7 @@ Guest editor, Cognitive Robotics (JCR Q1), special issue on [Cognitive Social Ro
 - ACM Computing Surveys
 - ACM Transactions on Architecture and Code Optimization
 - INFORMS Journal on Computing
+- Journal of the American Statistical Association
 
 
 ## Conference Reviewer
