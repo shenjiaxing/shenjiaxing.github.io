@@ -39,6 +39,7 @@ Guest editor, Cognitive Robotics (JCR Q1), special issue on [Cognitive Social Ro
 - IEEE Transactions on Big Data
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Intelligent Transportation Systems
 - IEEE Internet of Things Journal
 - IEEE Journal of Biomedical and Health Informatics
 - ACM Transactions on Intelligent Systems and Technology
