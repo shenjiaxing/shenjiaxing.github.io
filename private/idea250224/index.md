@@ -1,4 +1,3 @@
-Here's the revised proposal incorporating your feedback, with references renumbered and properly cited:
 
 # Adaptive Tour Guide Agent for Theme Parks: Intelligent Itinerary Management Through Multi-Scale Mobility Forecasting  
 
