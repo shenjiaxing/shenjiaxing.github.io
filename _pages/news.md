@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-- 📌 **Seeking for self-motivated PhD candidates.**
+- 📌 **Seeking for self-motivated PhD candidates.** [More detailes]
 <!-- - 📌 **<em>Mathematics</em> <span class="jcrq1">JCR-Q1</span> special issue on <a href="https://www.mdpi.com/journal/mathematics/special_issues/D1EO3BX64M">Big Data Analytics for Social Good</a> is calling for paper now.**  -->
 <!-- - 📌 **The International Conference on Behavioural and Social Computing (<a href="http://besc-conf.org/2024/">BESC</a>) is calling for paper now.** -->
 {: class="date-ul"}

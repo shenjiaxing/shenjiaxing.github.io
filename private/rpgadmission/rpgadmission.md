@@ -1,14 +1,11 @@
 ---
-title: PhD Opportunities 
+permalink: /rpgadmission/
+title: ""
+excerpt: ""
+author_profile: false
 ---
-<style>
-p {
-    text-align: justify;
-}
-h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 10px;
-}
-</style>
+
+
 
 # PhD Opportunities in Dr. Shen's Group
 
