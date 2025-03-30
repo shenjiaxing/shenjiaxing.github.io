@@ -35,7 +35,7 @@ Successful candidates typically have:
 |:------------|------------:|:------------:|----------------------:|:----------|:------------:|
 | UGC-funded PhD | HK$18,900 monthly stipend | 3 years | HK$130,000 | Highly competitive | 31 March 2025* |
 | Self-financed PhD | Part-time RA/TA opportunities (if available) | 3 years | HK$250,000 | Competitive | 31 March 2025* |
-| [Doctor of AI Studies](https://www.ln.edu.hk/sds/dai/dais) | Not specified | 3 years | HK$700,000 | First taught doctoral program in China | 31 June 2025 |
+| [Doctor of AI Studies](https://www.ln.edu.hk/sds/dai/dais) | - | 3 years | HK$700,000 | First taught doctoral program in China | 31 June 2025 |
 
 *\* This is the second round of application for 2025 September intake. Additional rounds may open if vacancies remain available* 
 
