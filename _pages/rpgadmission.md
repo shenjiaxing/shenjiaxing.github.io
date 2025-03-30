@@ -33,6 +33,7 @@ Successful candidates typically have:
 
 | **Program** | **Funding** | **Duration** | **Tuition (approx.)** | **Notes** | **Deadline** |
 |:------------|------------:|:------------:|----------------------:|:----------|:------------:|
+~~| [HK PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html)| An annual stipend of HK$337,200 | 3 years | Waived | Extremely competitive | 31 December 2024* |~~
 | UGC-funded PhD | HK$18,900 monthly stipend | 3 years | HK$130,000 | Highly competitive | 31 March 2025* |
 | Self-financed PhD | Part-time RA/TA opportunities (if available) | 3 years | HK$250,000 | Competitive | 31 March 2025* |
 | [Doctor of AI Studies](https://www.ln.edu.hk/sds/dai/dais) | - | 3 years | HK$700,000 | First taught doctoral program in China | 31 June 2025 |
