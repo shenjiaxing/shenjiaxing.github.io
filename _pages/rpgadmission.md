@@ -37,7 +37,7 @@ Successful candidates typically have:
 | Self-financed PhD | Part-time RA/TA opportunities (if available) | 3 years | HK$250,000 | Competitive | 31 March 2025* |
 | [Doctor of AI Studies](https://www.ln.edu.hk/sds/dai/dais) | - | 3 years | HK$700,000 | First taught doctoral program in China | 31 June 2025 |
 
-*\* This is the second round of application for 2025 September intake. Additional rounds may open if vacancies remain available* 
+*\* This is the second round of application for 2025 September intake. Additional rounds may open if vacancies remain available.* 
 
 ### How to Apply
 
