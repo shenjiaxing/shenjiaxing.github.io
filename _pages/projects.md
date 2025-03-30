@@ -3,7 +3,6 @@ permalink: /projects
 title: ""
 excerpt: ""
 author_profile: true
-
 ---
 
 

@@ -4,25 +4,15 @@ layout: compress
 
 <!doctype html>
 <html lang="en" class="no-js">
+
   <body>
-    
     <div id="main" role="main">
-      <!-- <div class="sidebar-container">
-      {% include sidebar.html %}
-      </div> -->
       <div class="content-container">
-        <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-          {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-          <div class="page__inner-wrap">
             <section class="page-content" itemprop="text">
               {{ content }}
-            </section>
-          </div>
-        </article>
+            </section>  
       </div>
     </div>
-
-    {% include scripts.html %}
 
   </body>
 </html>

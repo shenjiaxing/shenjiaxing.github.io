@@ -1,21 +1,26 @@
 ---
 permalink: /rpgadmission
-layout: adhoc
 title: "PhD Opportunities"
 excerpt: ""
 author_profile: false
 ---
+
 <style>
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
   padding: 0.3em;
 }
+h2 {
+    padding-left: 0;
+    text-indent: 0;
+}
 </style>
 
-## PhD Opportunities in Dr. Shen's Lab
 
-### Research Focus Areas
+# PhD Opportunities in Dr. Shen's Lab
+
+## Research Focus Areas
 
 Our lab conducts cutting-edge research in:
 
@@ -25,7 +30,7 @@ Our lab conducts cutting-edge research in:
 - **Personalized Large Language Models**  
   Adaptive LLM frameworks with personality awareness for domain-specific applications
 
-### Admission Requirements
+## Admission Requirements
 
 Successful candidates typically have:
 
@@ -35,7 +40,7 @@ Successful candidates typically have:
 - English proficiency (TOEFL/IELTS for non-native speakers)
 - Python programming expertise (preferred)
 
-### PhD Program Options
+## PhD Program Options
 
 | **Program** | **Funding** | **Duration** | **Tuition (approx.)** | **Notes** | **Deadline** |
 |------------|------------|------------|----------------------|----------|------------|
@@ -45,7 +50,7 @@ Successful candidates typically have:
 
 *\* This is the second round of application for 2025 September intake. Additional rounds may open if vacancies remain available.* 
 
-### How to Apply
+## How to Apply?
 
 **Step 1:** Please email the following to **jiaxingshen@LN.edu.hk**:
 1. CV highlighting relevant coursework and research
