@@ -51,3 +51,9 @@ Interested candidates should email to jiaxingshen@LN.edu.hk with:
 - Graph neural networks  
 - Transformer architectures   -->
 
+
+### Different Tracks of PhD 
+
+1. UGC-funded PhD: a monthly stipend of HK$18,900 for 3 years; 3-year tuition fee is ~HKD130,000 [Quite competitive]
+2. Self-financed PhD: part-time RA/TA will be offered based on performance; 3-year tuition fee is ~HKD250,000 [Competitive]
+3. [Doctor of Artificial Intelligence Studies](https://www.ln.edu.hk/sds/dai/dais): the first taught postgraduate programme at the doctoral level in China; 3-year tuition fee is ~HKD700,000
