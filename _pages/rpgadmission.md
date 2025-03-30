@@ -7,13 +7,12 @@ author_profile: false
 ---
 
 
-
-## PhD Opportunities in Dr. Shen's Group
+# PhD Opportunities in Dr. Shen's Lab
 
 [Online application](https://www.ln.edu.hk/rpg/admission/application-for-admission/online-application)  
 Due by 31 March 2024 for Sep 2025 intake
 
-I welcome motivated PhD applicants interested in advancing research at:
+Our lab welcomes motivated PhD applicants interested in advancing research at:
 
 - **Spatiotemporal Data Mining**  
   Developing novel deep learning architectures for urban computing, traffic prediction, and geospatial AI applications.
@@ -21,7 +20,7 @@ I welcome motivated PhD applicants interested in advancing research at:
 - **Personalized Large Language Models**  
   Creating adaptive LLM frameworks with persoanlity awareness for domain-specific applications.
 
-### Admission Requirements
+## Admission Requirements
 
 Prospective candidates should possess:
 
@@ -38,7 +37,7 @@ Successful applicants will:
 - Explore LLM personalization techniques using context
 - Publish at top-tier venues (INFOCOM, ICDM, AAAI, TOIS) -->
 
-### Application Materials
+## Application Materials
 
 Interested candidates should email to jiaxingshen@LN.edu.hk with:  
 1. CV (highlighting relevant coursework/research)  
