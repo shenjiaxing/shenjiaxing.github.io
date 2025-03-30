@@ -1,7 +1,7 @@
 ---
 permalink: /rpgadmission
 layout: adhoc
-title: ""
+title: "PhD Opportunities"
 excerpt: ""
 author_profile: false
 ---
