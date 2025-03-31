@@ -36,7 +36,7 @@ Successful candidates typically have:
 
 - Recognized Bachelor's and Master's degrees in Computer Science, Data Science, or related fields
 - Research experience demonstrated through publications or technical projects
-- Strong problem-solving abilities in machine learning/deep learning
+- Strong problem-solving abilities in machine learning/deep learning/engineering
 - English proficiency (TOEFL/IELTS for non-native speakers)
 - Python programming expertise (preferred)
 
