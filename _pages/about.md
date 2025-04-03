@@ -17,6 +17,7 @@ With over <span id='num_total'>NA</span> publications in top-tier journals (e.g.
 Dr. Shen is passionate about bridging academia and industry by leveraging AI innovations to drive practical solutions. He actively seeks collaborations with industry partners to develop AI-powered systems that address pressing societal and business needs. His current projects include exploring **Personalized Large Language Models (LLMs)** for tailored applications in customer engagement, education, and beyond.
 By combining interdisciplinary expertise with a focus on impactful AI applications, Dr. Shen’s work is aimed at fostering innovation and delivering measurable value across diverse domains.
 
+📌 **Seeking for self-motivated PhD candidates.** <a href="/rpgadmission.html" target="_parent">More detailes</a>
 
 <!-- I have contributed over <span id='num_total'>NA</span> publications to esteemed journals including ACM TOIS, ACM IMWUT, IEEE TMC, IEEE TKDE, IEEE TPDS, and JSAC as well as prestigious conferences such as WWW, IEEE INFOCOM, and IEEE ICDM.
 I am honored to have received two best paper awards, one of which was presented at IEEE INFOCOM 2020, a leading conference in networking and communications.
