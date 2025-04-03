@@ -36,10 +36,14 @@ Guest editor, Cognitive Robotics (JCR Q1), special issue on [Cognitive Social Ro
 ## Journal Reviewer
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Knowledge and Data Engineering
+- IEEE Transactions on Signal Processing
 - IEEE Transactions on Big Data
-- IEEE Transactions on Industrial Informatics
-- IEEE Transactions on Automation Science and Engineering
 - IEEE Transactions on Intelligent Transportation Systems
+- IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Computational Social Systems
+- IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Internet of Things Journal
 - IEEE Journal of Biomedical and Health Informatics
 - ACM Transactions on Intelligent Systems and Technology
@@ -49,7 +53,9 @@ Guest editor, Cognitive Robotics (JCR Q1), special issue on [Cognitive Social Ro
 - INFORMS Journal on Computing
 - Journal of the American Statistical Association
 - ISPRS Journal of Photogrammetry and Remote Sensing
-
+- GIScience & Remote Sensing
+- Computers in Biology and Medicine
+- Expert Systems With Applications
 
 ## Conference Reviewer
 - IJCAI 
