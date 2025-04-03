@@ -27,8 +27,9 @@ Guest editor, Cognitive Robotics (JCR Q1), special issue on [Cognitive Social Ro
 - BESC 2024
 
 ## Technical Program Committee
-- IEEE MASS 2022
 - ICDSEC 2025
+- IEEE MASS 2022
+
 
 ## Session Chair
 - IEEE ICDM 2023
