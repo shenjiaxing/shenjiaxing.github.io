@@ -45,6 +45,7 @@ author_profile: true
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Services Computing
 - IEEE Transactions on Signal Processing
 - IEEE Transactions on Computational Social Systems
 - IEEE Transactions on Circuits and Systems for Video Technology
