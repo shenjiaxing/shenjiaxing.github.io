@@ -24,11 +24,11 @@ h2 {
 
 Our lab conducts cutting-edge research in:
 
+- **Personalized Large Language Models**  
+  Adaptive LLM frameworks with personality awareness for domain-specific applications
 - **Spatiotemporal Data Mining**  
   Novel deep learning architectures for urban computing, traffic prediction, and geospatial AI applications
 
-- **Personalized Large Language Models**  
-  Adaptive LLM frameworks with personality awareness for domain-specific applications
 
 ## Admission Requirements
 
