@@ -34,17 +34,18 @@ Our lab conducts cutting-edge research in:
 
 Successful candidates typically have:
 
-- Recognized Bachelor's and Master's degrees in Computer Science, Data Science, or related fields
+- Recognized Bachelor's and Master's degrees in Computer Science, Data Science, or related fields 
 - Research experience demonstrated through publications or technical projects
 - Strong problem-solving abilities in machine learning/deep learning/engineering
 - English proficiency (TOEFL/IELTS for non-native speakers)
 - Python programming expertise (preferred)
 
+
 ## PhD Program Options
 
 | **Program** | **Funding** | **Duration** | **Tuition (approx.)** | **Notes** | **Deadline** |
 |------------|------------|------------|----------------------|----------|------------|
-| UGC-funded PhD | HK$18,900 monthly stipend | 3 years | HK$130,000 | Highly competitive | May 2025* |
+| UGC-funded PhD | HK$18,900 monthly stipend | 3 years | HK$130,000 | Requires bachelor's degree from 211 or above university; highly competitive | May 2025* |
 | Self-financed PhD | Part-time RA/TA opportunities (if available) | 3 years | HK$250,000 | Competitive | May 2025* |
 | [Doctor of AI Studies](https://www.ln.edu.hk/sds/dai/dais) | - | 3 years | HK$700,000 | First taught doctoral program in China | 31 June 2025 |
 
