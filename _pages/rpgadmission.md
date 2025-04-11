@@ -45,7 +45,7 @@ Successful candidates typically have:
 
 | **Program** | **Funding** | **Duration** | **Tuition (approx.)** | **Notes** | **Deadline** |
 |------------|------------|------------|----------------------|----------|------------|
-| UGC-funded PhD | HK$18,900 monthly stipend | 3 years | HK$130,000 | Requires bachelor's degree from 211 or above university; highly competitive | May 2025* |
+| UGC-funded PhD | HK$18,900 monthly stipend | 3 years | HK$130,000 | Requires degree from 211 universities or above; highly competitive | May 2025* |
 | Self-financed PhD | Part-time RA/TA opportunities (if available) | 3 years | HK$250,000 | Competitive | May 2025* |
 | [Doctor of AI Studies](https://www.ln.edu.hk/sds/dai/dais) | - | 3 years | HK$700,000 | First taught doctoral program in China | 31 June 2025 |
 
