@@ -40,21 +40,21 @@ author_profile: true
 
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Knowledge and Data Engineering
-- IEEE Transactions on Big Data
 - IEEE Transactions on Intelligent Transportation Systems
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Image Processing
-- IEEE Transactions on Automation Science and Engineering
 - IEEE Transactions on Services Computing
 - IEEE Transactions on Signal Processing
+- IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Big Data
 - IEEE Transactions on Computational Social Systems
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Internet of Things Journal
 - IEEE Journal of Biomedical and Health Informatics
 - ACM Transactions on Intelligent Systems and Technology
+- ACM Transactions on Architecture and Code Optimization
 - ACM Transactions on Cyber-Physical Systems
 - ACM Computing Surveys
-- ACM Transactions on Architecture and Code Optimization
 - INFORMS Journal on Computing
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - Journal of the American Statistical Association
