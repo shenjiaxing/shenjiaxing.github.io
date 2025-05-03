@@ -11,6 +11,9 @@ author_profile: true
 <!-- - 📌 **<em>Mathematics</em> <span class="jcrq1">JCR-Q1</span> special issue on <a href="https://www.mdpi.com/journal/mathematics/special_issues/D1EO3BX64M">Big Data Analytics for Social Good</a> is calling for paper now.**  -->
 <!-- - 📌 **The International Conference on Behavioural and Social Computing (<a href="http://besc-conf.org/2024/">BESC</a>) is calling for paper now.** -->
 {: class="date-ul"}
+# 2025
+- *2025.04* Two papers accepted by IWQoS 2025.
+
 
 # 2024
 - *2024.12* One paper accepted by AAAI 2025.
