@@ -29,7 +29,7 @@ Candidates are expected to 1) hold at least a Bachelor degree in Computer Scienc
 Interested applicants are encouraged to email their CV and a brief statement of research interests.  -->
 
 
-# Working Experience
+# Work Experience
 - *2022.9* - *Now* Assistant Professor, Lingnan University, Hong Kong, China
 - *2020.2* - *2022.8* Research Assistant Professor, The Hong Kong Polytechnic University, Hong Kong, China
 <!-- - *2019.8* - *2020.1* Joint Postdoctoral Fellow, MIT x PolyU -->
