@@ -14,7 +14,6 @@ author_profile: true
 # 2025
 - *2025.04* Two papers accepted by IWQoS 2025.
 
-
 # 2024
 - *2024.12* One paper accepted by AAAI 2025.
 - *2024.12* One paper accepted by IEEE Transactions on Computers.
