@@ -37,7 +37,7 @@ Interested applicants are encouraged to email their CV and a brief statement of 
 
 
 # Education 
-- *2017.9* - *2018.9* Visiting PhD, Media Lab, Massachusetts Institute of Technology, Boston, US
+<!-- - *2017.9* - *2018.9* Visiting PhD, Media Lab, Massachusetts Institute of Technology, Boston, US -->
 - *2014.9* - *2019.7* PhD, Computer Science, The Hong Kong Polytechnic University, Hong Kong, China
 - *2010.09* - *2014.06* BE, Software Engineering, Jilin University, Changchun, China 
 {: class="date-ul tbc2"}
