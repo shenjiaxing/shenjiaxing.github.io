@@ -61,6 +61,7 @@ author_profile: true
 - GIScience & Remote Sensing
 - Computers in Biology and Medicine
 - Expert Systems With Applications
+- Pattern Recognition
 
 ## Conference Reviewer
 - IJCAI 
