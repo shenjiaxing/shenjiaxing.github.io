@@ -12,6 +12,8 @@ author_profile: true
 <!-- - 📌 **The International Conference on Behavioural and Social Computing (<a href="http://besc-conf.org/2024/">BESC</a>) is calling for paper now.** -->
 
 # 2025
+
+- *2025.06* One paper accepted by IEEE Transactions on Computers.
 - *2025.06* One paper accepted by Big Data Mining and Analytics.
 - *2025.04* Two papers accepted by IWQoS 2025.
 {: class="date-ul tbc"}
