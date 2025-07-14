@@ -17,7 +17,7 @@ With over <span id='num_total'>NA</span> publications in top-tier journals (e.g.
 Dr. Shen is passionate about bridging academia and industry by leveraging AI innovations to drive practical solutions. He actively seeks collaborations with industry partners to develop AI-powered systems that address pressing societal and business needs. His current projects include exploring **Personalized Large Language Models (LLMs)** for tailored applications in customer engagement, education, and beyond.
 By combining interdisciplinary expertise with a focus on impactful AI applications, Dr. Shen’s work is aimed at fostering innovation and delivering measurable value across diverse domains.
 
-**Seeking for self-motivated PhD students and postdoctoral fellows.** <a href="/rpgadmission.html" target="_parent">More detailes</a>
+📌 **Seeking for self-motivated PhD students and postdoctoral fellows.** <a href="/rpgadmission.html" target="_parent">More detailes</a>
 
 
 
