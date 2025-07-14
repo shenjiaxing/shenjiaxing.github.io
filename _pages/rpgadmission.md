@@ -17,7 +17,6 @@ h2 {
 }
 </style>
 
-
 # PhD Opportunities in Dr. Shen's Lab
 
 ## Research Focus Areas
@@ -62,3 +61,15 @@ Successful candidates typically have:
 5. Publication samples (if available)
 
 **Step 2:** Once confirmed with me, fill in the application [online](https://www.ln.edu.hk/rpg/admission/application-for-admission/online-application).
+
+
+
+# Postdoc Opportunities in Dr. Shen's Lab
+
+## Strength of the position
+
+
+
+Please email your CV to **jiaxingshen@LN.edu.hk**.
+
+
