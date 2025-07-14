@@ -68,18 +68,18 @@ Successful candidates typically have:
 
 ## Strength of the position
 
-**Pure Research-Driven Environment**
+1. **Pure Research-Driven Environment**  
 This position offers an exceptional opportunity to engage in cutting-edge, research-focused work within a well-resourced academic environment. The role emphasizes fundamental research excellence without the constraints of immediate commercial applications nor administrative workload.
 
-**Abundant Computational Resources**
+2. **Abundant Computational Resources**
 - High-performance computing infrastructure supporting advanced data analysis and machine learning projects with access to at least **8 NVIDIA H100 NVL 94GB GPUs**
 
-**Rich Data Assets**
+3. **Rich Data Assets**
 - **Mobility Data**: Comprehensive datasets for transportation and movement pattern research
 - **Automotive Repair Data**: Extensive records enabling predictive maintenance and automotive industry research
 - Multi-domain datasets supporting interdisciplinary research approaches
 
-**Competitive Compensation**
+4. **Competitive Compensation**
 - **Salary**: Over 40,000 HKD per month
 
 

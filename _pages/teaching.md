@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 # Teaching
+- *2025.T2* CDS529 [Project for Artificial Intelligence and Business Analytics](teaching/2022-2023/CDS529.pdf) (Postgraduate)
+- *2025.T2* CDS536 [Data Science Projects]() (Postgraduate)
 - *2024.T1* CCC8015 [Generative Artificial Intelligence](teaching/2022-2023/CLD9099B.pdf) (Undergraduate) 
 - *2023.T2* CLD9099B [Generative Artificial Intelligence](teaching/2022-2023/CLD9099B.pdf) (Undergraduate) 
 - *2023.T2* CDS529 [Project for Artificial Intelligence and Business Analytics](teaching/2022-2023/CDS529.pdf) (Postgraduate) 
