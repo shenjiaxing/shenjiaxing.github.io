@@ -35,9 +35,10 @@ author_profile: true
 - BESC 2024
 
 ## Technical Program Committee
+- AAAI 2026
+- BESC 2025
 - ICDSEC 2025
 - IEEE MASS 2022
-
 
 ## Session Chair
 - IEEE ICDM 2023
@@ -71,6 +72,8 @@ author_profile: true
 - Pattern Recognition
 
 ## Conference Reviewer
+- The WebConference
+- AAAI
 - IJCAI 
 - IEEE ICDCS 
 - IEEE Percom 
