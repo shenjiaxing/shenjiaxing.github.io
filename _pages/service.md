@@ -13,10 +13,6 @@ author_profile: true
 
 # External Service
 
-<!-- ## Community Services
-- CCF YOCSEF Hong Kong founding AC member
- -->
-
 ## Editorship
 
 - Guest editor, CAAI Artificial Intelligence Research, special issue on [Emerging Techniques for Processing and Analyzing Graph Data (ET-PAGD)](https://www.sciopen.com/journal/message_news/get_by_id?id=1910226686328782850&issn=2097-194X) (due 31 Dec 2025)
@@ -30,14 +26,14 @@ author_profile: true
 - Leading guest editor, EURASIP Journal on Wireless Communications and Networking, special issue on [Emerging Technologies in Mobile Computing for IoT Connectivity and Edge Computing](https://link.springer.com/collections/jheifigjdb) (due 15 July 2025)
 
 
-
 ## Organizing Committee
-- BESC 2024
+- [GPC 2025](https://www.crowdos.cn/GPC2025/home.html)
+- [BESC 2024](https://besc-conf.org/2024/)
 
 ## Technical Program Committee
 - AAAI 2026
 - BESC 2025
-- ICDSEC 2025
+- ICDSC 2025
 - IEEE MASS 2022
 
 ## Session Chair
