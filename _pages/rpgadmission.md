@@ -56,7 +56,7 @@ Successful candidates typically have:
 
 **Step 1:** Please email the following to **jiaxingshen@LN.edu.hk**:
 1. CV highlighting relevant coursework and research
-2. Academic transcripts (BSc/MSc)
+2. Academic transcripts (BSc/MSc), rankings if any
 3. 1-page research statement outlining your interests
 4. Preferred PhD option 
 5. Publication samples (if available)
