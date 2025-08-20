@@ -29,7 +29,7 @@ Our lab conducts cutting-edge research in:
   Novel deep learning architectures for urban computing, traffic prediction, and geospatial AI applications
 
 
-## Admission Requirements
+## Admission Requirements for Jan/Sep 2026 Intake
 
 Successful candidates typically have:
 
