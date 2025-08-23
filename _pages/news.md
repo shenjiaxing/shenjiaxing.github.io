@@ -10,6 +10,7 @@ author_profile: true
 
 
 # 2025
+- *2025.08* One paper accepted by IEEE Transactions on Computers.
 - *2025.07* Two papers accepted by ICNP 2025.
 - *2025.06* One paper accepted by IEEE Transactions on Computers.
 - *2025.06* One paper accepted by Big Data Mining and Analytics.
