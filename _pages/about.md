@@ -7,7 +7,7 @@ author_profile: true
 
 Dr. Jiaxing Shen is an Assistant Professor in the [Division of Artificial Intelligence](https://www.ln.edu.hk/sds/dai) at the School of Data Science, Lingnan University, Hong Kong. 
 He holds a BE in Software Engineering from Jilin University and a PhD in Computer Science from The Hong Kong Polytechnic University. 
-He also conducted research as a visiting scholar at MIT Media Lab.
+He also studied at MIT Media Lab as a visiting scholar.
 
 Dr. Shen’s research focuses on advancing Artificial Intelligence (AI) and its transformative applications in real-world scenarios. His primary expertise lies in **AIoT-empowered Human Dynamics**, where he integrates AI and Internet of Things (IoT) technologies to decode human behavior, optimize decision-making processes, and deliver actionable insights for industries. 
 His work spans critical areas such as **Human-centric Computing**, **Context-aware Computing**, **Mobile Computing**, **Data Mining**, and **Generative AI**, with direct implications for sectors like smart cities, healthcare, personalized services, and intelligent systems.
