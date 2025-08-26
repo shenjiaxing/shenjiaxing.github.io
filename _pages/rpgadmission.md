@@ -81,7 +81,7 @@ This position offers an exceptional opportunity to engage in cutting-edge, resea
 - Multi-domain datasets supporting interdisciplinary research approaches
 
 4. **Competitive Compensation**
-- **Salary**: Attractive remuneration package commensurate with experience and qualifications
+- Attractive remuneration package commensurate with experience and qualifications
 
 
 Please email your CV to **jiaxingshen@LN.edu.hk**.
