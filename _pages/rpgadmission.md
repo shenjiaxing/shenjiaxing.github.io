@@ -81,7 +81,7 @@ This position offers an exceptional opportunity to engage in cutting-edge, resea
 - Multi-domain datasets supporting interdisciplinary research approaches
 
 4. **Competitive Compensation**
-- **Salary**: Over 40,000 HKD per month
+- **Salary**: Attractive remuneration package commensurate with experience and qualifications
 
 
 Please email your CV to **jiaxingshen@LN.edu.hk**.
