@@ -22,8 +22,8 @@ By combining interdisciplinary expertise with a focus on impactful AI applicatio
 
 
 # Work Experience
-- *2022.9* - *Now* Assistant Professor, Lingnan University, Hong Kong, China
-- *2020.2* - *2022.8* Research Assistant Professor, The Hong Kong Polytechnic University, Hong Kong, China
+- *2022.9* - *Now* Assistant Professor, Division of Artificial Intelligence, Lingnan University, Hong Kong SAR
+- *2020.2* - *2022.8* Research Assistant Professor, Department of Computing, The Hong Kong Polytechnic University, Hong Kong SAR
 {: class="date-ul tbc2"}
 
 
