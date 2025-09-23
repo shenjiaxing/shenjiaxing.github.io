@@ -10,8 +10,9 @@ author_profile: true
 
 
 # 2025
+- *2025.09* 🏆 Our paper "RA-Sketch: A Unified Framework for Rapid and AccurateSketch Configurations" has won Best Paper Award in ICNP 2025.
 - *2025.08* One paper accepted by IEEE Transactions on Computers.
-- *2025.07* 🏆 Our paper "LA-Sketch: An Adaptive Level-Aware Sketch forEfficient Network Traffic Measurement" won Best Student Paper Runner-up in IWQoS 2025.
+- *2025.07* 🏆 Our paper "LA-Sketch: An Adaptive Level-Aware Sketch for Efficient Network Traffic Measurement" has won Best Student Paper Runner-up in IWQoS 2025.
 - *2025.07* Two papers accepted by ICNP 2025.
 - *2025.06* One paper accepted by IEEE Transactions on Computers.
 - *2025.06* One paper accepted by Big Data Mining and Analytics.
