@@ -32,7 +32,7 @@ author_profile: true
         <!-- <span class="if ccf==CCF C"><span class="ccfc">CCF-C</span></span> -->
         <span class="if jcr==JCR Q1"><span class="jcrq1">JCR-Q1</span></span>
         <!-- <span class="if jcr==JCR Q2"><span class="jcrq2">JCR-Q2</span></span> -->
-        <span class="if note==Best Paper Award"><span class="best_paper">Best Paper</span></span>
+        <span class="if note==Best Paper Award"><span class="best_paper">🏆Best Paper</span></span>
         <span class="if note==Best Student Paper Runner-up"><span class="best_paper">Best Student Paper Runner-up</span></span>
       <!-- </div> -->
     </div>
