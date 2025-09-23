@@ -35,6 +35,9 @@ By combining interdisciplinary expertise with a focus on impactful AI applicatio
 
 
 # Selected Honors and Awards
+- *2025.09.23* **Best Paper Award** of IEEE International Conference on Network Protocols (ICNP).
+- *2025.08.02* **Best Student Paper Runner-up** of IEEE/ACM International Symposium on Quality of Service (IWQoS).
+- *2024.04.10* Merit Award in Teaching Excellence Awards Scheme of Lingnan University 
 - *2020.12.12* **Best Paper Award** of IEEE International Conference on Computer Communications (INFOCOM).
 - *2016.11.11* **Best Paper Award** of IEEE International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress.
 - *2013.10.10* **National Scholarship of China**
