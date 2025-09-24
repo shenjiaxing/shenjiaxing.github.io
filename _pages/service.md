@@ -31,6 +31,7 @@ author_profile: true
 - [BESC 2024](https://besc-conf.org/2024/)
 
 ## Technical Program Committee
+- WWW 2026
 - AAAI 2026
 - BESC 2025
 - ICDSC 2025
@@ -68,7 +69,7 @@ author_profile: true
 - Pattern Recognition
 
 ## Conference Reviewer
-- The WebConference
+- WWW
 - AAAI
 - IJCAI 
 - IEEE ICDCS 
