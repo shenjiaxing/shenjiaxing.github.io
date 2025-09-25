@@ -17,7 +17,7 @@ h2 {
 }
 </style>
 
-# PhD Opportunities in Dr. Shen's Lab
+# PhD Opportunities in Adaptive AI & Human Dynamics (A2HD) Lab
 
 ## Research Focus Areas
 
@@ -65,7 +65,7 @@ Successful candidates typically have:
 
 
 
-# Postdoc Opportunities in Dr. Shen's Lab
+# Postdoc Opportunities in A2HD Lab
 
 ## Strength of the position
 
