@@ -1,6 +1,6 @@
 ---
 permalink: /rpgadmission
-title: "PhD/Postdoc Opportunities"
+title: ""
 excerpt: ""
 author_profile: true
 ---

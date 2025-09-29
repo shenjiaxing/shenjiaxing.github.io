@@ -5,7 +5,7 @@ main:
 
   - title: "News"
     url: "/news.html"
-    
+
   # - title: "Research"
   #   url: "/#aiot-empowered-human-dynamics"
 
@@ -21,8 +21,8 @@ main:
   - title: "Service"
     url: "/service.html"
 
-  - title: "Join Us"
-  - url: "/rpgadmission.html"
+  # - title: "Join Us"
+  # - url: "/rpgadmission.html"
 
   # - title: "Awards"
   #   url: "/#selected-honors-and-awards"
