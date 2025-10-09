@@ -10,7 +10,7 @@ He holds a BE in Software Engineering from Jilin University and a PhD in Compute
 He also studied at MIT Media Lab as a visiting scholar.
 
 Dr. Shen’s research focuses on advancing Artificial Intelligence (AI) and its transformative applications in real-world scenarios. His primary expertise lies in **AIoT-empowered Human Dynamics**, where he integrates AI and Internet of Things (IoT) technologies to decode human behavior, optimize decision-making processes, and deliver actionable insights for industries. 
-His work spans critical areas such as **Human-centric Computing**, **Context-aware Computing**, **Mobile Computing**, **Data Mining**, and **Generative AI**, with direct implications for sectors like smart cities, healthcare, personalized services, and intelligent systems.
+His work spans critical areas such as **Human-centric Computing**, **Context-aware Computing**, **Mobile Computing**, and **Generative AI**, with direct implications for sectors like smart cities, healthcare, personalized services, and intelligent systems.
 
 With over <span id='num_total'>NA</span> publications in top-tier journals (e.g., ACM TOIS, IEEE TMC, IEEE TKDE) and conferences (e.g., WWW, IEEE INFOCOM), Dr. Shen has established himself as a thought leader in applying cutting-edge AI techniques to solve complex challenges. His contributions have been recognized with several Best Paper Awards, including one at IEEE INFOCOM 2020, a premier venue for networking and communication research.
 
