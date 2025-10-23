@@ -44,9 +44,9 @@ Successful candidates typically have:
 
 | **Program** | **Funding** | **Duration** | **Tuition (approx.)** | **Notes** | **Deadline** |
 |------------|------------|------------|----------------------|----------|------------|
-| [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) | HK$28,400 monthly stipend + HK$14,200/year travel allowance | 3 years (up to 4 years for candidates with Bachelor degree only) | Waived | Extremely competitive; Top-tier scholarship for outstanding PhD candidates worldwide | 1 Dec 2026 |
+| [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) | HK$28,400 monthly stipend + HK$14,200/year travel allowance | 3 years (up to 4 years for candidates with Bachelor degree only) | Waived | Extremely competitive; Top-tier scholarship for outstanding PhD candidates worldwide | 1 Dec 2025 |
 | UGC-funded PhD | HK$18,900 monthly stipend | 3/4 years | HK$43,000/year | Requires degree from recognised universities; highly competitive | Dec 2026* |
-| Self-financed PhD | Part-time RA/TA opportunities (if available) | 3/4 years | HK$83,000/year | Competitive | Dec 2026* |
+| Self-financed PhD | Part-time RA/TA opportunities (if available) | 3/4 years | HK$83,000/year | Competitive | Dec 2025* |
 | [Doctor of AI Studies](https://www.ln.edu.hk/sds/dai/dais) | - | 3 years | HK$700,000 | First taught doctoral program in China | 31 June 2026 |
 
 <!-- *\* This is the second round of application for 2025 September intake. Additional rounds may open if vacancies remain available.*  -->
