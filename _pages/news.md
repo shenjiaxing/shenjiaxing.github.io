@@ -10,6 +10,7 @@ author_profile: true
 
 
 # 2025
+- *2025.11* One paper accepted by IEEE Transactions on Emerging Topics in Computational Intelligence
 - *2025.11* 🏆 Our paper "Dynamic Ring Signature: Towards Provable Anonymity in Blockchain-Based E-voting" has won IEEE Best Workshop Paper Award in Blockchain/SmartData/CPSCom/iThings/GreenCom/ICA3PP-2025.
 - *2025.09* One paper accepted by IEEE Transactions on Computers.
 - *2025.09* 🏆 Our paper "RA-Sketch: A Unified Framework for Rapid and AccurateSketch Configurations" has won Best Paper Award in ICNP 2025.
