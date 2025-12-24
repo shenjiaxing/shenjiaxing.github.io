@@ -13,6 +13,7 @@ author_profile: true
 
 # External Service
 
+
 ## Editorship
 
 - Guest editor, CAAI Artificial Intelligence Research, special issue on [Emerging Techniques for Processing and Analyzing Graph Data (ET-PAGD)](https://www.sciopen.com/journal/message_news/get_by_id?id=1910226686328782850&issn=2097-194X) (due 31 Dec 2025)
