@@ -2,8 +2,8 @@
 <html lang="zh-HK">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>楚发!南昌站</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>楚發：南昌站！⭐️🐹</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
@@ -14,39 +14,20 @@
             font-family: 'Roboto', 'Noto Sans TC', sans-serif;
             background-color: #121212;
             color: #ffffff;
+            overflow-x: hidden;
         }
 
-        /* Tuen Ma Line Color */
-        .bg-tml {
-            background-color: #5d4037; /* Approximate TML Brown */
-        }
-        .text-tml {
-            color: #925f3e;
-        }
-        .border-tml {
-            border-color: #5d4037;
-        }
-
-        /* Tung Chung Line Color */
-        .bg-tcl {
-            background-color: #f6943d; /* TCL Orange */
-        }
-        .text-tcl {
-            color: #f6943d;
-        }
-        .border-tcl {
-            border-color: #f6943d;
-        }
-
-        /* Nam Cheong Station Color (Pale Yellowish) */
-        .nac-accent {
-            background-color: #F3E699;
-            color: #000;
-        }
+        /* Line Colors */
+        .bg-tml { background-color: #5d4037; }
+        .text-tml { color: #925f3e; }
+        .border-tml { border-color: #5d4037; }
+        .bg-tcl { background-color: #f6943d; }
+        .text-tcl { color: #f6943d; }
+        .border-tcl { border-color: #f6943d; }
+        .nac-accent { background-color: #F3E699; color: #000; }
 
         .led-dot {
-            width: 8px;
-            height: 8px;
+            width: 8px; height: 8px;
             background-color: #00ff00;
             border-radius: 50%;
             display: inline-block;
@@ -54,9 +35,7 @@
             animation: blink 1s infinite;
         }
 
-        @keyframes blink {
-            50% { opacity: 0.3; }
-        }
+        @keyframes blink { 50% { opacity: 0.3; } }
 
         .glass-panel {
             background: rgba(30, 30, 30, 0.8);
@@ -64,37 +43,25 @@
             border: 1px solid rgba(255, 255, 255, 0.1);
         }
 
-        .loading-spinner {
-            border: 4px solid rgba(255, 255, 255, 0.1);
-            border-left-color: #F3E699;
-            border-radius: 50%;
-            width: 30px;
-            height: 30px;
-            animation: spin 1s linear infinite;
-        }
-
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
-
-        /* Floating Text Animation */
+        /* Improved Floating Text Animation */
         .floating-text {
             position: fixed;
             pointer-events: none;
             font-weight: bold;
             color: #fff;
-            font-size: 1.5rem;
-            white-space: nowrap;
-            z-index: 200; /* Above fireworks */
-            animation: floatUp 2.5s ease-out forwards;
+            font-size: 1.1rem; /* Slightly smaller for mobile */
+            white-space: normal; /* Allow wrapping */
+            max-width: 80vw; /* Prevent overflow */
+            z-index: 200;
+            animation: floatUp 3s ease-out forwards;
             font-family: 'Noto Sans TC', sans-serif;
-            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+            text-align: center;
         }
 
         @keyframes floatUp {
-            0% { transform: translateY(0) scale(0.8); opacity: 0; }
-            10% { opacity: 1; transform: translateY(-20px) scale(1.1); }
-            100% { transform: translateY(-150px) scale(1); opacity: 0; }
+            0% { transform: translate(-50%, 0) scale(0.5); opacity: 0; }
+            15% { opacity: 1; transform: translate(-50%, -20px) scale(1.1); }
+            100% { transform: translate(-50%, -200px) scale(1); opacity: 0; }
         }
     </style>
 </head>
@@ -103,10 +70,9 @@
     <!-- Header -->
     <header class="w-full max-w-md mb-6">
         <div class="flex justify-between items-center mb-2">
-            <!-- Added click event and cursor styling for fireworks interaction -->
             <div class="flex items-center gap-2 cursor-pointer select-none active:scale-95 transition-transform" onclick="triggerFireworks()">
                 <span class="nac-accent px-3 py-1 rounded font-bold text-lg tracking-wider text-black">NAC</span>
-                <h1 class="text-2xl font-bold">南昌站</h1>
+                <h1 class="text-2xl font-bold">南昌站！🐹</h1>
             </div>
             <div class="text-right">
                 <p id="current-time" class="text-gray-400 text-sm font-mono"></p>
@@ -129,7 +95,6 @@
     <!-- Main Display Board -->
     <main class="w-full max-w-md space-y-8">
         
-        <!-- SECTION 1: Tuen Ma Line (To Tuen Mun) -->
         <section id="tml-section">
             <div class="glass-panel p-4 rounded-xl shadow-lg border-l-4 border-tml relative overflow-hidden mb-3">
                 <div class="absolute top-0 right-0 p-4 opacity-10">
@@ -141,14 +106,9 @@
                     <span class="text-lg text-gray-300">To Tuen Mun</span>
                 </div>
             </div>
-
-            <!-- TML Arrivals List -->
-            <div id="arrival-container-tml" class="space-y-3 min-h-[100px]">
-                <!-- Loading State handled by JS -->
-            </div>
+            <div id="arrival-container-tml" class="space-y-3 min-h-[100px]"></div>
         </section>
 
-        <!-- SECTION 2: Tung Chung Line (To Hong Kong) -->
         <section id="tcl-section">
             <div class="glass-panel p-4 rounded-xl shadow-lg border-l-4 border-tcl relative overflow-hidden mb-3">
                 <div class="absolute top-0 right-0 p-4 opacity-10">
@@ -160,18 +120,11 @@
                     <span class="text-lg text-gray-300">To Hong Kong</span>
                 </div>
             </div>
-
-            <!-- TCL Arrivals List -->
-            <div id="arrival-container-tcl" class="space-y-3 min-h-[100px]">
-                <!-- Loading State handled by JS -->
-            </div>
+            <div id="arrival-container-tcl" class="space-y-3 min-h-[100px]"></div>
         </section>
 
-        <!-- Status Message -->
-        <div id="status-message" class="hidden text-center p-2 rounded bg-red-900/50 border border-red-500/50 text-red-200 text-sm">
-        </div>
+        <div id="status-message" class="hidden text-center p-2 rounded bg-red-900/50 border border-red-500/50 text-red-200 text-sm"></div>
 
-        <!-- Last Updated -->
         <div class="text-center mt-8 pb-8">
             <button onclick="fetchData()" class="px-4 py-2 bg-gray-800 hover:bg-gray-700 rounded-full text-xs text-gray-400 transition-colors flex items-center justify-center gap-2 mx-auto">
                 <i class="fas fa-sync-alt"></i> 刷新 Refresh
@@ -181,61 +134,34 @@
     </main>
 
     <script>
-        // Configuration
         const API_BASE = 'https://rt.data.gov.hk/v1/transport/mtr/getSchedule.php';
-        
-        // DOM Elements
         const statusMsg = document.getElementById('status-message');
         const liveIndicator = document.getElementById('live-indicator');
         const timeDisplay = document.getElementById('current-time');
 
-        // Update clock every second
         setInterval(() => {
             const now = new Date();
             timeDisplay.textContent = now.toLocaleTimeString('en-HK', { hour12: false });
         }, 1000);
 
-        // Main Fetch Function
         async function fetchData() {
             try {
-                // Show loading indicator
                 liveIndicator.classList.remove('bg-green-500');
                 liveIndicator.style.backgroundColor = '#ffff00';
-
-                // Fetch both lines in parallel
                 const [resTML, resTCL] = await Promise.all([
                     fetch(`${API_BASE}?line=TML&sta=NAC`),
                     fetch(`${API_BASE}?line=TCL&sta=NAC`)
                 ]);
-
-                if (!resTML.ok || !resTCL.ok) throw new Error('Network response was not ok');
-                
                 const jsonTML = await resTML.json();
                 const jsonTCL = await resTCL.json();
 
-                // Process TML (To Tuen Mun)
-                processLineData(
-                    jsonTML, 
-                    'TML-NAC', 
-                    'TUM', 
-                    'arrival-container-tml'
-                );
-
-                // Process TCL (To Hong Kong)
-                processLineData(
-                    jsonTCL, 
-                    'TCL-NAC', 
-                    'HOK', 
-                    'arrival-container-tcl'
-                );
+                processLineData(jsonTML, 'TML-NAC', 'TUM', 'arrival-container-tml');
+                processLineData(jsonTCL, 'TCL-NAC', 'HOK', 'arrival-container-tcl');
                 
-                // Update Status Indicators
                 liveIndicator.classList.remove('hidden');
                 liveIndicator.style.backgroundColor = '#00ff00';
                 statusMsg.classList.add('hidden');
-
             } catch (error) {
-                console.error('Fetch error:', error);
                 statusMsg.textContent = '無法連接 MTR 伺服器 (Connection Error)';
                 statusMsg.classList.remove('hidden');
                 liveIndicator.style.backgroundColor = '#ff0000';
@@ -244,178 +170,98 @@
 
         function processLineData(json, dataKey, targetDest, containerId) {
             const container = document.getElementById(containerId);
-            
             if (json.status === 0 || !json.data[dataKey]) {
                 renderNoData(container);
                 return;
             }
-
             const stationData = json.data[dataKey];
-            let allTrains = [];
-            if (stationData.UP) allTrains = allTrains.concat(stationData.UP);
-            if (stationData.DOWN) allTrains = allTrains.concat(stationData.DOWN);
-
-            // Filter for target destination
-            const targetTrains = allTrains.filter(train => train.dest === targetDest);
-
-            // Sort by time
-            targetTrains.sort((a, b) => new Date(a.time) - new Date(b.time));
-
-            // Limit to top 2 trains
+            let allTrains = [...(stationData.UP || []), ...(stationData.DOWN || [])];
+            const targetTrains = allTrains
+                .filter(train => train.dest === targetDest)
+                .sort((a, b) => new Date(a.time) - new Date(b.time));
             renderTrains(targetTrains.slice(0, 2), container);
         }
 
         function renderTrains(trains, container) {
             container.innerHTML = '';
-
-            if (trains.length === 0) {
-                renderNoData(container);
-                return;
-            }
-
+            if (trains.length === 0) { renderNoData(container); return; }
             trains.forEach((train, index) => {
-                const trainCard = document.createElement('div');
-                trainCard.className = 'glass-panel p-3 rounded-xl flex justify-between items-center transition hover:bg-white/5';
-                
-                // Format Time
                 const arrivalTime = new Date(train.time);
                 const timeString = arrivalTime.toLocaleTimeString('en-HK', { hour: '2-digit', minute: '2-digit', hour12: false });
+                const diffMins = Math.ceil((arrivalTime - new Date()) / 60000);
                 
-                // Calculate minutes remaining
-                const now = new Date();
-                const diffMs = arrivalTime - now;
-                const diffMins = Math.ceil(diffMs / 60000);
-                
-                let timeDisplayHTML = '';
+                let timeHTML = diffMins <= 0 ? '<span class="text-red-400 animate-pulse font-bold">即將抵達</span>' : 
+                               diffMins === 1 ? '<span class="text-orange-400 font-bold">1 min</span>' :
+                               `<span class="text-emerald-400 font-bold text-xl">${diffMins}</span> <span class="text-xs text-gray-400">min</span>`;
 
-                if (diffMins <= 0) {
-                    timeDisplayHTML = '<span class="text-red-400 animate-pulse font-bold">即將抵達 Arriving</span>';
-                } else if (diffMins === 1) {
-                    timeDisplayHTML = `<span class="text-orange-400 font-bold">1 min</span>`;
-                } else {
-                    timeDisplayHTML = `<span class="text-emerald-400 font-bold text-xl">${diffMins}</span> <span class="text-xs text-gray-400">min</span>`;
-                }
-
-                // Platform info
-                const platform = train.plat;
-
-                // Highlight the first train slightly
-                if (index === 0) {
-                    trainCard.classList.add('border-l-2', 'border-white/20');
-                }
-
-                trainCard.innerHTML = `
+                const card = document.createElement('div');
+                card.className = `glass-panel p-3 rounded-xl flex justify-between items-center ${index === 0 ? 'border-l-2 border-white/30' : ''}`;
+                card.innerHTML = `
                     <div class="flex items-center gap-3">
                         <div class="flex flex-col items-center justify-center bg-gray-800 w-10 h-10 rounded-lg border border-gray-700">
                             <span class="text-[8px] text-gray-400 uppercase">Plat</span>
-                            <span class="text-lg font-bold text-white">${platform}</span>
+                            <span class="text-lg font-bold text-white">${train.plat}</span>
                         </div>
-                        <div>
-                            <div class="font-mono text-xl text-white leading-none">
-                                ${timeString}
-                            </div>
-                        </div>
+                        <div class="font-mono text-xl text-white">${timeString}</div>
                     </div>
-                    <div class="text-right">
-                        ${timeDisplayHTML}
-                    </div>
+                    <div class="text-right">${timeHTML}</div>
                 `;
-                container.appendChild(trainCard);
+                container.appendChild(card);
             });
         }
 
         function renderNoData(container) {
-            container.innerHTML = `
-                <div class="glass-panel p-4 rounded-xl text-center opacity-60">
-                    <p class="text-sm text-gray-300">暫時沒有班次 / No Data</p>
-                </div>
-            `;
+            container.innerHTML = `<div class="glass-panel p-4 rounded-xl text-center opacity-60"><p class="text-sm">暫時沒有班次 / No Data</p></div>`;
         }
 
-        // Fireworks Animation Function
         function triggerFireworks() {
-            var duration = 3 * 1000;
-            var animationEnd = Date.now() + duration;
-            var defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 100 };
+            const duration = 5 * 1000; // Increased to 5 seconds
+            const animationEnd = Date.now() + duration;
+            const defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 100 };
 
-            function randomInRange(min, max) {
-                return Math.random() * (max - min) + min;
-            }
-
-            // Text data
             const nicknames = ["小丁", "丁總", "CCD", "臭寶"];
             const messages = [
-                "加油，你是最棒的！",
-                "今天也要開心哦！",
-                "注意休息，別太累了 ❤️",
-                "相信自己，未來可期！",
-                "所有的好運都藏在努力裡 ✨",
-                "記得按時吃飯！",
-                "你已經在發光了！",
-                "世界因為有你而美好 🌏",
-                "辛苦啦，抱抱！"
+                "加油，你是最棒的！🌟", "今天也要開心哦！🌈", "注意休息，別太累了 ❤️",
+                "相信自己，未來可期！🚀", "所有的好運都藏在努力裡 ✨", "記得按時吃飯！🍱",
+                "你已經在發光了！💎", "辛苦啦，抱抱！🫂", "你是宇宙第一可愛！🐱",
+                "哪怕生活平淡，也要閃閃發光 💡", "深呼吸，放輕鬆，好運在路上 🍀", "你是無可替代的！🥇",
+                "累了就看看窗外，世界很溫柔 ☁️", "再堅持一下，馬上就到家啦 🏠", "你是我的驕傲！🎖️",
+                "今天辛苦了，早點休息喔 🌙", "保持熱愛，奔赴山海 🌊", "元氣滿滿，沖呀！💨"
             ];
 
             function showFloatingText() {
                 const text = document.createElement('div');
                 const name = nicknames[Math.floor(Math.random() * nicknames.length)];
                 const msg = messages[Math.floor(Math.random() * messages.length)];
-                
                 text.textContent = `${name}，${msg}`;
                 text.className = 'floating-text';
                 
-                // Random position (avoiding very edges)
-                const x = Math.random() * (window.innerWidth - 100) + 20;
-                const y = Math.random() * (window.innerHeight * 0.6) + (window.innerHeight * 0.2);
+                const x = Math.random() * 80 + 10; // Left offset %
+                const y = Math.random() * 40 + 30; // Top offset %
+                text.style.left = `${x}%`;
+                text.style.top = `${y}%`;
                 
-                text.style.left = `${x}px`;
-                text.style.top = `${y}px`;
-                
-                // Random glow color
                 const hue = Math.floor(Math.random() * 360);
-                text.style.textShadow = `0 0 10px hsl(${hue}, 100%, 70%), 0 2px 5px black`;
-
+                text.style.textShadow = `0 0 15px hsl(${hue}, 100%, 70%), 0 2px 8px black`;
                 document.body.appendChild(text);
-                
-                // Cleanup
-                setTimeout(() => text.remove(), 2500);
+                setTimeout(() => text.remove(), 3000);
             }
 
-            var interval = setInterval(function() {
-                var timeLeft = animationEnd - Date.now();
+            const interval = setInterval(() => {
+                const timeLeft = animationEnd - Date.now();
+                if (timeLeft <= 0) return clearInterval(interval);
 
-                if (timeLeft <= 0) {
-                    return clearInterval(interval);
-                }
+                const particleCount = 60 * (timeLeft / duration);
+                confetti({...defaults, particleCount, origin: { x: Math.random() * 0.4, y: Math.random() - 0.1 }, colors: ['#F3E699', '#5d4037', '#f6943d']});
+                confetti({...defaults, particleCount, origin: { x: Math.random() * 0.4 + 0.6, y: Math.random() - 0.1 }, colors: ['#F3E699', '#5d4037', '#f6943d']});
 
-                var particleCount = 50 * (timeLeft / duration);
-                
-                // Fire confetti
-                confetti(Object.assign({}, defaults, { 
-                    particleCount, 
-                    origin: { x: randomInRange(0.1, 0.3), y: Math.random() - 0.2 },
-                    colors: ['#F3E699', '#5d4037', '#f6943d', '#ffffff'] 
-                }));
-                confetti(Object.assign({}, defaults, { 
-                    particleCount, 
-                    origin: { x: randomInRange(0.7, 0.9), y: Math.random() - 0.2 },
-                    colors: ['#F3E699', '#5d4037', '#f6943d', '#ffffff']
-                }));
-
-                // Trigger text occasionally (approx every 300-400ms)
-                if (Math.random() > 0.6) {
-                    showFloatingText();
-                }
-
-            }, 250);
+                // Higher frequency of text
+                if (Math.random() > 0.3) showFloatingText();
+            }, 200);
         }
 
-        // Initialize
         fetchData();
-        
-        // Auto-refresh every 30 seconds
         setInterval(fetchData, 30000);
-
     </script>
 </body>
 </html>
