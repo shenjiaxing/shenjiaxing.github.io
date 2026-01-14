@@ -9,6 +9,8 @@ author_profile: true
 📌 **<a href="/rpgadmission.html" target="_parent">Seeking for self-motivated PhD students and postdoctoral fellows.</a>**
 
 
+# 2026
+- *2026.01* One paper has been accepted by WWW 2026.
 # 2025
 - *2025.12* Two papers have been accepted by INFOCOM 2026.
 - *2025.11* One paper accepted by IEEE Transactions on Emerging Topics in Computational Intelligence.
