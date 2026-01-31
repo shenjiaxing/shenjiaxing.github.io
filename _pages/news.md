@@ -10,6 +10,7 @@ author_profile: true
 
 
 # 2026
+- *2026.01* One paper has been accepted by IEEE Transactions on Cognitive Communications and Networking.
 - *2026.01* One paper has been accepted by WWW 2026.
 {: class="date-ul tbc"}
 
