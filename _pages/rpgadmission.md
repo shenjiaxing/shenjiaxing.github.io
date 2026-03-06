@@ -21,10 +21,9 @@ h2 {
 
 ## Research Focus
 
-Our lab conducts cutting-edge research centered human dynamics. 
-
-
-Adaptive LLM frameworks with personality awareness for domain-specific applications
+Our lab conducts cutting-edge research centered human dynamics.
+Research areas span from Human-centric Computing, Context-aware Computing, Mobile Computing, to Generative AI.
+Specially, the main focus of the lab are adaptive LLM frameworks with personality awareness for domain-specific applications.
   
 
 ## Admission Requirements for Sep 2026 Intake
