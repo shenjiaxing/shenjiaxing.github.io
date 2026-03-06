@@ -19,17 +19,15 @@ h2 {
 
 # PhD Opportunities in Adaptive AI & Human Dynamics (A2HD) Lab
 
-## Research Focus Areas
+## Research Focus
 
-Our lab conducts cutting-edge research in:
-
-- **Personalized Large Language Models**  
-  Adaptive LLM frameworks with personality awareness for domain-specific applications
-- **Spatiotemporal Data Mining**  
-  Novel deep learning architectures for urban computing, traffic prediction, and geospatial AI applications
+Our lab conducts cutting-edge research centered human dynamics. 
 
 
-## Admission Requirements for Jan/Sep 2026 Intake
+Adaptive LLM frameworks with personality awareness for domain-specific applications
+  
+
+## Admission Requirements for Sep 2026 Intake
 
 Successful candidates typically have:
 
@@ -37,7 +35,8 @@ Successful candidates typically have:
 - Research experience demonstrated through publications or technical projects
 - Strong problem-solving abilities in machine learning/deep learning/engineering
 - English proficiency (TOEFL/IELTS for non-native speakers)
-- Python programming expertise (preferred)
+- Vibe coding/research experience
+
 
 
 ## PhD Program Options
@@ -46,10 +45,8 @@ Successful candidates typically have:
 |------------|------------|------------|----------------------|----------|------------|
 | [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) | HK$28,400 monthly stipend + HK$14,200/year travel allowance | 3 years (up to 4 years for candidates with Bachelor degree only) | Waived | Extremely competitive; Top-tier scholarship for outstanding PhD candidates worldwide | - |
 | UGC-funded PhD (3 quotas)| HK$18,900 monthly stipend | 3/4 years | HK$43,000/year | Requires degree from recognised universities; highly competitive | Apr 2026 |
-| Self-financed PhD (1 quota)| Part-time RA/TA opportunities (if available) | 3/4 years | HK$83,000/year | Competitive | Apr 2026* |
 
 <!-- *\* This is the second round of application for 2025 September intake. Additional rounds may open if vacancies remain available.*  -->
-*\* To be determined.* 
 
 ## How to Apply?
 
@@ -57,11 +54,9 @@ Successful candidates typically have:
 1. CV highlighting relevant coursework and research
 2. Academic transcripts (BSc/MSc), rankings if any
 3. 1-page research statement outlining your interests
-4. Preferred PhD option 
-5. Publication samples (if available)
+4. Publication samples (if available)
 
 **Step 2:** Once confirmed with me, fill in the application [online](https://www.ln.edu.hk/rpg/admission/application-for-admission/online-application).
-
 
 
 # Postdoc Opportunities in A2HD Lab
