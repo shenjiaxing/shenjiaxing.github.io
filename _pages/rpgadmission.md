@@ -17,7 +17,7 @@ h2 {
 }
 </style>
 
-# PhD Opportunities in Adaptive AI & Human Dynamics <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 1.2em; vertical-align: middle; margin-left: 0.35em;"> Lab
+# PhD Opportunities in Adaptive AI & Human Dynamics Lab <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 1.0em; vertical-align: middle; margin-left: 0.35em;"> 
 
 
 ## Research Focus
@@ -41,7 +41,7 @@ Successful candidates typically have:
 
 ## PhD Program Options
 
-| **Program** | **Funding** | **Duration** | **Tuition (approx.)** | **Notes** | **Deadline** |
+| **Program** | **Scholarship** | **Duration** | **Tuition (approx.)** | **Notes** | **Deadline** |
 |------------|------------|------------|----------------------|----------|------------|
 | [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) | HK$28,400 monthly stipend + HK$14,200/year travel allowance | 3 years (up to 4 years for candidates with Bachelor degree only) | Waived | Extremely competitive; Top-tier scholarship for outstanding PhD candidates worldwide | - |
 | UGC-funded PhD (3 quotas)| ~HK$19,000 monthly stipend | 3 or 4 years | HK$43,000/year | Requires degree from recognised universities; highly competitive | Apr 2026 |
