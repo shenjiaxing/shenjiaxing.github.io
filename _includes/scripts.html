@@ -5,158 +5,98 @@
 <script src="assets/js/main.min.js"></script>
 <script type="text/javascript" src="assets/js/bibtex_js.js"></script>
 
-<!-- <script>
-	// change a href to ajax
-	// shen
-	// document.addEventListener('DOMContentLoaded', function() {
-	//   var changeContentLinks = document.querySelectorAll('.change-content');
-	//   var pageInnerWrap = document.querySelector('.page-content');
+<script>
+  (function ($) {
+    if (!$) {
+      return;
+    }
 
-	//   changeContentLinks.forEach(function(link) {
-	//     link.addEventListener('click', function(event) {
-	//       event.preventDefault(); // Prevent the default link behavior
+    var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-	//       var contentUrl = link.getAttribute('href');
+    function getMonthAbbr(month) {
+      var monthIndex;
+      if (!month) {
+        return "";
+      }
+      if (isNaN(parseInt(month, 10))) {
+        return month;
+      }
+      monthIndex = parseInt(month, 10) - 1;
+      return monthNames[monthIndex] || month;
+    }
 
-	//       // Fetch the content from the URL
-	//       fetch(contentUrl)
-	//         .then(function(response) {
-	//           return response.text();
-	//         })
-	//         .then(function(content) {
-	//           // Create a new div to hold the fetched content
-	//           var newContentDiv = document.createElement('span');
-	//           newContentDiv.innerHTML = content;
+    function buildRibbon(year, month, day, yearClass) {
+      return $("<time>")
+        .addClass("date-as-calendar inline-flex size0_6x")
+        .append($("<span>").addClass("day").text(day || ""))
+        .append($("<span>").addClass("month").text(getMonthAbbr(month)))
+        .append($("<span>").addClass(yearClass || "year").text(year || ""));
+    }
 
-	//           // Replace only the .page__inner-wrap content
-	//           var newPageInnerWrap = newContentDiv.querySelector('.page-content');
-	//           if (newPageInnerWrap) {
-	//             pageInnerWrap.innerHTML = newPageInnerWrap.innerHTML;
+    window.reload_time = function () {
+      $(".date-ul.tbc li").each(function () {
+        var $item = $(this);
+        var $em = $item.find("em").first();
+        var parts;
+        var dateText;
+        var contentText;
+        var container;
 
-	//             // defaultTemplate = newPageInnerWrap.querySelector('.bibtex_template')
-	//             // console.log(defaultTemplate)
-	//             // createWebPage(defaultTemplate);
-	//             bibtex_js_draw();
+        if ($item.data("dateEnhanced") || !$em.length) {
+          return;
+        }
 
-	// 			reload_time();
-	// 			reload_time2();
+        dateText = $em.text();
+        parts = dateText.split(".");
+        contentText = $item.html().replace($em.prop("outerHTML"), "").replace(/^\s*-\s*/, "").trim();
 
-	//           } else {
-	//             console.error('Error: .page__inner-wrap not found in fetched content.');
-	//           }
-	//         })
-	//         .catch(function(error) {
-	//           console.error('Error fetching content:', error);
-	//         });
+        container = $("<div>")
+          .addClass("container")
+          .append(buildRibbon(parts[0], parts[1], parts[2], "year"))
+          .append($("<div>").addClass("content-div").html(contentText));
 
+        $item.html(container).data("dateEnhanced", true);
+      });
+    };
 
-	//     });
-	//   });
-	// });
+    window.reload_time2 = function () {
+      $(".date-ul.tbc2 li").each(function () {
+        var $item = $(this);
+        var $emElements = $item.find("em");
+        var parts1;
+        var parts2;
+        var contentText;
+        var container;
 
-	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-    // var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+        if ($item.data("dateEnhanced") || $emElements.length !== 2) {
+          return;
+        }
 
-	function reload_time(){
-		 $('.date-ul.tbc li').each(function() {
-		    var dateText = $(this).find('em').text();
-		    var parts = dateText.split('.');
-		    var year = parts[0];
-		    var month = parts[1];
-		    var day = parts[2];
+        parts1 = $emElements.first().text().split(".");
+        parts2 = $emElements.last().text().split(".");
+        contentText = $item.html()
+          .replace($emElements.first().prop("outerHTML"), "")
+          .replace($emElements.last().prop("outerHTML"), "")
+          .replace(/^\s*-\s*/, "")
+          .trim();
 
-		    
-		    if (isNaN(parseInt(month))) {
-			  monthAbbr = month;
-			} else {
-			  monthIndex = parseInt(month) - 1;
-			  monthAbbr = monthNames[monthIndex];
-			}
+        container = $("<div>")
+          .addClass("container")
+          .append(buildRibbon(parts1[0], parts1[1], parts1[2], "year"))
+          .append("<div style='width: 10px; text-align: center;'> - </div>")
+          .append(buildRibbon(parts2[0], parts2[1], parts2[2], "year2"))
+          .append($("<div>").addClass("content-div").html(contentText));
 
-		    var dateRibbon = $('<time>').addClass('date-as-calendar inline-flex size0_6x')
-		    	.append($('<div>').addClass('day').text(day))
-		      .append($('<span>').addClass('month').text(monthAbbr))
-		      .append($('<span>').addClass('year').text(year));
+        $item.html(container).data("dateEnhanced", true);
+      });
+    };
 
-		    var contentText = $(this).html().replace(dateText, '').trim();
-		    var contentDiv = $('<div>').addClass('content-div').html(contentText);
-
-		    var container = $('<div>').addClass('container')
-		      .append(dateRibbon)
-		      .append(contentDiv);
-
-		    $(this).html(container);
-		});
-	}
-
-	function reload_time2() {
-	  $('.date-ul.tbc2 li').each(function() {
-	    var emElements = $(this).find('em');
-
-	    if (emElements.length === 2) {
-	      var dateText1 = emElements.first().text();
-	      var dateText2 = emElements.last().text();
-
-	      var parts1 = dateText1.split('.');
-	      var year1 = parts1[0];
-	      var month1 = parts1[1];
-	      var day1 = parts1.length === 3 ? parts1[2] : '';
-
-	      var parts2 = dateText2.split('.');
-	      var year2 = parts2[0];
-	      var month2 = parts2[1];
-	      var day2 = parts2.length === 3 ? parts2[2] : '';
-
-	      
-			if (isNaN(parseInt(month1))) {
-			  monthAbbr1 = month1;
-			} else {
-			  monthIndex1 = parseInt(month1) - 1;
-			  monthAbbr1 = monthNames[monthIndex1];
-			}
-
-			if (isNaN(parseInt(month2))) {
-			  monthAbbr2 = month2;
-			} else {
-			  monthIndex2 = parseInt(month2) - 1;
-			  monthAbbr2 = monthNames[monthIndex2];
-			}
-	      // var monthIndex1 = parseInt(month1) - 1;
-	      // var monthAbbr1 = monthNames[monthIndex1];
-
-	      // var monthIndex2 = parseInt(month2) - 1;
-	      // var monthAbbr2 = monthNames[monthIndex2];
-
-	      var dateRibbon1 = $('<time>').addClass('date-as-calendar inline-flex size0_6x')
-	        .append($('<span>').addClass('day').text(day1))
-	        .append($('<span>').addClass('month').text(monthAbbr1))
-	        .append($('<span>').addClass('year').text(year1));
-
-	      var dateRibbon2 = $('<time>').addClass('date-as-calendar inline-flex size0_6x')
-	        .append($('<span>').addClass('day').text(day2))
-	        .append($('<span>').addClass('month').text(monthAbbr2))
-	        .append($('<span>').addClass('year2').text(year2));
-
-	      var contentText = $(this).html().replace(emElements.first().prop('outerHTML'), '').replace(emElements.last().prop('outerHTML'), '').replace('-', '').trim();
-	      var contentDiv = $('<div>').addClass('content-div').html(contentText);
-
-	      var container = $('<div>').addClass('container')
-	        .append(dateRibbon1)
-	        .append("<div style='width: 10px; text-align: center;'> - </div>")
-	        .append(dateRibbon2)
-	        .append(contentDiv);
-
-	      $(this).html(container);
-	    } else {
-	      // Unsupported number of em elements, skip this li
-	      return;
-	    }
-	  });
-	}
-	reload_time();
-	reload_time2();
-
-</script> -->
+    $(function () {
+      window.reload_time();
+      window.reload_time2();
+    });
+  })(window.jQuery);
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
