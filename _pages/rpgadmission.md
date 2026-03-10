@@ -17,7 +17,8 @@ h2 {
 }
 </style>
 
-# PhD Opportunities in Adaptive AI & Human Dynamics (A2HD) Lab
+# PhD Opportunities in Adaptive AI & Human Dynamics (A2HD) Lab 
+
 
 ## Research Focus
 
