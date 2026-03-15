@@ -9,6 +9,7 @@ author_profile: true
 
 
 # 2026
+- *2026.04* 🏆 Our invention IDShield: AI behavioural fingerprinting for anonymous dialogue decode has won Gold Medal in Geneva International Exhibition of Inventions.
 - *2026.01* One paper has been accepted by IEEE Transactions on Cognitive Communications and Networking.
 - *2026.01* One paper has been accepted by WWW 2026.
 {: class="date-ul tbc"}
