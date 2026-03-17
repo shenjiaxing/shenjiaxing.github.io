@@ -10,7 +10,7 @@ author_profile: true
 
 # 2026
 - *2026.04* 🏆 Our team was awarded Winner in the Outstanding Award in Incorporating Technologies in Teaching and Learning category in Teaching Excellence Awards Scheme (TEAS) 2025/2026 at Lingnan University.
-- *2026.04* 🏆 Our invention IDShield: AI behavioural fingerprinting for anonymous dialogue decode has won Gold Medal in Geneva International Exhibition of Inventions.
+- *2026.04* 🏆 Our invention "IDShield: AI behavioural fingerprinting for anonymous dialogue decode" has won Gold Medal in Geneva International Exhibition of Inventions.
 - *2026.01* One paper has been accepted by IEEE Transactions on Cognitive Communications and Networking.
 - *2026.01* One paper has been accepted by WWW 2026.
 {: class="date-ul tbc"}
@@ -20,7 +20,7 @@ author_profile: true
 - *2025.11* One paper accepted by IEEE Transactions on Emerging Topics in Computational Intelligence.
 - *2025.11* 🏆 Our paper "Dynamic Ring Signature: Towards Provable Anonymity in Blockchain-Based E-voting" has won IEEE Best Workshop Paper Award in Blockchain/SmartData/CPSCom/iThings/GreenCom/ICA3PP-2025.
 - *2025.09* One paper accepted by IEEE Transactions on Computers.
-- *2025.09* 🏆 Our paper "RA-Sketch: A Unified Framework for Rapid and AccurateSketch Configurations" has won Best Paper Award in ICNP 2025.
+- *2025.09* 🏆 Our paper "RA-Sketch: A Unified Framework for Rapid and Accurate Sketch Configurations" has won Best Paper Award in ICNP 2025.
 - *2025.08* One paper accepted by IEEE Transactions on Computers.
 - *2025.07* 🏆 Our paper "LA-Sketch: An Adaptive Level-Aware Sketch for Efficient Network Traffic Measurement" has won Best Student Paper Runner-up in IWQoS 2025.
 - *2025.07* Two papers accepted by ICNP 2025.
