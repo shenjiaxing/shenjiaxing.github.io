@@ -19,7 +19,8 @@ By combining interdisciplinary expertise with a focus on impactful AI applicatio
 
 📌 **<a href="/rpgadmission.html" target="_parent">Seeking for self-motivated PhD students and postdoctoral fellows.</a>**
 
-
+# Recent News
+{% include_relative _news_by_year/2026.md %}
 
 # Work Experience
 - *2022.9* - *Now* Assistant Professor, Division of Artificial Intelligence, Lingnan University, Hong Kong SAR
