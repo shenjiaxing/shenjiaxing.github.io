@@ -26,9 +26,9 @@ author_profile: true
 - *2023.05* - *2025.10* Knowledge Graph-based Recommendation Framework for Manual Network Configuration, HKD 50,000, PI, LU.
 - *2023.03* - *2026.03* Balancing User Privacy and Data Utility in Mobile Crowdsensing, HKD 460,000, PI, LU.
 - *2023.01* - *2024.12* Preserving Implicative Privacy via Context-Aware Generative Approaches in Mobile Crowdsensing, HKD 50,000, PI, LU.
-
-<!-- - ** - Personalised Learning at Lingnan University: Integrating Adaptive AI into CCC8015 GAI Course, HKD 200,000, PI, LU. -->
 {: class="date-ul tbc2"}
+<!-- - ** - Personalised Learning at Lingnan University: Integrating Adaptive AI into CCC8015 GAI Course, HKD 200,000, PI, LU. -->
+
 
 <!-- - *2025.02* - *2026.01* Advancing Personality-Aware Conversational AI: Dataset Development and Dialogue Transformation Using Large Language Models, PI, LU.
 - *2023.04* - *2026.03* Balancing User Privacy and Data Utility in Mobile Crowdsensing, PI, LU.
