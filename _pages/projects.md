@@ -9,7 +9,7 @@ author_profile: true
 # Projects
 
 - *2026.01* - *2027.12* Adaptive Personality Profiling for Real-Time Dialogue Systems, HKD 100,000, PI, LU.
-- *2026.01* - *2027.12* Developing Multi-Agent-based Language Teaching System: Personalized Tutoring and Contextual Simulation, HKD 1,300,000, Co-PI, LU.
+- *2026.01* - *2027.12* Developing Multi-Agent-based Language Teaching System: Personalized Tutoring and Contextual Simulation, HKD 1,300,000, Co-PI, UGC.
 - *2026.01* - *2027.03* Task-Dependent Bias Detection and Mitigation in Educational Generative AI Systems, HKD 50,000, PI, LU.
 - *2025.12* - *2027.05* Investigating and Mitigating Bias in Task Dependent Generative AI, HKD 80,000, PI, LU.
 - *2025.11* - *2026.08* 基于图模互补的智能汽修系统, HKD 900,000, PI, Industrial Donation.
