@@ -17,18 +17,18 @@ With over <span id='num_total'>NA</span> publications in top-tier journals (e.g.
 Dr. Shen is passionate about bridging academia and industry by leveraging AI innovations to drive practical solutions. He actively seeks collaborations with industry partners to develop AI-powered systems that address pressing societal and business needs. His current projects include exploring **Personalized Large Language Models (LLMs)** for tailored applications in customer engagement, education, and beyond.
 By combining interdisciplinary expertise with a focus on impactful AI applications, Dr. Shen’s work is aimed at fostering innovation and delivering measurable value across diverse domains.
 
-📌 **<a href="/rpgadmission.html" target="_parent">Seeking for self-motivated PhD students and postdoctoral fellows.</a>**
 
 # Recent News
+📌 **<a href="/rpgadmission.html" target="_parent">Seeking for self-motivated PhD students and postdoctoral fellows.</a>**
 {% include_relative _news_by_year/2026.md %}
 
-# Work Experience
+<!-- # Work Experience
 - *2022.9* - *Now* Assistant Professor, Division of Artificial Intelligence, Lingnan University, Hong Kong SAR
 - *2020.2* - *2022.8* Research Assistant Professor, Department of Computing, The Hong Kong Polytechnic University, Hong Kong SAR
-{: class="date-ul tbc2"}
+{: class="date-ul tbc2"} -->
 
 
-# Education 
+# Qualifications 
 - *2017.9* - *2018.9* Visiting PhD, Media Lab, Massachusetts Institute of Technology, Boston, US
 - *2014.9* - *2019.7* PhD, Computer Science, The Hong Kong Polytechnic University, Hong Kong, China
 - *2010.9* - *2014.6* BE, Software Engineering, Jilin University, Changchun, China 
