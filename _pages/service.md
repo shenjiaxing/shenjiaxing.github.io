@@ -28,10 +28,12 @@ author_profile: true
 
 
 ## Organizing Committee
+- BESC 2026
 - [GPC 2025](https://www.crowdos.cn/GPC2025/home.html)
 - [BESC 2024](https://besc-conf.org/2024/)
 
 ## Technical Program Committee
+- INFOCOM 2027
 - WWW 2026
 - AAAI 2026
 - BESC 2025
