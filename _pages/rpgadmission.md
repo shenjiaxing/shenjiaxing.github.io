@@ -22,61 +22,51 @@ h2 {
 
 ## Research Focus
 
-Our lab conducts cutting-edge research centered human dynamics.
-Research areas span from Human-centric Computing, Context-aware Computing, Mobile Computing, to Generative AI.
-Specially, the main focus of the lab are adaptive LLM frameworks with personality awareness for domain-specific applications.
-  
+Our lab studies AI for human dynamics. Our research spans human-centric computing, context-aware computing, mobile computing, and generative AI. In particular, we develop adaptive large language model frameworks with personality awareness for domain-specific applications.
 
-## Admission Requirements for Sep 2026 Intake
+## Admission Requirements for September 2026 Intake
 
 Successful candidates typically have:
 
-- Recognized Bachelor's and Master's degrees in Computer Science, Data Science, or related fields 
-- Research experience demonstrated through publications or technical projects
-- Strong problem-solving abilities in machine learning/deep learning/engineering
-- English proficiency (TOEFL/IELTS for non-native speakers)
-- Vibe coding/research experience
+- Recognized bachelor's and master's degrees in Computer Science, Data Science, or related fields
+- Research experience demonstrated through publications, thesis work, or substantial technical projects
+- Strong problem-solving and implementation skills in machine learning, deep learning, or AI systems engineering
+- Strong written and spoken English; TOEFL/IELTS is required for non-native speakers
+
+## How to Apply
+
+Please email the following materials to jiaxingshen@LN.edu.hk:
+
+1. A CV highlighting relevant coursework, research experience, and technical skills
+2. Academic transcripts for all degree programs, with class ranking if available
+3. A one-page research statement describing your interests and fit with the lab
+4. Representative publications or writing samples, if available
+
+After an initial discussion, shortlisted candidates will be invited to submit the formal online application.
 
 
-
-## PhD Program Options
-
-| **Program** | **Scholarship** | **Duration** | **Tuition (approx.)** | **Notes** | **Deadline** |
-|------------|------------|------------|----------------------|----------|------------|
-| [Hong Kong PhD Fellowship Scheme (HKPFS)](https://cerg1.ugc.edu.hk/hkpfs/index.html) | HK$28,400 monthly stipend + HK$14,200/year travel allowance | 3 years (up to 4 years for candidates with Bachelor degree only) | Waived | Extremely competitive; Top-tier scholarship for outstanding PhD candidates worldwide | - |
-| UGC-funded PhD (3 quotas)| ~HK$19,000 monthly stipend | 3 or 4 years | HK$43,000/year | Requires degree from recognised universities; highly competitive | Apr 2026 |
 
 <!-- *\* This is the second round of application for 2025 September intake. Additional rounds may open if vacancies remain available.*  -->
 
-## How to Apply?
-
-**Step 1:** Please email the following to **jiaxingshen@LN.edu.hk**:
-1. CV highlighting relevant coursework and research
-2. Academic transcripts (BSc/MSc), rankings if any
-3. 1-page research statement outlining your interests
-4. Publication samples (if available)
-
-**Step 2:** Once confirmed with me, fill in the application [online](https://www.ln.edu.hk/rpg/admission/application-for-admission/online-application).
 
 
 # Postdoc Opportunities in A2HD Lab
 
-## Strength of the position
+## Position Highlights
 
-1. **Pure Research-Driven Environment**  
-This position offers an exceptional opportunity to engage in cutting-edge, research-focused work within a well-resourced academic environment. The role emphasizes fundamental research excellence without the constraints of immediate commercial applications nor administrative workload.
+1. Research-focused environment  
+This position offers the opportunity to pursue ambitious research in a well-resourced academic setting, with strong support for publication-oriented work and limited administrative burden.
 
-2. **Abundant Computational Resources**
-- High-performance computing infrastructure supporting advanced data analysis and machine learning projects with access to at least **8 NVIDIA H100 NVL 94GB GPUs**
+2. Computational resources  
+- Access to high-performance computing infrastructure, including at least 8 NVIDIA H100 NVL 94GB GPUs, to support large-scale machine learning and data-intensive research
 
-3. **Rich Data Assets**
-- **Mobility Data**: Comprehensive datasets for transportation and movement pattern research
-- **Automotive Repair Data**: Extensive records enabling predictive maintenance and automotive industry research
-- Multi-domain datasets supporting interdisciplinary research approaches
+3. Data resources  
+- Mobility datasets for transportation and movement-pattern research  
+- Automotive repair datasets for predictive maintenance and related applications  
+- Multi-domain datasets supporting interdisciplinary research
 
-4. **Competitive Compensation**
-- Attractive remuneration package commensurate with experience and qualifications
+4. Compensation  
+- Competitive remuneration commensurate with qualifications and experience
 
-
-Please email your CV to **jiaxingshen@LN.edu.hk**.
+Please email your CV to jiaxingshen@LN.edu.hk.
 

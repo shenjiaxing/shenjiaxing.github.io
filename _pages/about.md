@@ -5,21 +5,27 @@ excerpt: ""
 author_profile: true
 ---
 
-Dr. Jiaxing Shen is an Assistant Professor in the [Division of Artificial Intelligence](https://www.ln.edu.hk/sds/dai) at the School of Data Science, Lingnan University, Hong Kong. 
+Dr. Jiaxing Shen is an Assistant Professor in the [Division of Artificial Intelligence](https://www.ln.edu.hk/sds/dai), School of Data Science, Lingnan University, Hong Kong. He received his BE in Software Engineering from Jilin University and his PhD in Computer Science from The Hong Kong Polytechnic University. He was also a visiting scholar at the MIT Media Lab.
+
+His research interests include human-centric computing, context-aware computing, mobile computing, AIoT, and generative AI. His work focuses on understanding human dynamics and developing adaptive AI systems for real-world applications, including personalized services, smart cities, healthcare, and intelligent systems.
+
+His research has been published in leading journals and conferences, including ACM TOIS, IEEE TMC, IEEE TKDE,ACM WWW, and IEEE INFOCOM. His works have received Best Papers at IEEE INFOCOM 2020 and ICNP 2025. He welcomes collaborations in human-centered, adaptive, and application-driven AI.
+
+<!-- Dr. Jiaxing Shen is an Assistant Professor in the [Division of Artificial Intelligence](https://www.ln.edu.hk/sds/dai) at the School of Data Science, Lingnan University, Hong Kong. 
 He holds a BE in Software Engineering from Jilin University and a PhD in Computer Science from The Hong Kong Polytechnic University. 
 He also studied at MIT Media Lab as a visiting scholar.
 
 Dr. Shen’s research focuses on advancing Artificial Intelligence (AI) and its transformative applications in real-world scenarios. His primary expertise lies in **AIoT-empowered Human Dynamics**, where he integrates AI and Internet of Things (IoT) technologies to decode human behavior, optimize decision-making processes, and deliver actionable insights for industries. 
 His work spans critical areas such as **Human-centric Computing**, **Context-aware Computing**, **Mobile Computing**, and **Generative AI**, with direct implications for sectors like smart cities, healthcare, personalized services, and intelligent systems.
 
-With over <span id='num_total'>NA</span> publications in top-tier journals (e.g., ACM TOIS, IEEE TMC, IEEE TKDE) and conferences (e.g., WWW, IEEE INFOCOM), Dr. Shen has established himself as a thought leader in applying cutting-edge AI techniques to solve complex challenges. His contributions have been recognized with several Best Paper Awards, including one at IEEE INFOCOM 2020, a premier venue for networking and communication research.
+With over <span id='num_total'>NA</span> publications in top-tier journals (e.g., ACM TOIS, IEEE TMC, IEEE TKDE) and conferences (e.g., WWW, IEEE INFOCOM), Dr. Shen has established himself as a thought leader in applying cutting-edge AI techniques to solve complex challenges. His contributions have been recognized with several Best Paper Awards, including one at IEEE INFOCOM 2020, a premier venue for networking and communication research. -->
 
-Dr. Shen is passionate about bridging academia and industry by leveraging AI innovations to drive practical solutions. He actively seeks collaborations with industry partners to develop AI-powered systems that address pressing societal and business needs. His current projects include exploring **Personalized Large Language Models (LLMs)** for tailored applications in customer engagement, education, and beyond.
-By combining interdisciplinary expertise with a focus on impactful AI applications, Dr. Shen’s work is aimed at fostering innovation and delivering measurable value across diverse domains.
+<!-- Dr. Shen is passionate about bridging academia and industry by leveraging AI innovations to drive practical solutions. He actively seeks collaborations with industry partners to develop AI-powered systems that address pressing societal and business needs. His current projects include exploring **Personalized Large Language Models (LLMs)** for tailored applications in customer engagement, education, and beyond.
+By combining interdisciplinary expertise with a focus on impactful AI applications, Dr. Shen’s work is aimed at fostering innovation and delivering measurable value across diverse domains. -->
 
 
 # Recent News
-📌 **<a href="/rpgadmission.html" target="_parent">Seeking for self-motivated PhD students and postdoctoral fellows.</a>**
+📌 **<a href="/rpgadmission.html" target="_parent">Seeking self-motivated PhD students and postdoctoral fellows.</a>**
 {% include_relative _news_by_year/2026.md %}
 
 <!-- # Work Experience
