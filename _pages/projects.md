@@ -34,6 +34,8 @@ As PI and Co-PI, I have secured a total of **HKD 4,126,700** across 20 funded pr
 | 2019.03 - 2022.09 | Multi-Stage Learning: An Effective Learning Paradigm for Multistage Systems | 500,000 | PI | PolyU |
 {: class="date-ul tbc2"}
 
+**Total: HKD 4,126,700**
+
 
 
 

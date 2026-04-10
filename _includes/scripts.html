@@ -91,9 +91,42 @@
       });
     };
 
+    window.reload_table_dates = function () {
+      $("table.date-ul.tbc2 tbody tr td:first-child").each(function () {
+        var $cell = $(this);
+        var dateText;
+        var parts;
+        var startParts;
+        var endParts;
+        var wrapper;
+
+        if ($cell.data("dateEnhanced")) {
+          return;
+        }
+
+        dateText = $cell.text().trim();
+        parts = dateText.split(/\s*-\s*/);
+        if (parts.length !== 2) {
+          return;
+        }
+
+        startParts = parts[0].split(".");
+        endParts = parts[1].split(".");
+
+        wrapper = $("<div>")
+          .addClass("date-range-ribbon")
+          .append(buildRibbon(startParts[0], startParts[1], startParts[2], "year"))
+          .append($("<span>").addClass("date-range-separator").text("-"))
+          .append(buildRibbon(endParts[0], endParts[1], endParts[2], "year2"));
+
+        $cell.html(wrapper).data("dateEnhanced", true);
+      });
+    };
+
     $(function () {
       window.reload_time();
       window.reload_time2();
+      window.reload_table_dates();
     });
   })(window.jQuery);
 </script>

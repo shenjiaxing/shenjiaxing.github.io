@@ -29,6 +29,22 @@
     margin-bottom: 15px;
 }
 
+table.date-ul.tbc2 td:first-child {
+  white-space: nowrap;
+  min-width: 130px;
+}
+
+table.date-ul.tbc2 .date-range-ribbon {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+table.date-ul.tbc2 .date-range-separator {
+  color: #494E52;
+  font-weight: 600;
+}
+
 .container {
   display: flex;
   justify-content: space-between;
