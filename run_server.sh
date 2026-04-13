@@ -1,6 +1,1 @@
-#!/usr/bin/env bash
-set -euo pipefail
-
-export PATH="/opt/homebrew/opt/ruby@3.1/bin:$PATH"
-
-exec bundle exec jekyll liveserve
+bundle exec jekyll liveserve

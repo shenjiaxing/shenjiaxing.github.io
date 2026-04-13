@@ -1,20 +1,24 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
-    <nav id="site-nav" class="greedy-nav">
-      <a href="/" target="_self" class="masthead__brand">
-        <span class="masthead__brand-name">SHEN Jiaxing</span>
-        <span class="masthead__brand-role">Human-centered AI · Lingnan University</span>
-      </a>
-      <button><div class="navicon"></div></button>
-      <ul class="visible-links">
-        {% for link in site.data.navigation.main %}
-          <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_self" class="change-content">{{ link.title }}</a></li>
-        {% endfor %}
-      </ul>
-      <div class="masthead__employer">
-        <img src="images/employer.png" alt="Lingnan University">
-      </div>
-      <ul class="hidden-links hidden"></ul>
-    </nav>
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+         <div style="margin-left: 1%;">
+            <ul class="visible-links">
+              <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/" target="_self"> Home </a></li>
+              {% for link in site.data.navigation.main %}
+                <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_self" class="change-content" >{{ link.title }}</a></li>
+              {% endfor %}
+              <!-- <li class="masthead__menu-item logo"><img src="images/employer.jpg" alt="Employer Logo"/></li> -->
+              <li class="masthead__menu-item" style="right: 0%; position: absolute;"><div style="width: 170px"><img src="images/employer.png" alt="Employer Logo"/> </div></li>
+            </ul>
+          </div>
+          <ul class="hidden-links hidden">
+          </ul>
+      </nav>
+    </div>
+    <!-- <div class="masthead__logo">
+      <img src="images/employer.jpg" alt="Employer Logo">
+    </div> -->
   </div>
 </div>
