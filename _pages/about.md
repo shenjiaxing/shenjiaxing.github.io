@@ -5,51 +5,92 @@ excerpt: ""
 author_profile: true
 ---
 
-Dr. Jiaxing Shen is an Assistant Professor in the [Division of Artificial Intelligence](https://www.ln.edu.hk/sds/dai), School of Data Science, Lingnan University, Hong Kong. He received his BE in Software Engineering from Jilin University and his PhD in Computer Science from The Hong Kong Polytechnic University. He was also a visiting scholar at the MIT Media Lab.
+<section class="landing-hero">
+  <div class="landing-hero__eyebrow">Assistant Professor · Division of Artificial Intelligence · Lingnan University</div>
+  <h1>Building human-centered, adaptive AI systems for real-world settings.</h1>
+  <p class="landing-hero__lead">Dr. Jiaxing Shen is an Assistant Professor in the <a href="https://www.ln.edu.hk/sds/dai">Division of Artificial Intelligence</a>, School of Data Science, Lingnan University, Hong Kong. He received his BE in Software Engineering from Jilin University and his PhD in Computer Science from The Hong Kong Polytechnic University, and was also a visiting scholar at the MIT Media Lab.</p>
+  <p class="landing-hero__lead">His research spans human-centric computing, context-aware computing, mobile computing, AIoT, and generative AI. The work focuses on understanding human dynamics and building adaptive systems for personalized services, smart cities, healthcare, and intelligent environments.</p>
+  <div class="landing-hero__actions">
+    <a class="landing-chip" href="/publications.html">Browse Publications</a>
+    <a class="landing-chip" href="/projects.html">Current Projects</a>
+    <a class="landing-chip" href="/service.html">Academic Service</a>
+    <a class="landing-chip" href="/rpgadmission.html">Open Positions</a>
+  </div>
+  <dl class="landing-hero__stats">
+    <div>
+      <dt>Core Theme</dt>
+      <dd>Human-centered and application-driven AI</dd>
+    </div>
+    <div>
+      <dt>Research Modes</dt>
+      <dd>AIoT, mobile sensing, adaptive intelligence, generative AI</dd>
+    </div>
+    <div>
+      <dt>Representative Venues</dt>
+      <dd>ACM TOIS, IEEE TMC, IEEE TKDE, WWW, IEEE INFOCOM</dd>
+    </div>
+    <div>
+      <dt>Recent Distinction</dt>
+      <dd>Best Paper at IEEE INFOCOM 2020 and ICNP 2025</dd>
+    </div>
+  </dl>
+</section>
 
-His research interests include human-centric computing, context-aware computing, mobile computing, AIoT, and generative AI. His work focuses on understanding human dynamics and developing adaptive AI systems for real-world applications, including personalized services, smart cities, healthcare, and intelligent systems.
+<div class="landing-grid">
+  <section class="landing-panel">
+    <h2>Research Directions</h2>
+    <ul class="landing-keylist">
+      <li>Human dynamics modeling for context-aware and adaptive systems.</li>
+      <li>Mobile and ubiquitous computing methods grounded in real deployment settings.</li>
+      <li>AIoT pipelines that connect sensing, decision making, and user-facing intelligence.</li>
+      <li>Generative AI methods for personalized, privacy-aware, and application-driven services.</li>
+    </ul>
+  </section>
 
-His research has been published in leading journals and conferences, including ACM TOIS, IEEE TMC, IEEE TKDE,ACM WWW, and IEEE INFOCOM. His works have received Best Papers at IEEE INFOCOM 2020 and ICNP 2025. He welcomes collaborations in human-centered, adaptive, and application-driven AI.
+  <section class="landing-panel landing-news">
+    <h2>Recent News</h2>
+    <p class="landing-note">📌 <a href="/rpgadmission.html" target="_self">Seeking self-motivated PhD students and postdoctoral fellows.</a></p>
+    <ul class="date-ul tbc">
+      <li><em>2026.04</em> I was invited as a TPC member for INFOCOM 2027 which will be held in Honolulu, Hawaii, USA.</li>
+      <li><em>2026.03</em> 🏆 Our team was awarded Winner in the Outstanding Award in Incorporating Technologies in Teaching and Learning category in Teaching Excellence Awards Scheme (TEAS) 2025/2026 at Lingnan University.</li>
+      <li><em>2026.03</em> 🏆 Our invention "IDShield: AI behavioural fingerprinting for anonymous dialogue decode" has won Gold Medal in Geneva International Exhibition of Inventions.</li>
+      <li><em>2026.01</em> One paper has been accepted by IEEE Transactions on Cognitive Communications and Networking.</li>
+      <li><em>2026.01</em> One paper has been accepted by WWW 2026.</li>
+    </ul>
+  </section>
 
-<!-- Dr. Jiaxing Shen is an Assistant Professor in the [Division of Artificial Intelligence](https://www.ln.edu.hk/sds/dai) at the School of Data Science, Lingnan University, Hong Kong. 
-He holds a BE in Software Engineering from Jilin University and a PhD in Computer Science from The Hong Kong Polytechnic University. 
-He also studied at MIT Media Lab as a visiting scholar.
+  <section class="landing-panel landing-panel--accent">
+    <h2>Highlights</h2>
+    <ul class="landing-keylist">
+      <li>Bridges AI methods with deployable systems in cities, health, and everyday computing.</li>
+      <li>Publishes across both top journals and leading systems conferences.</li>
+      <li>Welcomes collaboration in human-centered, adaptive, and application-driven AI.</li>
+    </ul>
+  </section>
+</div>
 
-Dr. Shen’s research focuses on advancing Artificial Intelligence (AI) and its transformative applications in real-world scenarios. His primary expertise lies in **AIoT-empowered Human Dynamics**, where he integrates AI and Internet of Things (IoT) technologies to decode human behavior, optimize decision-making processes, and deliver actionable insights for industries. 
-His work spans critical areas such as **Human-centric Computing**, **Context-aware Computing**, **Mobile Computing**, and **Generative AI**, with direct implications for sectors like smart cities, healthcare, personalized services, and intelligent systems.
+<div class="landing-stack">
+  <section class="landing-panel landing-qualifications">
+    <h2>Qualifications</h2>
+    <ul class="date-ul tbc2">
+      <li><em>2017.9</em><em>2018.9</em> Visiting PhD, Media Lab, Massachusetts Institute of Technology, Boston, US</li>
+      <li><em>2014.9</em><em>2019.7</em> PhD, Computer Science, The Hong Kong Polytechnic University, Hong Kong, China</li>
+      <li><em>2010.9</em><em>2014.6</em> BE, Software Engineering, Jilin University, Changchun, China</li>
+    </ul>
+  </section>
 
-With over <span id='num_total'>NA</span> publications in top-tier journals (e.g., ACM TOIS, IEEE TMC, IEEE TKDE) and conferences (e.g., WWW, IEEE INFOCOM), Dr. Shen has established himself as a thought leader in applying cutting-edge AI techniques to solve complex challenges. His contributions have been recognized with several Best Paper Awards, including one at IEEE INFOCOM 2020, a premier venue for networking and communication research. -->
-
-<!-- Dr. Shen is passionate about bridging academia and industry by leveraging AI innovations to drive practical solutions. He actively seeks collaborations with industry partners to develop AI-powered systems that address pressing societal and business needs. His current projects include exploring **Personalized Large Language Models (LLMs)** for tailored applications in customer engagement, education, and beyond.
-By combining interdisciplinary expertise with a focus on impactful AI applications, Dr. Shen’s work is aimed at fostering innovation and delivering measurable value across diverse domains. -->
-
-
-# Recent News
-📌 **<a href="/rpgadmission.html" target="_parent">Seeking self-motivated PhD students and postdoctoral fellows.</a>**
-{% include_relative _news_by_year/2026.md %}
-
-<!-- # Work Experience
-- *2022.9* - *Now* Assistant Professor, Division of Artificial Intelligence, Lingnan University, Hong Kong SAR
-- *2020.2* - *2022.8* Research Assistant Professor, Department of Computing, The Hong Kong Polytechnic University, Hong Kong SAR
-{: class="date-ul tbc2"} -->
-
-
-# Qualifications 
-- *2017.9* - *2018.9* Visiting PhD, Media Lab, Massachusetts Institute of Technology, Boston, US
-- *2014.9* - *2019.7* PhD, Computer Science, The Hong Kong Polytechnic University, Hong Kong, China
-- *2010.9* - *2014.6* BE, Software Engineering, Jilin University, Changchun, China 
-{: class="date-ul tbc2"}
-
-
-# Selected Honors and Awards
-- *2025.09* **Best Paper Award** of IEEE International Conference on Network Protocols (ICNP).
-- *2025.08* **Best Student Paper Runner-up** of IEEE/ACM International Symposium on Quality of Service (IWQoS).
-- *2024.04* Merit Award in Teaching Excellence Awards Scheme of Lingnan University 
-- *2020.12* **Best Paper Award** of IEEE International Conference on Computer Communications (INFOCOM).
-- *2016.11* **Best Paper Award** of IEEE International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress.
-- *2013.10* **National Scholarship of China**
-{: class="date-ul tbc"}
-
+  <section class="landing-panel landing-awards">
+    <h2>Selected Honors and Awards</h2>
+    <ul class="date-ul tbc">
+      <li><em>2025.09</em> <strong>Best Paper Award</strong> of IEEE International Conference on Network Protocols (ICNP).</li>
+      <li><em>2025.08</em> <strong>Best Student Paper Runner-up</strong> of IEEE/ACM International Symposium on Quality of Service (IWQoS).</li>
+      <li><em>2024.04</em> Merit Award in Teaching Excellence Awards Scheme of Lingnan University.</li>
+      <li><em>2020.12</em> <strong>Best Paper Award</strong> of IEEE International Conference on Computer Communications (INFOCOM).</li>
+      <li><em>2016.11</em> <strong>Best Paper Award</strong> of IEEE International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress.</li>
+      <li><em>2013.10</em> <strong>National Scholarship of China</strong>.</li>
+    </ul>
+  </section>
+</div>
 
 <span style="display: none;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Lm2ocHX5LbyL6rdlFbrvkxSqjyv6SHWZChWgQZ7spQQ"></script>
