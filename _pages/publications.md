@@ -52,9 +52,7 @@ author_profile: true
       } else if (type === 'PROCEEDINGS' || type === 'INPROCEEDINGS') {
         entry.classList.add('conference-entry');
         var title = entry.querySelector('.title');
-        if (title && title.parentElement && title.parentElement.tagName.toLowerCase() === 'a') {
-          title.parentElement.classList.add('conference-title-link');
-        }
+        
       } else {
         entry.classList.add('other-entry');
       }
