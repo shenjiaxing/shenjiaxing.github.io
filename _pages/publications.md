@@ -5,6 +5,108 @@ excerpt: ""
 author_profile: true
 ---
 
+<style>
+  #bibtex_display .publication-year-group + .publication-year-group {
+    margin-top: 1.5rem;
+  }
+
+  #bibtex_display .publication-year {
+    margin: 0 0 0.75rem;
+    font-weight: 700;
+  }
+
+  #bibtex_display .conference-title-link,
+  #bibtex_display .conference-title-link:visited {
+    color: #2e8b57 !important;
+  }
+
+  #bibtex_display .conference-title-link:hover,
+  #bibtex_display .conference-title-link:focus {
+    color: #246b43 !important;
+  }
+</style>
+
+<script>
+  function rebuildPublicationList(root) {
+    var entries = Array.from(root.querySelectorAll('.bibtexentry'));
+    if (!entries.length) return;
+
+    var typePriority = {
+      ARTICLE: 0,
+      PROCEEDINGS: 1,
+      INPROCEEDINGS: 1
+    };
+
+    var groupedByYear = new Map();
+
+    entries.forEach(function(entry, index) {
+      var yearNode = entry.querySelector('.year');
+      var typeNode = entry.querySelector('.bibtextypekey');
+      var year = yearNode ? yearNode.textContent.trim() : 'Other';
+      var type = typeNode ? typeNode.textContent.trim().toUpperCase() : '';
+
+      entry.classList.remove('journal-entry', 'conference-entry', 'other-entry');
+
+      if (type === 'ARTICLE') {
+        entry.classList.add('journal-entry');
+      } else if (type === 'PROCEEDINGS' || type === 'INPROCEEDINGS') {
+        entry.classList.add('conference-entry');
+        var title = entry.querySelector('.title');
+        if (title && title.parentElement && title.parentElement.tagName.toLowerCase() === 'a') {
+          title.parentElement.classList.add('conference-title-link');
+        }
+      } else {
+        entry.classList.add('other-entry');
+      }
+
+      if (!year) {
+        year = 'Other';
+      }
+
+      if (!groupedByYear.has(year)) {
+        groupedByYear.set(year, []);
+      }
+
+      groupedByYear.get(year).push({
+        entry: entry,
+        index: index,
+        priority: Object.prototype.hasOwnProperty.call(typePriority, type) ? typePriority[type] : 2
+      });
+    });
+
+    var yearOrder = Array.from(groupedByYear.keys()).sort(function(a, b) {
+      if (a === 'Other') return 1;
+      if (b === 'Other') return -1;
+      return Number(b) - Number(a);
+    });
+
+    var fragment = document.createDocumentFragment();
+
+    yearOrder.forEach(function(year) {
+      var section = document.createElement('section');
+      section.className = 'publication-year-group';
+
+      var heading = document.createElement('h2');
+      heading.className = 'publication-year';
+      heading.textContent = year;
+      section.appendChild(heading);
+
+      groupedByYear.get(year)
+        .sort(function(left, right) {
+          return left.priority - right.priority || left.index - right.index;
+        })
+        .forEach(function(item) {
+          section.appendChild(item.entry);
+        });
+
+      fragment.appendChild(section);
+    });
+
+    root.innerHTML = '';
+    root.appendChild(fragment);
+  }
+</script>
+
 <!-- # Publications  -->
 <div class="bibtex_template" style="padding-left: 1em;padding-right: 5%; display: flex;">
     <div>
@@ -39,6 +141,7 @@ author_profile: true
     <span class="author"></span>.
     <span class="journal" style="font-style: italic;"></span>,
     <span class="year"></span>.
+    <span class="bibtextypekey" style="display:none;"></span>
     <br/>
     <br/>
 </div>
@@ -68,7 +171,6 @@ author_profile: true
   </div>
 </div>
 
-<div id="bibtex_display" style="" ></div>
+<div id="bibtex_display" callback="rebuildPublicationList(bibtex_display);"></div>
 
 <p style="color: grey; text-align: right;">*:corresponding author(s) or co-first authors</p>
-
