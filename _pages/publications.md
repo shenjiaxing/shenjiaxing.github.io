@@ -149,21 +149,18 @@ author_profile: true
 <div class="bibtex_structure">
   <div class="sections BIBTEXTYPEKEY">
     <div class="section ARTICLE">
-      <h1>Refereed Journal</h1>
       <div class="sort year" extra="DESC number">
         <h3 class="title"><span class='year'></span></h3>
         <div class="templates"></div>
       </div>
     </div>
     <div class="section PROCEEDINGS">
-      <h1>Conference Papers</h1>
       <div class="sort year" extra="DESC number">
         <h3 class="title"><span class='year'></span></h3>
         <div class="templates"></div>
       </div>
     </div>
     <div class="section misc|phdthesis|mastersthesis|bachelorsthesis|techreport|chapter">
-      <h1>Other Publications</h1>
       <div class="sort year" extra="DESC number">
         <div class="templates"></div>
       </div>
