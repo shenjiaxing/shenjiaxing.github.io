@@ -13,7 +13,7 @@ As PI and Co-PI, I have secured a total of **HKD 4,126,700** across 20 funded pr
 | Period | Project | Amount (HKD) | Role | Funder |
 | --- | --- | ---: | --- | --- |
 | 2026.01 - 2027.12 | Adaptive Personality Profiling for Real-Time Dialogue Systems | 100,000 | PI | LU |
-| 2026.01 - 2027.12 | Developing Multi-Agent-based Language Teaching System: Personalized Tutoring and Contextual Simulation | 200,000 (total: 1,300,000) | Co-PI | UGC |
+| 2026.01 - 2027.12 | Developing Multi-Agent-based Language Teaching System: Personalized Tutoring and Contextual Simulation | 200,000 | Co-PI | UGC |
 | 2026.01 - 2027.03 | Task-Dependent Bias Detection and Mitigation in Educational Generative AI Systems | 50,000 | PI | LU |
 | 2026.01 - 2027.12 | Personalised Learning at Lingnan University: Integrating Adaptive AI into CCC8015 GAI Course | 200,000 | PI | LU |
 | 2025.12 - 2027.05 | Investigating and Mitigating Bias in Task Dependent Generative AI | 80,000 | PI | LU |
