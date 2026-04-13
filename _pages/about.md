@@ -35,9 +35,9 @@ By combining interdisciplinary expertise with a focus on impactful AI applicatio
 
 
 # Qualifications 
-- *2017.9* - *2018.9* Visiting PhD, Media Lab, Massachusetts Institute of Technology, Boston, US
-- *2014.9* - *2019.7* PhD, Computer Science, The Hong Kong Polytechnic University, Hong Kong, China
-- *2010.9* - *2014.6* BE, Software Engineering, Jilin University, Changchun, China 
+- *2017.9* - *2018.9* Visiting PhD, Media Lab, Massachusetts Institute of Technology, Boston
+- *2014.9* - *2019.7* PhD, Computer Science, The Hong Kong Polytechnic University, Hong Kong
+- *2010.9* - *2014.6* BE, Software Engineering, Jilin University, Changchun
 {: class="date-ul tbc2"}
 
 
