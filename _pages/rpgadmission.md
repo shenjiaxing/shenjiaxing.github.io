@@ -14,40 +14,68 @@ table, th, td {
 h2 {
     padding-left: 0;
     text-indent: 0;
+    padding-top: 3 em;
+    padding-bottom: 3 em;
 }
 </style>
 
-# PhD Opportunities in Adaptive AI & Human Dynamics Lab <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 1.0em; vertical-align: middle; margin-left: 0.35em;"> 
+# PhD Opportunities in A2HD Lab 
+
+A2HD is recruiting **self-motivated research postgraduate students** who want to work on human-centered AI, adaptive large language models, and intelligent systems for real-world applications.
+
+## Research Directions
+
+Applicants with interest in one or more of the following directions are especially welcome:
+
+- Adaptive and personality-aware LLMs
+- Dialogue systems and generative AI for human-facing applications
+- Trustworthy AI, including bias, privacy, and robustness
+- Human dynamics, context-aware computing, and mobile intelligence
+- AI for education, healthcare, transportation, and smart-city services
 
 
-## Research Focus
+## What We Look For
 
-Our lab studies AI for human dynamics. Our research spans human-centric computing, context-aware computing, mobile computing, and generative AI. In particular, we develop adaptive large language model frameworks with personality awareness for domain-specific applications.
+Successful applicants typically have:
 
-## Admission Requirements for September 2026 Intake
+- A strong bachelor’s and/or master’s background in Computer Science, Data Science, Artificial Intelligence, Statistics, or related areas
+- Solid programming and implementation ability
+- Research potential shown through thesis work, publications, internships, competitions, or substantial projects
+- Strong motivation for long-term research and scientific writing
+- Good written and spoken English; TOEFL/IELTS is required for non-native speakers when applicable
 
-Successful candidates typically have:
+## What You Can Expect
 
-- Recognized bachelor's and master's degrees in Computer Science, Data Science, or related fields
-- Research experience demonstrated through publications, thesis work, or substantial technical projects
-- Strong problem-solving and implementation skills in machine learning, deep learning, or AI systems engineering
-- Strong written and spoken English; TOEFL/IELTS is required for non-native speakers
+- Close supervision in a focused and growing research group
+- Training for publication-oriented research
+- Opportunities to work on both foundational and applied AI problems
+- Access to computing resources and application-driven datasets
+- An interdisciplinary environment connected to Lingnan University’s School of Data Science
 
 ## How to Apply
 
-Please email the following materials to jiaxingshen@LN.edu.hk:
+Please email the following materials to **jiaxingshen@LN.edu.hk**:
 
 1. A CV highlighting relevant coursework, research experience, and technical skills
 2. Academic transcripts for all degree programs, with class ranking if available
-3. A one-page research statement describing your interests and fit with the lab
-4. Representative publications or writing samples, if available
+3. A one-page research statement describing your interests and fit with A2HD
+4. Representative publications, thesis chapters, or writing samples, if available
 
-After an initial discussion, shortlisted candidates will be invited to submit the formal online application.
+It is helpful if your email also includes:
 
+- the subject line **“RPG Application – Your Name – Research Area”**
+- a short paragraph explaining why you are interested in A2HD
 
+After an initial discussion, shortlisted candidates may be invited to proceed with the formal university application.
 
-<!-- *\* This is the second round of application for 2025 September intake. Additional rounds may open if vacancies remain available.*  -->
+## A Good Fit for This Position
 
+You may be a strong fit if you enjoy:
+
+- building systems instead of only running benchmarks
+- connecting machine learning with real-world human and domain problems
+- working across models, data, evaluation, and deployment questions
+- turning research ideas into publishable, well-executed work
 
 
 # Postdoc Opportunities in A2HD Lab
@@ -67,6 +95,4 @@ This position offers the opportunity to pursue ambitious research in a well-reso
 
 4. Compensation  
 - Competitive remuneration commensurate with qualifications and experience
-
-Please email your CV to jiaxingshen@LN.edu.hk.
 

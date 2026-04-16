@@ -1,7 +1,7 @@
 # main links links
 main:
-  #- title: "Bio"
-  #  url: "/#about-me"
+  - title: "Home"
+   url: "/about.html"
 
   - title: "News"
     url: "/news.html"
@@ -15,15 +15,14 @@ main:
   - title: "Projects"
     url: "/projects.html"
 
-  - title: "A2hd Lab"
-    url: "/a2hd.html"
-
   - title: "Teaching"
     url: "/teaching.html"
 
   - title: "Service"
     url: "/service.html"
 
+  - title: "A2HD Lab"
+    url: "/a2hd.html"
   # - title: "Join Us"
   # - url: "/rpgadmission.html"
 

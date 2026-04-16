@@ -11,41 +11,46 @@ table, th, td {
   border-collapse: collapse;
   padding: 0.3em;
 }
+
 h2 {
     padding-left: 0;
     text-indent: 0;
+    padding-top: 3 em;
+}
+
+h3 {
+    padding-left: 0;
+    text-indent: 0;
+    margin-bottom: 0.0rem;
 }
 </style>
 
-# Adaptive AI & Human Dynamics Lab <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 1.0em; vertical-align: middle; margin-left: 0.35em;">
+# <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 1.0em; vertical-align: middle;"> (Adaptive AI & Human Dynamics) Lab 
 
-A2HD studies **human-centered AI for human dynamics**. We build adaptive intelligent systems that combine rigorous machine learning with real-world understanding of human behaviour, context, and decision-making.
+Our lab studies **human-centered AI**. We build adaptive intelligent systems that combine rigorous machine learning with real-world understanding of human behaviour, context, and decision-making. [Join Us Now!](/rpgadmission)
 
-Our work spans **generative AI, dialogue systems, mobile and ubiquitous computing, context-aware intelligence, and intelligent services**, with applications in **personalized systems, education, healthcare, transportation, and smart cities**.
+<!-- Our work spans **generative AI, dialogue systems, mobile and ubiquitous computing, context-aware intelligence, and intelligent services**, with applications in **personalized systems, education, healthcare, transportation, and smart cities**. -->
+
+## Questions We Answer
+1. How do we model human dynamics and context well enough to adapt systems to real people?  
+2. How do we make those adaptive systems trustworthy—privacy-preserving, fair, robust, and deployable?  
+3. How do we turn them into working applications in mobility, education, healthcare, and intelligent services?  
 
 ## Research Themes
 
-### 1. Adaptive and Personality-Aware LLMs
+1. ### Adaptive and Personality-Aware LLMs
 We study how large language models can be adapted to user traits, task requirements, and domain constraints. This includes personality-aware dialogue systems, adaptive persona prompting, task-dependent model behaviour, and efficient control of reasoning style.
 
-### 2. Trustworthy Generative AI
+2. ### Trustworthy Generative AI
 We investigate bias, robustness, privacy, and safety in generative AI systems, especially when models are deployed in education and human-facing decision support.
 
-### 3. Human Dynamics and Context-Aware Intelligence
+3. ### Human Dynamics and Context-Aware Intelligence
 We develop models and systems for understanding human behaviour from heterogeneous signals, with emphasis on context awareness, privacy preservation, and actionable insights.
 
-### 4. Intelligent Services for Real-World Domains
+4. ### Intelligent Services for Real-World Domains
 We design AI systems for practical domains such as personalized learning, mobility, healthcare, and automotive diagnostic services.
 
-## Representative Ongoing Directions
-
-- Adaptive personality profiling for real-time dialogue systems
-- Personality-aware conversational AI and dialogue transformation
-- Task-dependent bias detection and mitigation in educational generative AI
-- Multi-agent language teaching and contextual simulation
-- Knowledge graph-driven LLMs for automotive diagnostic services
-- Privacy-preserving mobile crowdsensing and human activity sensing
-- Data-driven intelligence for transportation and movement analysis
+Check out examples from our [Projects](/projects) and [Papers](/publications)
 
 ## Why Join A2HD
 
@@ -65,15 +70,5 @@ We design AI systems for practical domains such as personalized learning, mobili
 
 We are recruiting:
 
-- **Research Postgraduate (RPG/PhD) students**: [View RPG opportunities](/rpgadmission)
-- **Postdoctoral fellows**: [View postdoc opportunities](/postdoc)
-
-## Explore More
-
-- [Publications](/publications)
-- [Projects](/projects)
-- [News](/news)
-
-## Contact
-
-Prospective candidates are welcome to email **jiaxingshen@LN.edu.hk** with a CV and a short note on research fit.
+- **PhD students**: 2 quotas left for 2026 intake
+- **Postdoctoral fellows**: 1 quota left
