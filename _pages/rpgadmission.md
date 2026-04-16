@@ -14,8 +14,8 @@ table, th, td {
 h2 {
     padding-left: 0;
     text-indent: 0;
-    padding-top: 3 em;
-    padding-bottom: 3 em;
+    padding-top: 3em;
+    padding-bottom: 3em;
 }
 </style>
 
