@@ -5,7 +5,6 @@ excerpt: ""
 author_profile: true
 ---
 
-
 <style>
   #bibtex_display .publication-year-group + .publication-year-group {
     margin-top: 1.5rem;
@@ -141,15 +140,13 @@ author_profile: true
         </div>
       </div> 
       <span class="if localpdf">[<a class="bibtexVar" href="/pdf/+LOCALPDF+.pdf" id="+LOCALPDF+" extra="localpdf">PDF</a>]</span>
-      <!-- <div style="margin-right:0%; clear: both; float: right;"> -->
-        <span class="if ccf==CCF A"><span class="ccfa">CCF-A</span></span>
-        <span class="if ccf==CCF B"><span class="ccfb">CCF-B</span></span>
-        <!-- <span class="if ccf==CCF C"><span class="ccfc">CCF-C</span></span> -->
-        <span class="if jcr==JCR Q1"><span class="jcrq1">JCR-Q1</span></span>
-        <!-- <span class="if jcr==JCR Q2"><span class="jcrq2">JCR-Q2</span></span> -->
-        <span class="if note==Best Paper Award"><span class="best_paper">🏆Best Paper</span></span>
-        <span class="if note==Best Student Paper Runner-up"><span class="best_paper">Best Student Paper Runner-up</span></span>
-      <!-- </div> -->
+      <span class="ccf" style="display:none;"></span>
+      <span class="jcr" style="display:none;"></span>
+      <span class="if ccf==CCF A"><span class="ccfa">CCF-A</span></span>
+      <span class="if ccf==CCF B"><span class="ccfb">CCF-B</span></span>
+      <span class="if jcr==JCR Q1"><span class="jcrq1">JCR-Q1</span></span>
+      <span class="if note==Best Paper Award"><span class="best_paper">🏆Best Paper</span></span>
+      <span class="if note==Best Student Paper Runner-up"><span class="best_paper">Best Student Paper Runner-up</span></span>
     </div>
     <span class="author"></span>.
     <span class="journal" style="font-style: italic;"></span>,
@@ -167,7 +164,7 @@ author_profile: true
         <div class="templates"></div>
       </div>
     </div>
-    <div class="section PROCEEDINGS">
+    <div class="section PROCEEDINGS|INPROCEEDINGS">
       <div class="sort year" extra="DESC number">
         <h3 class="title"><span class='year'></span></h3>
         <div class="templates"></div>
