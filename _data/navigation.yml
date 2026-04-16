@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Home"
-    url: "/about.html"
+  - title: "About"
+    url: "/"
 
   - title: "News"
     url: "/news.html"
@@ -23,6 +23,7 @@ main:
 
   - title: "A2HD Lab"
     url: "/a2hd.html"
+    
   # - title: "Join Us"
   # - url: "/rpgadmission.html"
 

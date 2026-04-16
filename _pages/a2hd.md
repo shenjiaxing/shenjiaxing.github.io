@@ -12,15 +12,6 @@ table, th, td {
   padding: 0.3em;
 }
 
-h1 {
-  color: #2e8b57;
-}
-
-h2 {
-    padding-left: 0;
-    text-indent: 0;
-    padding-top: 0.3em;
-}
 
 h3 {
     padding-left: 0;
@@ -36,23 +27,23 @@ Our lab studies **human-centered AI**. We build adaptive intelligent systems tha
 
 <!-- Our work spans **generative AI, dialogue systems, mobile and ubiquitous computing, context-aware intelligence, and intelligent services**, with applications in **personalized systems, education, healthcare, transportation, and smart cities**. -->
 
-## Questions We Answer
+### Questions We Answer
 1. How do we model human dynamics and context well enough to adapt systems to real people?  
 2. How do we make those adaptive systems trustworthy—privacy-preserving, fair, robust, and deployable?  
 3. How do we turn them into working applications in mobility, education, healthcare, and intelligent services?  
 
-## Research Themes
+### Research Themes
 
-1. ### Adaptive and Personality-Aware LLMs
+1. **Adaptive and Personality-Aware LLMs**
 We study how large language models can be adapted to user traits, task requirements, and domain constraints. This includes personality-aware dialogue systems, adaptive persona prompting, task-dependent model behaviour, and efficient control of reasoning style.
 
-2. ### Trustworthy Generative AI
+1. **Trustworthy Generative AI**
 We investigate bias, robustness, privacy, and safety in generative AI systems, especially when models are deployed in education and human-facing decision support.
 
-3. ### Human Dynamics and Context-Aware Intelligence
+1. **Human Dynamics and Context-Aware Intelligence**
 We develop models and systems for understanding human behaviour from heterogeneous signals, with emphasis on context awareness, privacy preservation, and actionable insights.
 
-4. ### Intelligent Services for Real-World Domains
+1. **Intelligent Services for Real-World Domains**
 We design AI systems for practical domains such as personalized learning, mobility, healthcare, and automotive diagnostic services.
 
 Check out examples from our [Projects](/projects) and [Papers](/publications)
@@ -73,26 +64,26 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 
 
 
-# Members
+# Lab Members
 
-## Director
+### Director
 - Dr. Shen Jiaxing
 
-## PhD Students
+### PhD Students
 - Mr. Shen Yifei (Year 1)
 - Mr. Wang Wenxuan (Year 1)
 - Ms. Liu Zirui (Year 1)
 - Mr. Kou Haoxuan (Year 1)
 
-## Research Assistants
+### Research Assistants
 - Mr. Zuo Chenyu
 - Mr. Gu Zepeng
 
-## Alumni
+### Alumni
 - Mr. Liu Yuanjun (visiting Phd from Soochow University)
 
 
-## Open Positions
+### Open Positions
 We are recruiting:
 - **PhD students**: 2 quotas left for 2026 intake
 - **Postdoctoral fellows**: 1 quota left
