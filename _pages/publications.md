@@ -5,6 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
+
 <style>
   #bibtex_display .publication-year-group + .publication-year-group {
     margin-top: 1.5rem;
@@ -27,15 +28,31 @@ author_profile: true
 </style>
 
 <script>
+  function getFieldText(entry, selector) {
+    var node = entry.querySelector(selector);
+    return node ? node.textContent.trim() : '';
+  }
+
+  function normalizeLabel(value) {
+    return (value || '')
+      .replace(/[-\s]+/g, ' ')
+      .trim()
+      .toUpperCase();
+  }
+
+  function getDisplayPriority(entry) {
+    var ccf = normalizeLabel(getFieldText(entry, '.ccf'));
+    var jcr = normalizeLabel(getFieldText(entry, '.jcr'));
+
+    if (ccf === 'CCF A') return 0;
+    if (ccf === 'CCF B') return 1;
+    if (jcr === 'JCR Q1') return 2;
+    return 3;
+  }
+
   function rebuildPublicationList(root) {
     var entries = Array.from(root.querySelectorAll('.bibtexentry'));
     if (!entries.length) return;
-
-    var typePriority = {
-      ARTICLE: 0,
-      PROCEEDINGS: 1,
-      INPROCEEDINGS: 1
-    };
 
     var groupedByYear = new Map();
 
@@ -51,8 +68,6 @@ author_profile: true
         entry.classList.add('journal-entry');
       } else if (type === 'PROCEEDINGS' || type === 'INPROCEEDINGS') {
         entry.classList.add('conference-entry');
-        var title = entry.querySelector('.title');
-        
       } else {
         entry.classList.add('other-entry');
       }
@@ -68,7 +83,7 @@ author_profile: true
       groupedByYear.get(year).push({
         entry: entry,
         index: index,
-        priority: Object.prototype.hasOwnProperty.call(typePriority, type) ? typePriority[type] : 2
+        priority: getDisplayPriority(entry)
       });
     });
 
