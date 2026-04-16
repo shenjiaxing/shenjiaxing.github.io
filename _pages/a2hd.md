@@ -12,6 +12,10 @@ table, th, td {
   padding: 0.3em;
 }
 
+h1 {
+  color: #2e8b57;
+}
+
 h2 {
     padding-left: 0;
     text-indent: 0;
@@ -69,7 +73,7 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 
 
 
-# Lab Members
+# Members
 
 ## Director
 - Dr. Shen Jiaxing
@@ -89,8 +93,6 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 
 
 ## Open Positions
-
 We are recruiting:
-
 - **PhD students**: 2 quotas left for 2026 intake
 - **Postdoctoral fellows**: 1 quota left
