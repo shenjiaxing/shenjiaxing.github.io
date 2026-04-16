@@ -23,16 +23,19 @@ h2 {
 
 A2HD is recruiting **self-motivated research postgraduate students** who want to work on human-centered AI, adaptive large language models, and intelligent systems for real-world applications.
 
-## Research Directions
+## Why Join A2HD
 
-Applicants with interest in one or more of the following directions are especially welcome:
+- **Clear research identity**: a focused agenda around adaptive AI, human dynamics, and real-world deployment
+- **Publication-oriented culture**: research aimed at strong journals and conferences in AI, data science, ubiquitous computing, and information systems
+- **Funded research directions**: active projects across generative AI, privacy-preserving analytics, knowledge graphs, transportation, and intelligent services
+- **Real-world resources**: access to computing infrastructure and application-driven datasets
+- **Close mentorship**: a growing lab where students and fellows can help shape new directions from an early stage
 
-- Adaptive and personality-aware LLMs
-- Dialogue systems and generative AI for human-facing applications
-- Trustworthy AI, including bias, privacy, and robustness
-- Human dynamics, context-aware computing, and mobile intelligence
-- AI for education, healthcare, transportation, and smart-city services
+## Selected Strengths
 
+- Research published in venues such as ACM TOIS, IEEE TMC, IEEE TKDE, WWW, and IEEE INFOCOM
+- Best Paper Awards at IEEE INFOCOM and ICNP
+- Interdisciplinary environment within Lingnan University’s School of Data Science
 
 ## What We Look For
 

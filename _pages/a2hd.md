@@ -29,6 +29,7 @@ h3 {
 
 Our lab studies **human-centered AI**. We build adaptive intelligent systems that combine rigorous machine learning with real-world understanding of human behaviour, context, and decision-making. [Join Us Now!](/rpgadmission)
 
+
 <!-- Our work spans **generative AI, dialogue systems, mobile and ubiquitous computing, context-aware intelligence, and intelligent services**, with applications in **personalized systems, education, healthcare, transportation, and smart cities**. -->
 
 ## Questions We Answer
@@ -52,7 +53,7 @@ We design AI systems for practical domains such as personalized learning, mobili
 
 Check out examples from our [Projects](/projects) and [Papers](/publications)
 
-## Why Join A2HD
+<!-- ## Why Join A2HD
 
 - **Clear research identity**: a focused agenda around adaptive AI, human dynamics, and real-world deployment
 - **Publication-oriented culture**: research aimed at strong journals and conferences in AI, data science, ubiquitous computing, and information systems
@@ -64,7 +65,28 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 
 - Research published in venues such as ACM TOIS, IEEE TMC, IEEE TKDE, WWW, and IEEE INFOCOM
 - Best Paper Awards at IEEE INFOCOM and ICNP
-- Interdisciplinary environment within Lingnan University’s School of Data Science
+- Interdisciplinary environment within Lingnan University’s School of Data Science -->
+
+
+
+# Lab Members
+
+## Director
+- Dr. Shen Jiaxing
+
+## PhD Students
+- Mr. Shen Yifei (Year 1)
+- Mr. Wang Wenxuan (Year 1)
+- Ms. Liu Zirui (Year 1)
+- Mr. Kou Haoxuan (Year 1)
+
+## Research Assistants
+- Mr. Zuo Chenyu
+- Mr. Gu Zepeng
+
+## Alumni
+- Mr. Liu Yuanjun (visiting Phd from Soochow University)
+
 
 ## Open Positions
 
