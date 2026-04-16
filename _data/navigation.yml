@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-   url: "/about.html"
+    url: "/about.html"
 
   - title: "News"
     url: "/news.html"
