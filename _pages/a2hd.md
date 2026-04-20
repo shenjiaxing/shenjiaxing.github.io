@@ -74,13 +74,17 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 - Mr. Wang Wenxuan (Year 1)
 - Ms. Liu Zirui (Year 1)
 - Mr. Kou Haoxuan (Year 1)
+- Mr. Li Shuxing (26 intake)
 
 ### Research Assistants
 - Mr. Zuo Chenyu
 - Mr. Gu Zepeng
 
-### Alumni
+### Alumni & Collaborators
+- [Dr. Miao Hao](https://haomiao.website/) (now Research Assistant Professor at The Hong Kong Polytechnic University)
+- [Mr. Zhao Haihong](https://haihongzhao.com/) (now PhD at HKUST)
 - Mr. Liu Yuanjun (visiting Phd from Soochow University)
+- Mr. Cheng Zhenkai
 
 
 ### Open Positions
