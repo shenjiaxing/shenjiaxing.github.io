@@ -9,20 +9,21 @@ main:
   # - title: "Research"
   #   url: "/#aiot-empowered-human-dynamics"
 
+  - title: "A2HD Lab"
+    url: "/a2hd.html"
+
   - title: "Publications"
     url: "/publications.html"
 
   - title: "Projects"
     url: "/projects.html"
 
-  - title: "Teaching"
-    url: "/teaching.html"
-
   - title: "Service"
     url: "/service.html"
 
-  - title: "A2HD Lab"
-    url: "/a2hd.html"
+  - title: "Teaching"
+    url: "/teaching.html"
+
     
   # - title: "Join Us"
   # - url: "/rpgadmission.html"
