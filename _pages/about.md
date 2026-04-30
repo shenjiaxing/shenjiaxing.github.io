@@ -33,7 +33,6 @@ By combining interdisciplinary expertise with a focus on impactful AI applicatio
 # Recent News
 📌 **<a href="/rpgadmission.html" target="_parent">Seeking self-motivated PhD students and postdoctoral fellows.</a>**
 {% include_relative _news_by_year/2026.md %}
-
 <!-- # Work Experience
 - *2022.9* - *Now* Assistant Professor, Division of Artificial Intelligence, Lingnan University, Hong Kong SAR
 - *2020.2* - *2022.8* Research Assistant Professor, Department of Computing, The Hong Kong Polytechnic University, Hong Kong SAR
@@ -53,7 +52,7 @@ By combining interdisciplinary expertise with a focus on impactful AI applicatio
 - *2025.08* **Best Student Paper Runner-up** of IEEE/ACM International Symposium on Quality of Service (IWQoS).
 <!-- - *2024.04* Merit Award in Teaching Excellence Awards of Lingnan University. -->
 - *2020.12* **Best Paper Award** of IEEE International Conference on Computer Communications (INFOCOM).
-- *2016.11* **Best Paper Award** of IEEE International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress.
+<!-- - *2016.11* **Best Paper Award** of IEEE International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress. -->
 <!-- - *2013.10* **National Scholarship of China** -->
 {: class="date-ul tbc"}
 
