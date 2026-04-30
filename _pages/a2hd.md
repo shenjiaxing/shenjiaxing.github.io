@@ -7,11 +7,11 @@ author_profile: true
 
 <style>
 
-h3 {
+/* h3 {
     padding-left: 0;
     text-indent: 0;
     margin-bottom: 0.0rem;
-}
+} */
 </style>
 
 # <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 1.0em; vertical-align: middle;"> (Adaptive AI & Human Dynamics) Lab 
