@@ -6,12 +6,6 @@ author_profile: true
 ---
 
 <style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-  padding: 0.3em;
-}
-
 
 h3 {
     padding-left: 0;
