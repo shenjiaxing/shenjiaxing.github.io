@@ -81,7 +81,6 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 - Mr. Cheng Zhenkai
 
 
-### Open Positions
-We are recruiting:
+### Open Positions  
 - **PhD students**: 2 quotas left for 2026 intake
 - **Postdoctoral fellows**: 1 quota left
