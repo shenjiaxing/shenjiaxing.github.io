@@ -36,6 +36,8 @@ author_profile: true
 
 ## Technical Program Committee
 - INFOCOM 2027
+- CIKM 2026
+- ICDM 2026
 - ACMMM 2026
 - WWW 2026
 - AAAI 2026
@@ -73,11 +75,11 @@ author_profile: true
 - Expert Systems With Applications
 - Pattern Recognition
 
-## Conference Reviewer
+<!-- ## Conference Reviewer
 - WWW
 - AAAI
 - IJCAI 
 - IEEE ICDCS 
 - IEEE Percom 
 - ACM MOBIQUITOUS 
-
+ -->
