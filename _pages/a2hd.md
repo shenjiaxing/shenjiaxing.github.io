@@ -82,5 +82,5 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 
 
 ### Open Positions  
-- **PhD students**: 2 quotas left for 2026 intake
-- **Postdoctoral fellows**: 1 quota left
+- **PhD students**: 2 quotas left for 2026 intake (deadline 30 June 2026)
+<!-- - **Postdoctoral fellows**: 1 quota left -->
