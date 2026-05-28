@@ -45,9 +45,9 @@ author_profile: true
 - ICDSC 2025
 - IEEE MASS 2022
 
-## Session Chair
+<!-- ## Session Chair
 - IEEE ICDM 2023
-- IEEE MASS 2022
+- IEEE MASS 2022 -->
 
 ## Journal Reviewer
 - IEEE Transactions on Mobile Computing
