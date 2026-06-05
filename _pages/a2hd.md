@@ -63,6 +63,9 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 ### Director
 - Dr. Shen Jiaxing
 
+### Postdoctoral Fellows
+- Dr. Zhou Yuzhi
+
 ### PhD Students
 - Mr. Shen Yifei (Year 1)
 - Mr. Wang Wenxuan (Year 1)
