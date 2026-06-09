@@ -8,7 +8,7 @@ author_profile: true
 
 # Projects
 
-As PI and Co-PI, I have secured a total of **HKD 4,126,700** across 20 funded projects, spanning generative AI, privacy-preserving data analytics, knowledge graphs, intelligent transportation, and human-computer interaction.
+As PI and Co-PI, I have secured a total of **HKD 4,306,700** across 20 funded projects, spanning generative AI, privacy-preserving data analytics, knowledge graphs, intelligent transportation, and human-computer interaction.
 
 | Period | Project | Amount (HKD) | Role | Funder |
 | --- | --- | ---: | --- | --- |
