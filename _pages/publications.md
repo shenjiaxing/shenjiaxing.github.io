@@ -145,8 +145,9 @@ author_profile: true
       <span class="if ccf==CCF A"><span class="ccfa">CCF-A</span></span>
       <span class="if ccf==CCF B"><span class="ccfb">CCF-B</span></span>
       <span class="if jcr==JCR Q1"><span class="jcrq1">JCR-Q1</span></span>
-      <span class="if note==Best Paper Award"><span class="best_paper">🏆Best Paper</span></span>
+      <span class="if note==Best Paper Award"><span class="best_paper">Best Paper🏆</span></span>
       <span class="if note==Best Student Paper Runner-up"><span class="best_paper">Best Student Paper Runner-up</span></span>
+      <span class="if note==IEEE Best Workshop Paper"><span class="best_paper">IEEE Best Workshop Paper🏆</span></span>
     </div>
     <span class="author"></span>.
     <span class="journal" style="font-style: italic;"></span>,
