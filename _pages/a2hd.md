@@ -14,7 +14,7 @@ author_profile: true
 } */
 </style>
 
-# <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 1.0em; vertical-align: middle;"> (Adaptive AI & Human Dynamics) Lab 
+# <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 2.0em; vertical-align: middle;"> (Adaptive AI & Human Dynamics) Lab 
 
 Our lab studies **human-centered AI**. We build adaptive intelligent systems that combine rigorous machine learning with real-world understanding of human behaviour, context, and decision-making. [Join Us Now!](/rpgadmission)
 
