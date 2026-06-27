@@ -14,7 +14,7 @@ author_profile: true
 } */
 </style>
 
-# <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 2.0em; vertical-align: middle;"> (Adaptive AI & Human Dynamics) Lab 
+# <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 2.0em; vertical-align: middle;"> (Adaptive AI & Human Dynamics) Lab 智動實驗室
 
 Our lab studies **human-centered AI**. We build adaptive intelligent systems that combine rigorous machine learning with real-world understanding of human behaviour, context, and decision-making. [Join Us Now!](/rpgadmission)
 
@@ -86,4 +86,4 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 
 ### Open Positions  
 - **PhD students**: 2 quotas left for 2026 intake (deadline 30 June 2026)
-<!-- - **Postdoctoral fellows**: 1 quota left -->
+- **Postdoctoral fellows**: 1 quota left
