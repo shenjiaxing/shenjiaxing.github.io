@@ -8,10 +8,11 @@ author_profile: true
 
 # Projects
 
-As PI and Co-PI, I have secured a total of **HKD 4,306,700** across 20 funded projects, spanning generative AI, privacy-preserving data analytics, knowledge graphs, intelligent transportation, and human-computer interaction.
+As PI and Co-PI, I have secured a total of **4.96M HKD** over 20 funded projects, spanning generative AI, privacy-preserving data analytics, knowledge graphs, intelligent transportation, and human-computer interaction.
 
 | Period | Project | Amount (HKD) | Role | Funder |
 | --- | --- | ---: | --- | --- |
+| 2027.01 - 2029.12 | A Comprehensive Framework for Personality-Aware Conversational AI: Data, Recognition, Induction, and Validation | 662,234 | PI | RGC |
 | 2026.07 - 2027.12 | LLM-Enabled Misconception Diagnosis and Elimination for Large-Enrolment Computing Courses | 180,000 | PI | LU |
 | 2026.01 - 2027.12 | Adaptive Personality Profiling for Real-Time Dialogue Systems | 100,000 | PI | LU |
 | 2026.01 - 2027.12 | Developing Multi-Agent-based Language Teaching System: Personalized Tutoring and Contextual Simulation | 200,000 (total: 1,300,000) | Co-PI | UGC |
@@ -34,8 +35,6 @@ As PI and Co-PI, I have secured a total of **HKD 4,306,700** across 20 funded pr
 | 2023.01 - 2024.12 | Preserving Implicative Privacy via Context-Aware Generative Approaches in Mobile Crowdsensing | 50,000 | PI | LU |
 | 2019.03 - 2022.09 | Multi-Stage Learning: An Effective Learning Paradigm for Multistage Systems | 500,000 | PI | PolyU |
 {: class="date-ul tbc2"}
-
-**Total: HKD 4,126,700**
 
 
 
