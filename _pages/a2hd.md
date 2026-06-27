@@ -4,7 +4,6 @@ title: ""
 excerpt: ""
 author_profile: true
 ---
-
 <style>
 
 /* h3 {
@@ -12,6 +11,47 @@ author_profile: true
     text-indent: 0;
     margin-bottom: 0.0rem;
 } */
+
+.support-section {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e8e8e8;
+}
+
+.support-section h2 {
+    margin-bottom: 0.5rem;
+}
+
+.support-logos {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1.25rem 2rem;
+    margin-top: 1rem;
+}
+
+.support-logos img {
+    max-height: 56px;
+    max-width: 220px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
+.support-logos img.support-logo-tall {
+    max-height: 72px;
+}
+
+@media (max-width: 600px) {
+    .support-logos {
+        gap: 1rem;
+    }
+
+    .support-logos img {
+        max-width: 45%;
+        max-height: 48px;
+    }
+}
 </style>
 
 # <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 2.0em; vertical-align: middle;"> (Adaptive AI & Human Dynamics) Lab 智動實驗室
@@ -87,3 +127,17 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 ### Open Positions  
 - **PhD students**: 2 quotas left for 2026 intake (deadline 30 June 2026)
 - **Postdoctoral fellows**: 1 quota left
+
+
+<section class="support-section">
+  <h2>Acknowledgements</h2>
+  <p>We gratefully acknowledge support from UGC, JHMUA, Lingnan University, The Hong Kong Polytechnic University, and 雲伽.</p>
+
+  <div class="support-logos" aria-label="Supporting organizations">
+    <img src="/images/ugc.png" alt="UGC" loading="lazy">
+    <img src="/images/jhmua.jpg" alt="JHMUA" loading="lazy">
+    <img src="/images/ln.png" alt="Lingnan University" loading="lazy">
+    <img src="/images/polyu.png" alt="PolyU" loading="lazy">
+    <img class="support-logo-tall" src="/images/yjzn.png" alt="雲伽" loading="lazy">
+  </div>
+</section>
