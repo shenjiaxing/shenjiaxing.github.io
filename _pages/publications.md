@@ -49,6 +49,25 @@ author_profile: true
     return 3;
   }
 
+  function getPublicationYearLabel(year) {
+    var numericYear = Number(year);
+
+    if (!isNaN(numericYear) && numericYear <= 2019) {
+      return '2019 and Before';
+    }
+
+    return year;
+  }
+
+  function getPublicationYearSortValue(yearLabel) {
+    if (yearLabel === '2019 and Before') {
+      return 2019;
+    }
+
+    var numericYear = Number(yearLabel);
+    return isNaN(numericYear) ? -Infinity : numericYear;
+  }
+
   function rebuildPublicationList(root) {
     var entries = Array.from(root.querySelectorAll('.bibtexentry'));
     if (!entries.length) return;
@@ -75,21 +94,27 @@ author_profile: true
         year = 'Other';
       }
 
-      if (!groupedByYear.has(year)) {
-        groupedByYear.set(year, []);
+      var yearLabel = getPublicationYearLabel(year);
+      var numericYear = Number(year);
+
+      if (!groupedByYear.has(yearLabel)) {
+        groupedByYear.set(yearLabel, []);
       }
 
-      groupedByYear.get(year).push({
+      groupedByYear.get(yearLabel).push({
         entry: entry,
         index: index,
-        priority: getDisplayPriority(entry)
+        priority: getDisplayPriority(entry),
+        yearNumber: isNaN(numericYear) ? -Infinity : numericYear
       });
     });
 
     var yearOrder = Array.from(groupedByYear.keys()).sort(function(a, b) {
       if (a === 'Other') return 1;
       if (b === 'Other') return -1;
-      return Number(b) - Number(a);
+
+      var diff = getPublicationYearSortValue(b) - getPublicationYearSortValue(a);
+      return diff || String(b).localeCompare(String(a));
     });
 
     var fragment = document.createDocumentFragment();
@@ -105,6 +130,10 @@ author_profile: true
 
       groupedByYear.get(year)
         .sort(function(left, right) {
+          if (year === '2019 and Before' && right.yearNumber !== left.yearNumber) {
+            return right.yearNumber - left.yearNumber;
+          }
+
           return left.priority - right.priority || left.index - right.index;
         })
         .forEach(function(item) {
