@@ -136,6 +136,7 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 
   <div class="support-logos" aria-label="Supporting organizations">
     <img src="/images/ugc.png" alt="UGC" loading="lazy">
+    <img src="/images/rgc.jpg" alt="RGC" loading="lazy">
     <img src="/images/jhmua.jpg" alt="JHMUA" loading="lazy">
     <img src="/images/ln.png" alt="Lingnan University" loading="lazy">
     <img src="/images/polyu.png" alt="PolyU" loading="lazy">
