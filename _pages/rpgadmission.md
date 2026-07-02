@@ -21,7 +21,7 @@ h3 {
 
 </style>
 
-# [<img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 1.0em; vertical-align: middle;">](/a2hd) 
+# [<img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 2.0em; vertical-align: middle;">](/a2hd) 
 ### Why Join A2HD
 
 - **Clear research identity**: a focused agenda around adaptive AI, human dynamics, and real-world deployment
@@ -37,6 +37,7 @@ h3 {
   - Interdisciplinary environment within Lingnan University’s School of Data Science
   
 # PhD Opportunities 
+
 We are recruiting **self-motivated research postgraduate students** who want to work on human-centered AI, adaptive large language models, and intelligent systems for real-world applications.
 
 ### What We Look For
@@ -66,8 +67,8 @@ Please email the following materials to **jiaxingshen@LN.edu.hk**:
 
 It is helpful if your email also includes:
 
-- the subject line **“RPG Application – Your Name – Research Area”**
-- a short paragraph explaining why you are interested in A2HD
+- The subject line **“RPG Application – Your Name – Research Area”**
+- A short paragraph explaining why you are interested in A2HD
 
 After an initial discussion, shortlisted candidates may be invited to proceed with the formal university application.
 
@@ -75,10 +76,10 @@ After an initial discussion, shortlisted candidates may be invited to proceed wi
 
 You may be a strong fit if you enjoy:
 
-- building systems instead of only running benchmarks
-- connecting machine learning with real-world human and domain problems
-- working across models, data, evaluation, and deployment questions
-- turning research ideas into publishable, well-executed work
+- Building systems instead of only running benchmarks
+- Connecting machine learning with real-world human and domain problems
+- Working across models, data, evaluation, and deployment questions
+- Turning research ideas into publishable, well-executed work
 
 
 # Postdoc Opportunities
