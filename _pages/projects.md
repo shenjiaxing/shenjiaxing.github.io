@@ -4,7 +4,55 @@ title: ""
 excerpt: ""
 author_profile: true
 ---
+<style>
 
+/* h3 {
+    padding-left: 0;
+    text-indent: 0;
+    margin-bottom: 0.0rem;
+} */
+
+.support-section {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e8e8e8;
+}
+
+.support-section h2 {
+    margin-bottom: 0.5rem;
+}
+
+.support-logos {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1.25rem 2rem;
+    margin-top: 1rem;
+}
+
+.support-logos img {
+    max-height: 56px;
+    max-width: 220px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
+.support-logos img.support-logo-tall {
+    max-height: 72px;
+}
+
+@media (max-width: 600px) {
+    .support-logos {
+        gap: 1rem;
+    }
+
+    .support-logos img {
+        max-width: 45%;
+        max-height: 48px;
+    }
+}
+</style>
 
 # Projects
 
@@ -58,3 +106,19 @@ As PI and Co-PI, I have secured a total of **4.96M HKD** over 20 funded projects
 - *2020.12* Data-Driven Analytics of Human Dynamics \[[Slides](talks/Data-Driven Analytics of Human Dynamics.pdf)\]
 - *2018.12* ICDM: "GINA: Group Gender Identification Using Privacy-Sensitive Audio Data" \[[Slides](talks/GINA 0705.pdf)\]
 {: class="date-ul tbc"} -->
+
+
+
+<section class="support-section">
+  <h2>Acknowledgements</h2>
+  <p>We gratefully acknowledge support from UGC, JHMUA, Lingnan University, The Hong Kong Polytechnic University, and 雲伽.</p>
+
+  <div class="support-logos" aria-label="Supporting organizations">
+    <img src="/images/ugc.png" alt="UGC" loading="lazy">
+    <img src="/images/rgc.jpg" alt="RGC" loading="lazy">
+    <img src="/images/jhmua.jpg" alt="JHMUA" loading="lazy">
+    <img src="/images/ln.png" alt="Lingnan University" loading="lazy">
+    <img src="/images/polyu.png" alt="PolyU" loading="lazy">
+    <img class="support-logo-tall" src="/images/yjzn.png" alt="雲伽" loading="lazy">
+  </div>
+</section>
