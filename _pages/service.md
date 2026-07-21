@@ -68,6 +68,7 @@ author_profile: true
 - ACM Transactions on Architecture and Code Optimization
 - ACM Transactions on Cyber-Physical Systems
 - ACM Computing Surveys
+- Cell Reports Physical Science
 - INFORMS Journal on Computing
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - Journal of the American Statistical Association
