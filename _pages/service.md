@@ -35,6 +35,7 @@ author_profile: true
 - [BESC 2024](https://besc-conf.org/2024/)
 
 ## Technical Program Committee
+- AAAI 2027
 - INFOCOM 2027
 - CIKM 2026
 - ICDM 2026
