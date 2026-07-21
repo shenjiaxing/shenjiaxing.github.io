@@ -51,7 +51,9 @@ author_profile: true
 
 ## Journal Reviewer
 - IEEE Transactions on Mobile Computing
+- IEEE Transactions on Affective Computing
 - IEEE Transactions on Knowledge and Data Engineering
+- IEEE Transactions on Computers
 - IEEE Transactions on Intelligent Transportation Systems
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Image Processing
@@ -61,17 +63,22 @@ author_profile: true
 - IEEE Transactions on Big Data
 - IEEE Transactions on Computational Social Systems
 - IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Transactions on Emerging Topics in Computational Intelligence
+- IEEE Transactions on Dependable and Secure Computing
 - IEEE Internet of Things Journal
 - IEEE Journal of Biomedical and Health Informatics
 - ACM Transactions on Intelligent Systems and Technology
 - ACM Transactions on Architecture and Code Optimization
 - ACM Transactions on Cyber-Physical Systems
+- ACM Transactions on Autonomous and Adaptive Systems
 - ACM Computing Surveys
 - Cell Reports Physical Science
 - INFORMS Journal on Computing
+- Big Data Mining and Analytics
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - Journal of the American Statistical Association
 - GIScience & Remote Sensing
+- Environment and Planning B: Urban Analytics and City Science
 - Computers in Biology and Medicine
 - Expert Systems With Applications
 - Pattern Recognition
