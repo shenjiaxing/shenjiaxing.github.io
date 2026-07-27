@@ -28,7 +28,7 @@ author_profile: true
 
 
 ## Organizing Committee
-- [ICAIT 2026 Workshop on Digital Twin-Augmented Large Language Model Agents]()
+- [ICAIT 2026 Workshop on Digital Twin-Augmented Large Language Model Agents](/services/ICAIT_workshop_2026.pdf)
 - BESC 2026
 - IEEE MASS 2026 Workshop on 7th Network Meets Intelligent Computations (NMIC 2026)
 - IEEE ICDM 2026 Workshop on 1st Human Dynamics and Mobility Analytics in Agentic AI Era ([HDAI 2026](https://liweideng0830.github.io/hdai2026-ICDM-workshop/))
