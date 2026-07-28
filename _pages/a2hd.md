@@ -113,6 +113,8 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 - Ms. Liu Zirui (Year 1)
 - Mr. Kou Haoxuan (Year 1)
 - Mr. Li Shuxing (26 intake)
+- Mr. Liu Xinpeng (26 intake)
+- Mr. Bian You (26 intake)
 
 ### Research Assistants
 - Mr. Zuo Chenyu
