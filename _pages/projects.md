@@ -60,6 +60,8 @@ As PI and Co-PI, I have secured a total of **5M HKD** over funded projects, span
 
 | Period | Project | Amount (HKD) | Role | Funder |
 | --- | --- | ---: | --- | --- |
+| 2026.08 - 2027.12 | Generative AI and Human Dynamics: Shaping the Future of Human-AI Collaboration 2026
+ | 65,000 | PI | JHMUA Open Bid Fund |
 | 2026.09 - 2027.08 | Prompt-Enhanced Logit Adaptation for Transferable Personality-Trait Steering in Large Language Models | 50,000 | PI | LU |
 | 2027.01 - 2029.12 | A Comprehensive Framework for Personality-Aware Conversational AI: Data, Recognition, Induction, and Validation | 662,234 | PI | RGC |
 | 2026.07 - 2027.12 | LLM-Enabled Misconception Diagnosis and Elimination for Large-Enrolment Computing Courses | 180,000 | PI | LU |
