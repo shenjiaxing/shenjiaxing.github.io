@@ -118,11 +118,12 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 
 ### Research Assistants
 - Mr. Zuo Chenyu
-- Mr. Gu Zepeng
+
 
 ### Alumni & Collaborators
 - [Dr. Miao Hao](https://haomiao.website/) (now Research Assistant Professor at The Hong Kong Polytechnic University)
 - [Mr. Zhao Haihong](https://haihongzhao.com/) (now PhD at HKUST)
+- Mr. Gu Zepeng (now PhD at HKU)
 - Mr. Liu Yuanjun (visiting Phd from Soochow University)
 - Mr. Cheng Zhenkai
 
