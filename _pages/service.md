@@ -38,10 +38,11 @@ author_profile: true
 ## Technical Program Committee
 - AAAI 2026, 2027
 - INFOCOM 2027
-- CIKM 2026
-- ICDM 2026
+- DASFAA 2027
 - MM 2026
 - WWW 2026
+- CIKM 2026
+- ICDM 2026
 - BESC 2025
 - ICDSC 2025
 - IEEE MASS 2022
