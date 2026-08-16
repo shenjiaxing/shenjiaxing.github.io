@@ -5,11 +5,17 @@ excerpt: ""
 author_profile: true
 ---
 
-Jiaxing Shen is an Assistant Professor in the Division of Artificial Intelligence at Lingnan University, a founding member of Lingnan University’s School of Data Science, and founding director of the Master of Science in Data Science programme. 
+Dr. Jiaxing Shen is an Assistant Professor in the Division of Artificial Intelligence at Lingnan University, where he directs the [Adaptive AI & Human Dynamics Lab](/a2hd) and serves as the founding Programme Director of the MSc in Data Science. His research focuses on human-centred AI, particularly adaptive intelligent systems grounded in an understanding of human behaviour and context.
+
+His work brings together generative AI, dialogue systems, and mobile and ubiquitous computing to make intelligent systems more personalised, privacy-preserving, and trustworthy in real-world settings. Applications include education, healthcare, mobility, and intelligent services. His research has appeared in leading venues including ACM TOIS, IEEE TMC, IEEE TKDE, ICML, KDD, and The Web Conference, and has been recognised with Best Paper Awards at IEEE INFOCOM and IEEE ICNP, as well as a Gold Medal at the International Exhibition of Inventions Geneva.
+
+Before joining Lingnan University, he was a joint postdoctoral fellow at MIT and The Hong Kong Polytechnic University and a visiting scholar at the MIT Media Lab.
+
+<!-- Dr. Jiaxing Shen is an Assistant Professor in the Division of Artificial Intelligence at Lingnan University, a founding member of Lingnan University’s School of Data Science, and founding director of the Master of Science in Data Science programme. 
 His research is in human-centered AI, focusing on human dynamics and adaptive intelligent systems for real-world applications. 
 His work spans generative AI, dialogue systems, mobile and ubiquitous computing, and intelligent services, with applications in personalized systems, healthcare, and smart cities. 
 His research has appeared in venues including ACM TOIS, IEEE TMC, IEEE TKDE, WWW, and IEEE INFOCOM, and has received Best Paper Awards at INFOCOM and ICNP, as well as a Gold Medal at the Geneva International Exhibition of Inventions. 
-Before joining Lingnan, he was a joint postdoctoral fellow at MIT and The Hong Kong Polytechnic University and a visiting scholar at the MIT Media Lab.
+Before joining Lingnan, he was a joint postdoctoral fellow at MIT and The Hong Kong Polytechnic University and a visiting scholar at the MIT Media Lab. -->
 
 <!-- Dr. Jiaxing Shen is an Assistant Professor in the [Division of Artificial Intelligence](https://www.ln.edu.hk/sds/dai), School of Data Science, Lingnan University, Hong Kong. He received his BE in Software Engineering from Jilin University and his PhD in Computer Science from The Hong Kong Polytechnic University. He was also a visiting scholar at the MIT Media Lab.
 
@@ -53,7 +59,7 @@ By combining interdisciplinary expertise with a focus on impactful AI applicatio
 <!-- - *2024.04* Merit Award in Teaching Excellence Awards of Lingnan University. -->
 - *2020.12* **Best Paper Award** of IEEE International Conference on Computer Communications (INFOCOM).
 <!-- - *2016.11* **Best Paper Award** of IEEE International Conferences on Ubiquitous Intelligence & Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress. -->
-<!-- - *2013.10* **National Scholarship of China** -->
+- *2013.10* **National Scholarship of China**
 {: class="date-ul tbc"}
 
 
