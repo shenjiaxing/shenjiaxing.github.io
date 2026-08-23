@@ -123,6 +123,7 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 ### Alumni & Collaborators
 - [Dr. Miao Hao](https://haomiao.website/) (now Research Assistant Professor at The Hong Kong Polytechnic University)
 - [Mr. Zhao Haihong](https://haihongzhao.com/) (now PhD at HKUST)
+- Mr. Shen Yifei (now PhD at LU)
 - Mr. Gu Zepeng (now PhD at HKU)
 - Mr. Liu Yuanjun (visiting Phd from Soochow University)
 - Mr. Cheng Zhenkai
