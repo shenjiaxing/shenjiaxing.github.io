@@ -104,8 +104,8 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 ### Director
 - Dr. Shen Jiaxing
 
-### Postdoctoral Fellows
-- Dr. Zhou Yuzhi
+### Staff
+- [Dr. Zhou Yuzhi](https://www.ln.edu.hk/sds/dai/division/people/professor-zhou-yuzhi), Research Assistant Professor
 
 ### PhD Students
 - Mr. Shen Yifei (25 intake)
@@ -133,7 +133,7 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 
 ### Open Positions  
 - **PhD students**: 2 quotas for 2027 Spring intake
-- **Postdoctoral fellows**: 1 quota left
+<!-- - **Postdoctoral fellows**: 1 quota left -->
 
 
 <section class="support-section">
