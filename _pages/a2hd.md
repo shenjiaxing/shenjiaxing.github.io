@@ -108,10 +108,10 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 - Dr. Zhou Yuzhi
 
 ### PhD Students
-- Mr. Shen Yifei (Year 1)
-- Mr. Wang Wenxuan (Year 1)
-- Ms. Liu Zirui (Year 1)
-- Mr. Kou Haoxuan (Year 1)
+- Mr. Shen Yifei (25 intake)
+- Mr. Wang Wenxuan (25 intake)
+- Ms. Liu Zirui (25 intake)
+- Mr. Kou Haoxuan (25 intake)
 - Mr. Li Shuxing (26 intake)
 - Mr. Liu Xinpeng (26 intake)
 - Mr. Bian You (26 intake)
@@ -119,6 +119,8 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 ### Research Assistants
 - Mr. Zuo Chenyu
 
+### UG Students
+- Mr. Wu Ruiqing (26 intake)
 
 ### Alumni & Collaborators
 - [Dr. Miao Hao](https://haomiao.website/) (now Research Assistant Professor at The Hong Kong Polytechnic University)
