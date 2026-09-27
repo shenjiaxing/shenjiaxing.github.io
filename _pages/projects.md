@@ -62,7 +62,7 @@ As PI and Co-PI, I have secured a total of **5.5M HKD** over funded projects, sp
 | --- | --- | ---: | --- | --- |
 | 2026.10 - 2027.12 | Research Matching Grant | 195,652.25 | PI | RGC |
 | 2026.10 - 2027.12 | Donation for AI-empowered Intelligent Automotive Diagnostic Services | 300,000 | PI | Industrial Donation |
-| 2026.08 - 2027.12 | Generative AI and Human Dynamics: Shaping the Future of Human-AI Collaboration 2026 | 65,000 | PI | JHMUA Open Bid Fund |
+| 2026.08 - 2027.12 | Generative AI and Human Dynamics: Shaping the Future of Human-AI Collaboration 2026 | 65,000 | PI | JHMUA |
 | 2026.09 - 2027.08 | Prompt-Enhanced Logit Adaptation for Transferable Personality-Trait Steering in Large Language Models | 50,000 | PI | LU |
 | 2027.01 - 2029.12 | A Comprehensive Framework for Personality-Aware Conversational AI: Data, Recognition, Induction, and Validation | 662,234 | PI | RGC |
 | 2026.07 - 2027.12 | LLM-Enabled Misconception Diagnosis and Elimination for Large-Enrolment Computing Courses | 180,000 | PI | LU |
@@ -76,7 +76,7 @@ As PI and Co-PI, I have secured a total of **5.5M HKD** over funded projects, sp
 | 2025.09 - 2026.01 | AI Innovations and Entrepreneurship: Bridging Global Research and Local Industry 人工智能創新與創業：連接全球研究與本地產業 | 189,000 | PI | LU |
 | 2025.08 - 2026.08 | Knowledge Graph-Driven Large Language Models for Automotive Diagnostic Services | 50,000 | PI | LU |
 | 2025.07 - 2026.06 | Multiresolution Taxi Demand Prediction using Spatiotemporal Graph Neural Networks | 36,000 | PI | LU |
-| 2025.06 - 2026.06 | Generative AI and Human Dynamics: Shaping the Future of Human-AI Collaboration 2025 | 90,000 | PI | JHMUA Open Bid Fund |
+| 2025.06 - 2026.06 | Generative AI and Human Dynamics: Shaping the Future of Human-AI Collaboration 2025 | 90,000 | PI | JHMUA |
 | 2025.02 - 2026.01 | Advancing Personality-Aware Conversational AI: Dataset Development and Dialogue Transformation Using Large Language Models | 50,000 | PI | LU |
 | 2025.01 - 2026.07 | Unveiling a New Era of Mobile Crowdsensing: Balancing Privacy and Utility via Context-Aware Techniques | 100,000 | PI | LU |
 | 2024.07 - 2025.12 | Robust Volatile Traffic Demand Prediction: When deep learning meets mobile crowdsensing | 50,000 | PI | LU |
