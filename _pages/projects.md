@@ -60,7 +60,7 @@ As PI and Co-PI, I have secured a total of **5.5M HKD** over funded projects, sp
 
 | Period | Project | Amount (HKD) | Role | Funder |
 | --- | --- | ---: | --- | --- |
-| 2026.10 - 2027.12 | Research Matching Grant | 195,652.25 | PI | RGC |
+| 2026.10 - 2027.12 | Research Matching Grant | 195,652 | PI | RGC |
 | 2026.10 - 2027.12 | Donation for AI-empowered Intelligent Automotive Diagnostic Services | 300,000 | PI | Industrial Donation |
 | 2026.08 - 2027.12 | Generative AI and Human Dynamics: Shaping the Future of Human-AI Collaboration 2026 | 65,000 | PI | JHMUA |
 | 2026.09 - 2027.08 | Prompt-Enhanced Logit Adaptation for Transferable Personality-Trait Steering in Large Language Models | 50,000 | PI | LU |
