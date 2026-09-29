@@ -132,7 +132,7 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 
 
 ### Open Positions  
-- **PhD students**: 2 quotas for 2027 Spring intake
+- **PhD students**: 3 quotas for 2027 Fall intake
 <!-- - **Postdoctoral fellows**: 1 quota left -->
 
 
