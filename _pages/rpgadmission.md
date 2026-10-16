@@ -22,7 +22,7 @@ h3 {
 </style>
 
 # [<img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 2.0em; vertical-align: middle;">](/a2hd) 
-### Why Join A2HD
+### Why A2HD?
 
 - **Clear research identity**: a focused agenda around adaptive AI, human dynamics, and real-world deployment
 - **Publication-oriented culture**: research aimed at strong journals and conferences in AI, data science, ubiquitous computing, and information systems
