@@ -115,6 +115,8 @@ Check out examples from our [Projects](/projects) and [Papers](/publications)
 - Mr. Li Shuxing (26 intake)
 - Mr. Liu Xinpeng (26 intake)
 - Mr. Bian You (26 intake)
+- Mr. Zuo Chenyu (27 Spring intake)
+- Mr. Wang Haopeng (27 Spring intake)
 
 ### Research Assistants
 - Mr. Zuo Chenyu
