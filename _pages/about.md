@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-Dr. Jiaxing Shen is an Assistant Professor in the Division of Artificial Intelligence at Lingnan University, where he directs the [Adaptive AI & Human Dynamics Lab](/a2hd) and serves as the founding Programme Director of the MSc in Data Science. His research focuses on human-centred AI, particularly adaptive intelligent systems grounded in an understanding of human behaviour and context.
+Dr. Jiaxing Shen is an Assistant Professor in the Division of Artificial Intelligence at Lingnan University, where he directs the [Adaptive AI & Human Dynamics (A2HD) Lab](/a2hd) and serves as the founding Programme Director of the MSc in Data Science. His research focuses on human-centred AI, particularly adaptive intelligent systems grounded in an understanding of human behaviour and context.
 
 His work brings together generative AI, dialogue systems, and mobile and ubiquitous computing to make intelligent systems more personalised, privacy-preserving, and trustworthy in real-world settings. Applications include education, healthcare, mobility, and intelligent services. His research has appeared in leading venues including ACM TOIS, IEEE TMC, IEEE TKDE, ICML, KDD, and The Web Conference, and has been recognised with Best Paper Awards at IEEE INFOCOM and IEEE ICNP, as well as a Gold Medal at the International Exhibition of Inventions Geneva.
 
