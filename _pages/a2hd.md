@@ -76,7 +76,7 @@ favicon: /images/a2hd-icon.png
         <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-users"></i></span>
         Human dynamics
       </h3>
-      <p>We study how speech and interaction patterns reveal individual traits and group behaviour. We use nonlinguistic audio for personality profiling, study how groups form and move in public spaces, and model how personality shapes emotion in dialogue.</p>
+      <p>How do people’s behaviour and needs change across situations? We study signals such as speech, movement, and patterns of interaction to model how individuals and groups behave. We test which patterns carry across settings and which depend on context, so services can adapt the timing and type of support they offer.</p>
     </div>
 
     <div class="a2hd-direction" id="adaptive-intelligence" tabindex="-1">
@@ -84,7 +84,7 @@ favicon: /images/a2hd-icon.png
         <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-sliders-h"></i></span>
         Adaptive intelligence
       </h3>
-      <p>We adapt language models to the user and the task. PeLA steers how a model expresses personality traits, MRM retrieves evidence in stages for questions that require multiple reasoning steps, and QAQ adjusts inference precision to the complexity of each query.</p>
+      <p>We design AI that adjusts to the user, the task, and the resources available. We develop ways to tailor responses, draw on relevant evidence, and vary how much computation a model spends on each request. We measure trade-offs among response quality, latency, and computing cost to understand where adaptation makes a system more useful.</p>
     </div>
 
     <div class="a2hd-direction" id="domain-specific-evaluation" tabindex="-1">
@@ -92,7 +92,7 @@ favicon: /images/a2hd-icon.png
         <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-clipboard-check"></i></span>
         Domain-specific evaluation
       </h3>
-      <p>We evaluate models on the tasks they will perform. LLM4Rail supports personalised railway services, AutoRepairBench tests automotive repair reasoning with models such as RepairLLM, and PreConfig automates network configuration. In CCC8015, we develop hints tailored to each student’s learning progress.</p>
+      <p>We work with domain experts to turn real tasks and operating constraints into evaluation protocols. We test how AI handles routine and difficult cases and examine which failures have practical consequences. This gives partners evidence to decide where a system can support their workflow and what needs improvement before deployment.</p>
     </div>
 
     <div class="a2hd-direction" id="privacy-and-trust" tabindex="-1">
@@ -100,7 +100,7 @@ favicon: /images/a2hd-icon.png
         <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-shield-alt"></i></span>
         Privacy &amp; trust
       </h3>
-      <p>Across our research, we study how models can unlearn trajectory data, how to watermark models trained through continuous prompt learning, and whether anonymous LLM sessions can be linked to the same person. In education, we compare AI-generated feedback across students to assess bias.</p>
+      <p>We study what AI systems retain or reveal about people, how to verify where models come from, and who may receive unfair results. We develop safeguards and test how well they protect people and how they affect system performance. This helps organisations choose protections suited to the data they handle and the decisions they support.</p>
     </div>
 
     <p class="a2hd-more">Explore our <a href="{{ '/projects' | relative_url }}">projects</a> and <a href="{{ '/publications' | relative_url }}">publications</a>.</p>
@@ -133,7 +133,7 @@ favicon: /images/a2hd-icon.png
 - Mr. Wu Ruiqing (26 intake)
 
 ### Alumni & Collaborators
-- [Dr. Miao Hao](https://haomiao.website/) (now Research Assistant Professor at The Hong Kong Polytechnic University)
+- [Dr. Miao Hao](https://haomiao.website/) (now Full Professor of Computer Science at the Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China)
 - [Mr. Zhao Haihong](https://haihongzhao.com/) (now PhD at HKUST)
 - Mr. Shen Yifei (now PhD at LU)
 - Mr. Gu Zepeng (now PhD at HKU)
