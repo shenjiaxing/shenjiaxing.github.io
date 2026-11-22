@@ -1,0 +1,319 @@
+.a2hd-overview {
+  --a2hd-ink: #243b4c;
+  --a2hd-blue: #205979;
+  --a2hd-muted: #4f616d;
+  --a2hd-gold: #735619;
+  text-align: start;
+}
+
+.a2hd-intro img {
+  display: block;
+  width: 6.75rem;
+  height: auto;
+  margin-block-end: 0.65rem;
+}
+
+.a2hd-intro h1 {
+  margin: 0 0 0.65rem;
+  font-size: clamp(1.5rem, 2.8vw, 2rem);
+  text-wrap: balance;
+}
+
+.a2hd-intro h1::before {
+  content: none;
+}
+
+.a2hd-intro h1 span {
+  display: inline-block;
+  margin-inline-start: 0.25em;
+  color: var(--a2hd-muted);
+  font-size: 0.68em;
+}
+
+.a2hd-intro p,
+.a2hd-direction p {
+  max-width: 72ch;
+  margin: 0;
+}
+
+.a2hd-overview a {
+  color: var(--a2hd-blue);
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
+.a2hd-intro a {
+  white-space: nowrap;
+}
+
+.a2hd-overview a:focus-visible {
+  outline: 2px solid var(--a2hd-blue);
+  outline-offset: 3px;
+}
+
+.a2hd-map {
+  --a2hd-flow-gap: clamp(1.95rem, 3vw, 2.7rem);
+  --a2hd-trust-gap: 1.55rem;
+  --a2hd-trust-line: #a98b51;
+  --a2hd-panel-shadow: 0 2px 5px rgba(36, 59, 76, 0.08), 0 6px 20px rgba(36, 59, 76, 0.12);
+  container: a2hd-map / inline-size;
+  display: block;
+  margin: 1.9rem 0 2.45rem;
+  color: var(--a2hd-ink);
+}
+
+.a2hd-map figcaption {
+  margin: 0 0 1.15rem;
+  color: inherit;
+  font-family: inherit;
+}
+
+.a2hd-map h2,
+.a2hd-map h3,
+.a2hd-directions h2,
+.a2hd-directions h3 {
+  margin: 0;
+  text-indent: 0;
+}
+
+.a2hd-map h2 {
+  font-size: clamp(1.22rem, 2.35vw, 1.65rem);
+  text-wrap: balance;
+}
+
+.a2hd-stages {
+  position: relative;
+  display: grid;
+  gap: var(--a2hd-flow-gap);
+  margin: 0 0 0 0.8rem;
+  padding: 0;
+  list-style: none;
+}
+
+/* The shared privacy connection runs along the side of the stacked stages. */
+.a2hd-stages::before {
+  position: absolute;
+  inset: 1.5rem auto calc(-1 * var(--a2hd-trust-gap)) -0.55rem;
+  border-inline-start: 1px dashed var(--a2hd-trust-line);
+  content: "";
+}
+
+.a2hd-stage,
+.a2hd-trust {
+  position: relative;
+  min-width: 0;
+  margin: 0;
+  padding: 1.05rem clamp(0.95rem, 1.5vw, 1.3rem);
+  border-radius: 0.55rem;
+  background: #fff;
+  box-shadow: var(--a2hd-panel-shadow);
+}
+
+.a2hd-stage::after {
+  position: absolute;
+  inset-block-start: 1.5rem;
+  inset-inline-start: -0.55rem;
+  width: 0.55rem;
+  border-block-start: 1px dashed var(--a2hd-trust-line);
+  content: "";
+}
+
+.a2hd-flow-arrow {
+  position: absolute;
+  inset-block-start: 100%;
+  inset-inline-start: 50%;
+  display: grid;
+  width: var(--a2hd-flow-gap);
+  height: var(--a2hd-flow-gap);
+  place-items: center;
+  color: var(--a2hd-blue);
+  font-size: 1.45rem;
+  line-height: 1;
+  transform: translateX(-50%) rotate(90deg);
+}
+
+.a2hd-panel-heading {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.55rem;
+}
+
+.a2hd-panel-letter {
+  display: inline-grid;
+  min-width: 1.15rem;
+  height: 1.3rem;
+  flex: 0 0 auto;
+  place-items: center;
+  color: var(--a2hd-blue);
+  font-size: 0.9rem;
+  font-weight: bold;
+  line-height: 1;
+}
+
+.a2hd-panel-heading h3 {
+  font-size: 1.07rem;
+  line-height: 1.24;
+  text-wrap: balance;
+}
+
+.a2hd-panel-heading p {
+  margin: 0.2rem 0 0;
+  color: var(--a2hd-muted);
+  font-size: 0.81rem;
+  line-height: 1.35;
+}
+
+.a2hd-panel-heading a {
+  text-decoration-color: #90aec1;
+}
+
+.a2hd-panel-heading a:hover {
+  text-decoration-color: currentColor;
+}
+
+.a2hd-map-items {
+  display: grid;
+  align-content: start;
+  gap: 0.75rem 1.2rem;
+  margin: 1rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.a2hd-map-items li {
+  margin: 0;
+  font-size: 0.93rem;
+  line-height: 1.32;
+}
+
+.a2hd-map-meta {
+  display: block;
+  margin-block-start: 0.15rem;
+  color: var(--a2hd-muted);
+  font-size: 0.82rem;
+}
+
+.a2hd-map-award {
+  color: var(--a2hd-gold);
+}
+
+.a2hd-trust {
+  margin-block-start: var(--a2hd-trust-gap);
+}
+
+.a2hd-trust .a2hd-panel-heading {
+  flex-wrap: wrap;
+}
+
+.a2hd-trust .a2hd-panel-letter,
+.a2hd-trust h3 a,
+.a2hd-panel-heading .a2hd-trust-scope,
+#privacy-and-trust .a2hd-panel-letter {
+  color: var(--a2hd-gold);
+}
+
+.a2hd-trust h3 a {
+  text-decoration-color: #b49a62;
+}
+
+.a2hd-panel-heading .a2hd-trust-scope {
+  align-self: center;
+  margin: 0 0 0 auto;
+}
+
+.a2hd-trust .a2hd-map-items {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+@container a2hd-map (max-width: 17rem) {
+  .a2hd-trust .a2hd-map-items {
+    grid-template-columns: 1fr;
+  }
+}
+
+@container a2hd-map (min-width: 43rem) {
+  .a2hd-stages {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0 var(--a2hd-flow-gap);
+    margin-inline-start: 0;
+  }
+
+  /* Span the centres of the outer stages and connect the middle to the band. */
+  .a2hd-stages::before {
+    inset-block-start: auto;
+    inset-block-end: calc(-0.5 * var(--a2hd-trust-gap));
+    inset-inline: calc((100% - 2 * var(--a2hd-flow-gap)) / 6);
+    border-block-start: 1px dashed var(--a2hd-trust-line);
+    border-inline-start: 0;
+  }
+
+  .a2hd-stage {
+    display: grid;
+    grid-row: span 2;
+    grid-template-rows: subgrid;
+  }
+
+  .a2hd-stage::after,
+  .a2hd-trust::before {
+    position: absolute;
+    inset-inline-start: 50%;
+    width: 0;
+    height: calc(0.5 * var(--a2hd-trust-gap) + 1px);
+    border-block-start: 0;
+    border-inline-start: 1px dashed var(--a2hd-trust-line);
+    content: "";
+  }
+
+  .a2hd-stage::after {
+    inset-block-start: 100%;
+  }
+
+  .a2hd-trust::before {
+    inset-block-end: 100%;
+  }
+
+  .a2hd-flow-arrow {
+    inset-block-start: 50%;
+    inset-inline-start: 100%;
+    transform: translateY(-50%);
+  }
+
+  .a2hd-trust .a2hd-map-items {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+.a2hd-directions h2 {
+  margin-block-end: 0.4rem;
+}
+
+.a2hd-direction {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem 1.4rem;
+  padding-block: 0.7rem;
+  scroll-margin-top: 4rem;
+}
+
+.a2hd-direction h3 {
+  display: flex;
+  align-items: baseline;
+  flex: 0 1 15rem;
+  gap: 0.55rem;
+  color: var(--a2hd-ink);
+  font-size: 1rem;
+}
+
+.a2hd-direction p {
+  flex: 1 1 24rem;
+}
+
+.a2hd-direction:target h3 {
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
+.a2hd-more {
+  margin: 0.65rem 0 0;
+}

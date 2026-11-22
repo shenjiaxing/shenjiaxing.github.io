@@ -54,50 +54,43 @@ author_profile: true
 }
 </style>
 
-# <img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 2.0em; vertical-align: middle;"> 
-# Adaptive AI & Human Dynamics Lab 智動實驗室
+<link rel="stylesheet" href="{{ '/assets/css/a2hd.css' | relative_url }}">
 
-Our lab studies **human-centered AI**. We build adaptive intelligent systems that combine rigorous machine learning with real-world understanding of human behaviour, context, and decision-making. [Join Us Now!](/rpgadmission)
+<div class="a2hd-overview">
+  <header class="a2hd-intro">
+    <img src="{{ '/images/a2hd%20logo.png' | relative_url }}" alt="" width="720" height="263">
+    <h1>Adaptive AI &amp; Human Dynamics Lab <span lang="zh-Hant">智動實驗室</span></h1>
+    <p>We study human-centred AI at Lingnan University, combining machine learning with research on how people behave, interact, and make decisions. <a href="{{ '/rpgadmission' | relative_url }}">Join the lab</a>.</p>
+  </header>
 
+  {% include a2hd-research-map.html %}
 
-<!-- Our work spans **generative AI, dialogue systems, mobile and ubiquitous computing, context-aware intelligence, and intelligent services**, with applications in **personalized systems, education, healthcare, transportation, and smart cities**. -->
+  <section class="a2hd-directions" aria-labelledby="research-directions">
+    <h2 id="research-directions">Research directions</h2>
 
-### Questions We Answer
-1. How do we model human dynamics and context well enough to adapt systems to real people?  
-2. How do we make those adaptive systems trustworthy—privacy-preserving, fair, robust, and deployable?  
-3. How do we turn them into working applications in mobility, education, healthcare, and intelligent services?  
+    <div class="a2hd-direction" id="human-dynamics" tabindex="-1">
+      <h3><span class="a2hd-panel-letter" aria-hidden="true">a</span> Human dynamics</h3>
+      <p>We study how speech and interaction patterns reveal individual traits and group behaviour. We use nonlinguistic audio for personality profiling, study how groups form and move in public spaces, and model how personality shapes emotion in dialogue.</p>
+    </div>
 
-### Research Themes
+    <div class="a2hd-direction" id="adaptive-intelligence" tabindex="-1">
+      <h3><span class="a2hd-panel-letter" aria-hidden="true">b</span> Adaptive intelligence</h3>
+      <p>We adapt language models to the user and the task. PeLA steers how a model expresses personality traits, MRM retrieves evidence in stages for questions that require multiple reasoning steps, and QAQ adjusts inference precision to the complexity of each query.</p>
+    </div>
 
-1. **Adaptive and Personality-Aware LLMs**
-We study how large language models can be adapted to user traits, task requirements, and domain constraints. This includes personality-aware dialogue systems, adaptive persona prompting, task-dependent model behaviour, and efficient control of reasoning style.
+    <div class="a2hd-direction" id="domain-specific-evaluation" tabindex="-1">
+      <h3><span class="a2hd-panel-letter" aria-hidden="true">c</span> Domain-specific evaluation</h3>
+      <p>We evaluate models on the tasks they will perform. LLM4Rail supports personalised railway services, AutoRepairBench tests automotive repair reasoning with models such as RepairLLM, and PreConfig automates network configuration. In CCC8015, we develop hints tailored to each student’s learning progress.</p>
+    </div>
 
-1. **Trustworthy Generative AI**
-We investigate bias, robustness, privacy, and safety in generative AI systems, especially when models are deployed in education and human-facing decision support.
+    <div class="a2hd-direction" id="privacy-and-trust" tabindex="-1">
+      <h3><span class="a2hd-panel-letter" aria-hidden="true">d</span> Privacy &amp; trust</h3>
+      <p>Across our research, we study how models can unlearn trajectory data, how to watermark models trained through continuous prompt learning, and whether anonymous LLM sessions can be linked to the same person. In education, we compare AI-generated feedback across students to assess bias.</p>
+    </div>
 
-1. **Human Dynamics and Context-Aware Intelligence**
-We develop models and systems for understanding human behaviour from heterogeneous signals, with emphasis on context awareness, privacy preservation, and actionable insights.
-
-1. **Intelligent Services for Real-World Domains**
-We design AI systems for practical domains such as personalized learning, mobility, healthcare, and automotive diagnostic services.
-
-Check out examples from our [Projects](/projects) and [Papers](/publications)
-
-<!-- ## Why Join A2HD
-
-- **Clear research identity**: a focused agenda around adaptive AI, human dynamics, and real-world deployment
-- **Publication-oriented culture**: research aimed at strong journals and conferences in AI, data science, ubiquitous computing, and information systems
-- **Funded research directions**: active projects across generative AI, privacy-preserving analytics, knowledge graphs, transportation, and intelligent services
-- **Real-world resources**: access to computing infrastructure and application-driven datasets
-- **Close mentorship**: a growing lab where students and fellows can help shape new directions from an early stage
-
-## Selected Strengths
-
-- Research published in venues such as ACM TOIS, IEEE TMC, IEEE TKDE, WWW, and IEEE INFOCOM
-- Best Paper Awards at IEEE INFOCOM and ICNP
-- Interdisciplinary environment within Lingnan University’s School of Data Science -->
-
-
+    <p class="a2hd-more">Explore our <a href="{{ '/projects' | relative_url }}">projects</a> and <a href="{{ '/publications' | relative_url }}">publications</a>.</p>
+  </section>
+</div>
 
 # Lab Members
 
