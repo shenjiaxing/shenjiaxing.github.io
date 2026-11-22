@@ -59,8 +59,10 @@ favicon: /images/a2hd-icon.png
 
 <div class="a2hd-overview">
   <header class="a2hd-intro">
-    <img src="{{ '/images/a2hd%20logo.png' | relative_url }}" alt="" width="720" height="263">
-    <h1>Adaptive AI &amp; Human Dynamics Lab <span lang="zh-Hant">智動實驗室</span></h1>
+    <div class="a2hd-intro-heading">
+      <h1>Adaptive AI &amp; Human Dynamics Lab <span lang="zh-Hant">智動實驗室</span></h1>
+      <img src="{{ '/images/a2hd%20logo.png' | relative_url }}" alt="" width="720" height="263">
+    </div>
     <p>We study human-centred AI at Lingnan University, combining machine learning with research on how people behave, interact, and make decisions. <a href="{{ '/rpgadmission' | relative_url }}">Join the lab</a>.</p>
   </header>
 

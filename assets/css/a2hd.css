@@ -2,15 +2,23 @@
   text-align: start;
 }
 
-.a2hd-intro img {
-  display: block;
-  width: 6.75rem;
-  height: auto;
+.a2hd-intro-heading {
+  display: flex;
+  align-items: center;
+  gap: clamp(0.5rem, 2vw, 1rem);
   margin-block-end: 0.65rem;
 }
 
+.a2hd-intro-heading img {
+  display: block;
+  flex: none;
+  width: clamp(3.75rem, 10vw, 6.75rem);
+  height: auto;
+}
+
 .a2hd-intro h1 {
-  margin: 0 0 0.65rem;
+  min-width: 0;
+  margin: 0;
   font-size: clamp(1.5rem, 2.8vw, 2rem);
   text-wrap: balance;
 }
@@ -101,7 +109,7 @@
   position: relative;
   min-width: 0;
   margin: 0;
-  padding: 1.05rem clamp(0.95rem, 1.5vw, 1.3rem);
+  padding: 1.05rem clamp(0.95rem, 1.5vw, 1rem);
   border-radius: 0.55rem;
   background: #fff;
   box-shadow: var(--a2hd-panel-shadow);
@@ -132,7 +140,7 @@
 .a2hd-panel-heading {
   display: flex;
   align-items: flex-start;
-  gap: 0.55rem;
+  gap: 0.4rem;
 }
 
 .a2hd-panel-marker {
@@ -146,15 +154,15 @@
 }
 
 .a2hd-panel-heading h3 {
-  font-size: 1.07rem;
-  line-height: 1.24;
+  font-size: 1rem;
+  line-height: 1.3;
   text-wrap: balance;
 }
 
-.a2hd-panel-heading p {
-  margin: 0.2rem 0 0;
-  font-size: 0.81rem;
-  line-height: 1.35;
+.a2hd-title-translation {
+  font-size: 0.73em;
+  font-weight: normal;
+  white-space: nowrap;
 }
 
 .a2hd-map-items {
@@ -186,9 +194,11 @@
   flex-wrap: wrap;
 }
 
-.a2hd-panel-heading .a2hd-trust-scope {
+.a2hd-trust-scope {
   align-self: center;
   margin: 0 0 0 auto;
+  font-size: 0.81rem;
+  line-height: 1.35;
 }
 
 .a2hd-trust .a2hd-map-items {
@@ -201,7 +211,23 @@
   }
 }
 
+@container a2hd-map (max-width: 23rem) {
+  .a2hd-stage {
+    padding-inline: 0.75rem;
+  }
+
+  .a2hd-panel-heading h3 {
+    font-size: clamp(0.86rem, 4.5cqi, 1rem);
+  }
+}
+
 @container a2hd-map (min-width: 43rem) {
+  .a2hd-trust .a2hd-map-items {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@container a2hd-map (min-width: 68rem) {
   .a2hd-stages {
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 0 var(--a2hd-flow-gap);
@@ -246,10 +272,6 @@
     inset-block-start: 50%;
     inset-inline-start: 100%;
     transform: translateY(-50%);
-  }
-
-  .a2hd-trust .a2hd-map-items {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }
 
