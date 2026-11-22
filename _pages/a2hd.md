@@ -70,22 +70,31 @@ favicon: /images/a2hd-icon.png
     <h2 id="research-directions">Research directions</h2>
 
     <div class="a2hd-direction" id="human-dynamics" tabindex="-1">
-      <h3><span class="a2hd-panel-letter" aria-hidden="true">a</span> Human dynamics</h3>
+      <h3>
+        <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-users"></i></span>
+        Human dynamics
+      </h3>
       <p>We study how speech and interaction patterns reveal individual traits and group behaviour. We use nonlinguistic audio for personality profiling, study how groups form and move in public spaces, and model how personality shapes emotion in dialogue.</p>
     </div>
 
     <div class="a2hd-direction" id="adaptive-intelligence" tabindex="-1">
-      <h3><span class="a2hd-panel-letter" aria-hidden="true">b</span> Adaptive intelligence</h3>
+      <h3>
+        <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-sliders-h"></i></span>
+        Adaptive intelligence
+      </h3>
       <p>We adapt language models to the user and the task. PeLA steers how a model expresses personality traits, MRM retrieves evidence in stages for questions that require multiple reasoning steps, and QAQ adjusts inference precision to the complexity of each query.</p>
     </div>
 
     <div class="a2hd-direction" id="domain-specific-evaluation" tabindex="-1">
-      <h3><span class="a2hd-panel-letter" aria-hidden="true">c</span> Domain-specific evaluation</h3>
+      <h3>
+        <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-clipboard-check"></i></span>
+        Domain-specific evaluation
+      </h3>
       <p>We evaluate models on the tasks they will perform. LLM4Rail supports personalised railway services, AutoRepairBench tests automotive repair reasoning with models such as RepairLLM, and PreConfig automates network configuration. In CCC8015, we develop hints tailored to each student’s learning progress.</p>
     </div>
 
     <div class="a2hd-direction" id="privacy-and-trust" tabindex="-1">
-      <h3><span class="a2hd-panel-letter" aria-hidden="true">d</span> Privacy &amp; trust</h3>
+      <h3><span class="a2hd-panel-marker" aria-hidden="true">d</span> Privacy &amp; trust</h3>
       <p>Across our research, we study how models can unlearn trajectory data, how to watermark models trained through continuous prompt learning, and whether anonymous LLM sessions can be linked to the same person. In education, we compare AI-generated feedback across students to assess bias.</p>
     </div>
 
