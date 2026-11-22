@@ -94,7 +94,10 @@ favicon: /images/a2hd-icon.png
     </div>
 
     <div class="a2hd-direction" id="privacy-and-trust" tabindex="-1">
-      <h3><span class="a2hd-panel-marker" aria-hidden="true">d</span> Privacy &amp; trust</h3>
+      <h3>
+        <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-shield-alt"></i></span>
+        Privacy &amp; trust
+      </h3>
       <p>Across our research, we study how models can unlearn trajectory data, how to watermark models trained through continuous prompt learning, and whether anonymous LLM sessions can be linked to the same person. In education, we compare AI-generated feedback across students to assess bias.</p>
     </div>
 
