@@ -3,7 +3,6 @@ permalink: /a2hd
 title: ""
 excerpt: ""
 author_profile: true
-favicon: /images/a2hd-icon.png
 ---
 <style>
 

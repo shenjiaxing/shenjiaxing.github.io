@@ -3,7 +3,6 @@ permalink: /rpgadmission
 title: "Join the A2HD Lab"
 excerpt: "PhD and postdoctoral opportunities in human-centred AI at Lingnan University."
 author_profile: true
-favicon: /images/a2hd-icon.png
 ---
 
 {% assign lab_url = '/a2hd' | relative_url %}
