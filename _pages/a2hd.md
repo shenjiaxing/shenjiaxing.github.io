@@ -142,7 +142,7 @@ favicon: /images/a2hd-icon.png
 
 
 ### Open Positions  
-- **PhD students**: 3 quotas for 2027 Fall intake
+- **PhD students**: {{ site.data.a2hd_recruitment.phd_opening }}
 <!-- - **Postdoctoral fellows**: 1 quota left -->
 
 

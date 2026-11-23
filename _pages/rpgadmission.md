@@ -1,100 +1,119 @@
 ---
 permalink: /rpgadmission
-title: ""
-excerpt: ""
+title: "Join the A2HD Lab"
+excerpt: "PhD and postdoctoral opportunities in human-centred AI at Lingnan University."
 author_profile: true
+favicon: /images/a2hd-icon.png
 ---
 
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-  padding: 0.3em;
-}
+{% assign lab_url = '/a2hd' | relative_url %}
+{% assign recruitment = site.data.a2hd_recruitment %}
+{% assign phd_subject = 'RPG Application – Your Name – Research Area' %}
+{% assign phd_subject_encoded = phd_subject | url_encode | replace: '+', '%20' %}
 
-h3 {
-    padding-left: 0;
-    text-indent: 0;
-    margin-bottom: 0.0rem;
-    padding-bottom: -0.3em;
-}
+<link rel="stylesheet" href="{{ '/assets/css/a2hd.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/rpgadmission.css' | relative_url }}">
 
-</style>
+<div class="a2hd-overview recruitment">
+  <header class="a2hd-intro">
+    <div class="a2hd-intro-heading">
+      <h1>{{ page.title }}</h1>
+      <img src="{{ '/images/a2hd%20logo.png' | relative_url }}" alt="" width="720" height="263">
+    </div>
+    <p>At Lingnan University’s <a href="{{ lab_url }}" target="_self">Adaptive AI &amp; Human Dynamics Lab</a>, we study how people behave and build AI that adapts to their needs in real settings.</p>
+  </header>
 
-# [<img src="/images/a2hd%20logo.png" alt="A2HD Lab logo" style="height: 2.0em; vertical-align: middle;">](/a2hd) 
-### Why A2HD?
+  <nav class="recruitment-grid recruitment-opportunities" aria-label="Opportunities">
+    <a class="recruitment-card recruitment-opportunity" href="#phd-opportunities" target="_self" data-ss-opts='{"excludeWithin":[".recruitment-opportunities"]}'>
+      <span class="recruitment-role">
+        <span>PhD opportunities</span>
+        <span aria-hidden="true">↓</span>
+      </span>
+      <span>{{ recruitment.phd_opening }}</span>
+    </a>
+    <a class="recruitment-card recruitment-opportunity" href="#postdoc-opportunities" target="_self" data-ss-opts='{"excludeWithin":[".recruitment-opportunities"]}'>
+      <span class="recruitment-role">
+        <span>Postdoctoral opportunities</span>
+        <span aria-hidden="true">↓</span>
+      </span>
+      <span>Enquire about current openings</span>
+    </a>
+  </nav>
 
-- **Clear research identity**: a focused agenda around adaptive AI, human dynamics, and real-world deployment
-- **Publication-oriented culture**: research aimed at strong journals and conferences in AI, data science, ubiquitous computing, and information systems
-- **Funded research directions**: active projects across generative AI, privacy-preserving analytics, knowledge graphs, transportation, and intelligent services
-- **Real-world resources**: access to computing infrastructure and application-driven datasets
-- **Close mentorship**: a growing lab where students and fellows can help shape new directions from an early stage
+  <section class="recruitment-section" aria-labelledby="research-directions">
+    <h2 id="research-directions">Research directions</h2>
+    <ul class="recruitment-grid" role="list">
+      <li class="recruitment-card recruitment-direction">
+        <h3>
+          <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-users"></i></span>
+          <a href="{{ lab_url }}#human-dynamics" target="_self">Human dynamics</a>
+        </h3>
+        <p>Study speech, movement, and interaction to understand how people’s behaviour and needs change across settings.</p>
+      </li>
+      <li class="recruitment-card recruitment-direction">
+        <h3>
+          <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-sliders-h"></i></span>
+          <a href="{{ lab_url }}#adaptive-intelligence" target="_self">Adaptive intelligence</a>
+        </h3>
+        <p>Build AI that adapts to users, tasks, and computing constraints. Explore how language models can draw on relevant knowledge and adjust how much computation they use for each task.</p>
+      </li>
+      <li class="recruitment-card recruitment-direction">
+        <h3>
+          <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-clipboard-check"></i></span>
+          <a href="{{ lab_url }}#domain-specific-evaluation" target="_self">Domain-specific evaluation</a>
+        </h3>
+        <p>Work with domain experts to evaluate how AI handles real tasks and difficult cases in areas such as education, mobility, and intelligent services.</p>
+      </li>
+      <li class="recruitment-card recruitment-direction">
+        <h3>
+          <span class="a2hd-panel-marker" aria-hidden="true"><i class="fas fa-shield-alt"></i></span>
+          <a href="{{ lab_url }}#privacy-and-trust" target="_self">Privacy &amp; trust</a>
+        </h3>
+        <p>Develop and test ways to protect personal data, verify where models come from, and measure how fairly AI serves different groups.</p>
+      </li>
+    </ul>
+  </section>
 
-### Selected Strengths
+  <section class="recruitment-section" aria-labelledby="why-a2hd">
+    <h2 id="why-a2hd">Why A2HD?</h2>
+    <p id="what-you-can-expect">You’ll receive close mentorship in Lingnan University’s School of Data Science and have access to computing resources and datasets from applied projects. You can shape your own research questions, contribute to funded projects, and develop your work for peer-reviewed publication.</p>
+    <p id="selected-strengths">Our work has appeared in ACM TOIS, IEEE TMC, IEEE TKDE, The Web Conference, and IEEE INFOCOM, and has received Best Paper Awards at IEEE INFOCOM and IEEE ICNP. Explore our <a href="{{ '/projects' | relative_url }}" target="_self">projects</a> and <a href="{{ '/publications' | relative_url }}" target="_self">publications</a>.</p>
+  </section>
 
-  - Research published in venues such as ACM TOIS, IEEE TMC, IEEE TKDE, WWW, and IEEE INFOCOM
-  - Best Paper Awards at IEEE INFOCOM and ICNP
-  - Interdisciplinary environment within Lingnan University’s School of Data Science
-  
-# PhD Opportunities 
+  <section class="recruitment-section" aria-labelledby="phd-opportunities">
+    <h2 id="phd-opportunities" tabindex="-1">PhD opportunities</h2>
+    <p id="a-good-fit-for-this-position">We welcome applicants who enjoy building systems, connecting machine learning to questions about people and their needs, and carrying a research idea through evaluation and writing.</p>
 
-We are recruiting **self-motivated research postgraduate students** who want to work on human-centered AI, adaptive large language models, and intelligent systems for real-world applications.
+    <h3 id="what-we-look-for">What we look for</h3>
+    <ul>
+      <li>A strong undergraduate or master’s background in computer science, data science, artificial intelligence, statistics, or a related field.</li>
+      <li>Solid programming skills and experience implementing technical ideas.</li>
+      <li>Evidence of research potential through a thesis, publications, internships, competitions, or substantial projects.</li>
+      <li>Motivation for sustained research and clear written and spoken English.</li>
+    </ul>
 
-### What We Look For
-Successful applicants typically have:
-  - A strong bachelor’s and/or master’s background in Computer Science, Data Science, Artificial Intelligence, Statistics, or related areas
-  - Solid programming and implementation ability
-  - Research potential shown through thesis work, publications, internships, competitions, or substantial projects
-  - Strong motivation for long-term research and scientific writing
-  - Good written and spoken English; TOEFL/IELTS is required for non-native speakers when applicable
+    <div class="recruitment-card recruitment-application">
+      <h3 id="how-to-apply">How to apply</h3>
+      <p>Email Dr. Jiaxing Shen at <a href="mailto:{{ site.author.email }}?subject={{ phd_subject_encoded }}" target="_self">{{ site.author.email }}</a> with the following materials.</p>
+      <ol>
+        <li>A CV highlighting relevant coursework, research experience, and technical skills.</li>
+        <li>Transcripts for all degree programmes, with class ranking if available.</li>
+        <li>A one-page statement explaining what you want to investigate and how it fits the lab’s research.</li>
+        <li>Representative publications, thesis chapters, or writing samples, if available.</li>
+      </ol>
+      <p>It helps to use the subject line <strong>{{ phd_subject }}</strong> and include a short paragraph on why you want to join A2HD.</p>
+      <p>We may invite shortlisted candidates to discuss research fit. For the formal application, see Lingnan University’s <a href="https://www.ln.edu.hk/rpg/admission/requirement/admission-criteria-and-requirements">eligibility and English-language requirements</a> and <a href="https://www.ln.edu.hk/rpg/admission/application-for-admission">application routes and deadlines</a>.</p>
+    </div>
+  </section>
 
-### What You Can Expect
-
-- Close supervision in a focused and growing research group
-- Training for publication-oriented research
-- Opportunities to work on both foundational and applied AI problems
-- Access to computing resources and application-driven datasets
-- An interdisciplinary environment connected to Lingnan University’s School of Data Science
-
-### How to Apply
-
-Please email the following materials to **jiaxingshen@LN.edu.hk**:
-
-1. A CV highlighting relevant coursework, research experience, and technical skills
-2. Academic transcripts for all degree programs, with class ranking if available
-3. A one-page research statement describing your interests and fit with A2HD
-4. Representative publications, thesis chapters, or writing samples, if available
-
-It is helpful if your email also includes:
-
-- The subject line **“RPG Application – Your Name – Research Area”**
-- A short paragraph explaining why you are interested in A2HD
-
-After an initial discussion, shortlisted candidates may be invited to proceed with the formal university application.
-
-### A Good Fit for This Position
-
-You may be a strong fit if you enjoy:
-
-- Building systems instead of only running benchmarks
-- Connecting machine learning with real-world human and domain problems
-- Working across models, data, evaluation, and deployment questions
-- Turning research ideas into publishable, well-executed work
-
-
-# Postdoc Opportunities
-
-1. Research-focused environment  
-This position offers the opportunity to pursue ambitious research in a well-resourced academic setting, with strong support for publication-oriented work and limited administrative burden.
-
-1. Computational resources  
-- Access to high-performance computing infrastructure, including at least 8 NVIDIA H100 NVL 94GB GPUs, to support large-scale machine learning and data-intensive research
-
-1. Data resources  
-- Mobility datasets for transportation and movement-pattern research  
-- Automotive repair datasets for predictive maintenance and related applications  
-- Multi-domain datasets supporting interdisciplinary research
-
-1. Compensation  
-- Competitive remuneration commensurate with qualifications and experience
-
+  <section class="recruitment-section" aria-labelledby="postdoc-opportunities">
+    <h2 id="postdoc-opportunities" tabindex="-1">Postdoctoral opportunities</h2>
+    <p>Postdoctoral fellows pursue independent and collaborative research with an emphasis on publication and limited administrative duties.</p>
+    <ul>
+      <li><strong>Computing.</strong> Access to high-performance computing, including at least eight NVIDIA H100 NVL GPUs with 94 GB of memory each.</li>
+      <li><strong>Data.</strong> Mobility datasets for transportation research, automotive repair data for predictive maintenance, and datasets for interdisciplinary projects.</li>
+      <li><strong>Remuneration.</strong> Competitive compensation based on qualifications and experience.</li>
+    </ul>
+    <p>To ask about current openings and research fit, <a href="mailto:{{ site.author.email }}?subject=Postdoctoral%20Enquiry" target="_self">email Dr. Jiaxing Shen</a>.</p>
+  </section>
+</div>
