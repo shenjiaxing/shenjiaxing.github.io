@@ -1,0 +1,96 @@
+.recruitment {
+  --recruitment-shadow: 0 2px 5px rgba(36, 59, 76, 0.08), 0 6px 20px rgba(36, 59, 76, 0.12);
+  container-type: inline-size;
+}
+
+.recruitment h2,
+.recruitment h3 {
+  text-indent: 0;
+}
+
+.recruitment h2 {
+  margin: 0 0 0.75rem;
+  font-size: clamp(1.25rem, 2vw, 1.5rem);
+}
+
+.recruitment h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1rem;
+}
+
+.recruitment p {
+  max-width: 72ch;
+}
+
+.recruitment [id] {
+  scroll-margin-top: 4rem;
+}
+
+.recruitment .a2hd-intro a {
+  white-space: normal;
+}
+
+.recruitment-section {
+  margin-block: clamp(1.8rem, 3vw, 2.5rem);
+}
+
+.recruitment-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@container (min-width: 36rem) {
+  .recruitment-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.recruitment-card {
+  padding: clamp(0.85rem, 2vw, 1.2rem);
+  border-radius: 0.65rem;
+  background: white;
+  box-shadow: var(--recruitment-shadow);
+}
+
+.recruitment-opportunities {
+  margin-block-start: 1.35rem;
+}
+
+.recruitment .recruitment-opportunity {
+  color: inherit;
+  text-decoration: none;
+}
+
+.recruitment-role {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.65rem;
+  margin-block-end: 0.2rem;
+  color: var(--url);
+  font-weight: bold;
+}
+
+.recruitment-opportunity:hover .recruitment-role,
+.recruitment-opportunity:focus-visible .recruitment-role {
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+}
+
+.recruitment-direction h3 {
+  display: flex;
+  align-items: baseline;
+  gap: 0.55rem;
+}
+
+.recruitment-direction p,
+.recruitment-application p:last-child {
+  margin-block-end: 0;
+}
+
+.recruitment-application {
+  margin-block-start: 1.35rem;
+}
